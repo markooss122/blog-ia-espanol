@@ -7,7 +7,7 @@ interface AdUnitProps {
 }
 
 export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnitProps) {
-  const publisherId = 'ca-pub-XXXXXXXXXX'
+  const publisherId = 'ca-pub-2587597281292784'
 
   if (publisherId === 'ca-pub-XXXXXXXXXX') {
     return (
