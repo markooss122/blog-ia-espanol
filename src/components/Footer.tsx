@@ -2,54 +2,50 @@ import Link from 'next/link'
 
 export default function Footer() {
   return (
-    <footer className="border-t border-zinc-200 mt-20 bg-white">
-      <div className="max-w-4xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
-          <div className="col-span-2 md:col-span-1">
+    <footer className="bg-zinc-900 text-zinc-400 mt-12">
+      <div className="max-w-6xl mx-auto px-4 py-10">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-8 mb-8">
+
+          {/* Marca */}
+          <div className="col-span-2">
             <div className="flex items-center gap-2 mb-3">
-              <span className="w-6 h-6 rounded-md bg-indigo-600 flex items-center justify-center text-white text-xs font-bold">IA</span>
-              <span className="font-semibold text-zinc-900 text-sm">IA en Español</span>
+              <span className="w-7 h-7 rounded-lg bg-blue-600 flex items-center justify-center text-white text-xs font-bold">IA</span>
+              <span className="font-bold text-white text-base" style={{ fontFamily: 'Newsreader, Georgia, serif' }}>IA en Español</span>
             </div>
-            <p className="text-xs text-zinc-400 leading-relaxed">
-              Guías prácticas sobre inteligencia artificial en español. Sin tecnicismos innecesarios.
+            <p className="text-xs leading-relaxed text-zinc-500 max-w-xs">
+              El blog de referencia sobre inteligencia artificial en español. Guías prácticas, comparativas y tutoriales sin tecnicismos innecesarios.
             </p>
           </div>
 
           <div>
-            <p className="text-xs font-semibold text-zinc-500 uppercase tracking-wider mb-3">Contenido</p>
+            <p className="text-[10px] font-bold tracking-widest text-zinc-500 uppercase mb-3">Secciones</p>
             <nav className="space-y-2">
-              <Link href="/" className="block text-xs text-zinc-400 hover:text-zinc-700 transition-colors">Inicio</Link>
-              <Link href="/sobre-nosotros" className="block text-xs text-zinc-400 hover:text-zinc-700 transition-colors">Sobre nosotros</Link>
-              <Link href="/contacto" className="block text-xs text-zinc-400 hover:text-zinc-700 transition-colors">Contacto</Link>
+              {['Comparativas', 'Tutoriales', 'Herramientas', 'Automatización', 'Novedades'].map(c => (
+                <Link key={c} href={`/?cat=${c}`} className="block text-xs text-zinc-500 hover:text-white transition-colors">{c}</Link>
+              ))}
             </nav>
           </div>
 
           <div>
-            <p className="text-xs font-semibold text-zinc-500 uppercase tracking-wider mb-3">Categorías</p>
+            <p className="text-[10px] font-bold tracking-widest text-zinc-500 uppercase mb-3">Nosotros</p>
             <nav className="space-y-2">
-              <span className="block text-xs text-zinc-400">Comparativas</span>
-              <span className="block text-xs text-zinc-400">Tutoriales</span>
-              <span className="block text-xs text-zinc-400">Herramientas</span>
-              <span className="block text-xs text-zinc-400">Automatización</span>
+              <Link href="/sobre-nosotros" className="block text-xs text-zinc-500 hover:text-white transition-colors">Sobre nosotros</Link>
+              <Link href="/contacto" className="block text-xs text-zinc-500 hover:text-white transition-colors">Contacto</Link>
             </nav>
           </div>
 
           <div>
-            <p className="text-xs font-semibold text-zinc-500 uppercase tracking-wider mb-3">Legal</p>
+            <p className="text-[10px] font-bold tracking-widest text-zinc-500 uppercase mb-3">Legal</p>
             <nav className="space-y-2">
-              <Link href="/privacidad" className="block text-xs text-zinc-400 hover:text-zinc-700 transition-colors">Política de Privacidad</Link>
-              <Link href="/aviso-legal" className="block text-xs text-zinc-400 hover:text-zinc-700 transition-colors">Aviso Legal</Link>
+              <Link href="/privacidad" className="block text-xs text-zinc-500 hover:text-white transition-colors">Política de privacidad</Link>
+              <Link href="/aviso-legal" className="block text-xs text-zinc-500 hover:text-white transition-colors">Aviso legal</Link>
             </nav>
           </div>
         </div>
 
-        <div className="pt-6 border-t border-zinc-100 flex flex-col md:flex-row justify-between items-center gap-2">
-          <p className="text-xs text-zinc-400">
-            © {new Date().getFullYear()} IA en Español. Todos los derechos reservados.
-          </p>
-          <p className="text-xs text-zinc-300">
-            Hecho con Next.js · Desplegado en Vercel
-          </p>
+        <div className="pt-6 border-t border-zinc-800 flex flex-col md:flex-row justify-between items-center gap-2">
+          <p className="text-[11px] text-zinc-600">© {new Date().getFullYear()} IA en Español. Todos los derechos reservados.</p>
+          <p className="text-[11px] text-zinc-700">Este sitio utiliza cookies y publicidad de Google AdSense — <Link href="/privacidad" className="hover:text-zinc-500 transition-colors underline">Política de privacidad</Link></p>
         </div>
       </div>
     </footer>

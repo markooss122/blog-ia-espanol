@@ -1,11 +1,8 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
-
-const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
@@ -13,16 +10,13 @@ export const metadata: Metadata = {
     template: '%s | IA en Español',
   },
   description: 'Guías, comparativas y tutoriales sobre herramientas de inteligencia artificial en español. ChatGPT, Claude, Gemini, n8n y más.',
-  metadataBase: new URL('https://tu-dominio.com'),
+  metadataBase: new URL('https://ia-en-espanol.vercel.app'),
   openGraph: {
     type: 'website',
     locale: 'es_ES',
     siteName: 'IA en Español',
   },
-  robots: {
-    index: true,
-    follow: true,
-  },
+  robots: { index: true, follow: true },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -36,9 +30,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           strategy="afterInteractive"
         />
       </head>
-      <body className={`${inter.className} bg-gray-50 min-h-screen`}>
+      <body className="bg-zinc-50 min-h-screen">
         <Header />
-        <main className="max-w-4xl mx-auto px-4 py-8">
+        <main className="max-w-6xl mx-auto px-4 py-6">
           {children}
         </main>
         <Footer />
