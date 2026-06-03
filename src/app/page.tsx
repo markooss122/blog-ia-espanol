@@ -55,7 +55,7 @@ export default function Home() {
             <AdUnit slot="1122334455" format="horizontal" className="w-full h-[90px]" />
           </div>
 
-          {/* Grid principal con filtros */}
+          {/* Grid principal con filtros — TODOS los artículos */}
           <section>
             <div className="flex items-center gap-2 mb-4">
               <span className="text-[10px] font-bold tracking-widest text-zinc-500 uppercase">Todos los artículos</span>
@@ -64,6 +64,7 @@ export default function Home() {
             </div>
             <ArticleGrid posts={posts} />
           </section>
+          {/* Note: ArticleGrid receives ALL posts — hero section above is decorative only */}
         </div>
 
         {/* Sidebar — estilo Xataka/Genbeta */}
