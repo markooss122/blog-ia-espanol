@@ -1,12 +1,26 @@
 'use client'
 
+import { useEffect } from 'react'
+
 interface AdUnitProps {
   slot: string
   format?: 'auto' | 'rectangle' | 'horizontal'
   className?: string
 }
 
+declare global {
+  interface Window {
+    adsbygoogle: unknown[]
+  }
+}
+
 export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnitProps) {
+  useEffect(() => {
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({})
+    } catch {}
+  }, [])
+
   return (
     <ins
       className={`adsbygoogle ${className}`}

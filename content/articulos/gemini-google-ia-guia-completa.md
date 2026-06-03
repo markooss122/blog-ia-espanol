@@ -66,3 +66,37 @@ Gemini es la mejor elección si ya vives dentro del ecosistema de Google. Su int
 
 Si usas poco Google Workspace, ChatGPT o Claude probablemente te ofrezcan más valor. Pero merece la pena probarlo gratis y decidir por ti mismo.
 
+
+## Cómo sacar más partido a Gemini con Google Workspace
+
+Si trabajas con Google Workspace, Gemini tiene funcionalidades que van mucho más allá del chat básico. Aquí están las más útiles en la práctica:
+
+**En Gmail:** Selecciona cualquier email y pulsa el icono de Gemini. Puedes pedir un resumen de 3 puntos, generar una respuesta, o incluso pedirle que busque otros emails relacionados con ese tema en tu bandeja de entrada. Para gestionar el correo profesional, esto ahorra entre 30 y 60 minutos al día.
+
+**En Google Docs:** El botón "Ayúdame a escribir" aparece en cualquier documento. Puedes pedirle que complete un borrador, que mejore un párrafo específico, que cambie el tono de un texto o que genere una tabla a partir de datos que describes.
+
+**En Google Sheets:** Esta es la función más impresionante. Puedes escribir en lenguaje natural lo que quieres calcular o visualizar: "Muéstrame las ventas por mes del último trimestre en un gráfico de barras". Gemini lo hace automáticamente sin necesidad de fórmulas.
+
+**En Google Meet:** Gemini puede generar actas de reuniones automáticamente, identificar los puntos de acción y enviar un resumen por email a todos los participantes.
+
+## Gemini vs ChatGPT para búsqueda de información
+
+Una de las ventajas más claras de Gemini es su acceso nativo a Google Search. Mientras que ChatGPT usa su conocimiento de entrenamiento (con fecha de corte), Gemini puede acceder a información actualizada directamente desde la web.
+
+Esto lo hace especialmente útil para:
+- Preguntas sobre eventos recientes o noticias del día
+- Precios actuales de productos o servicios
+- Información sobre empresas, personas o proyectos recientes
+- Comparativas de precios en tiempo real
+
+Sin embargo, ChatGPT con la función de búsqueda activada también accede a internet, por lo que la ventaja de Gemini en este aspecto se ha reducido.
+
+## Limitaciones de Gemini que debes conocer
+
+Ninguna herramienta es perfecta. Gemini tiene algunas limitaciones que conviene conocer:
+
+**Disponibilidad:** Algunas funcionalidades avanzadas solo están disponibles en inglés o tienen soporte limitado en español.
+
+**Contexto de 1 millón de tokens:** Aunque impresionante en teoría, el rendimiento puede degradarse con contextos extremadamente largos.
+
+**Integración fuera de Google:** Si no usas el ecosistema de Google, pierdes gran parte del valor diferencial de Gemini.

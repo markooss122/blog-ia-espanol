@@ -55,3 +55,29 @@ El plan gratuito da acceso a GPT-4o mini, que es más que suficiente para la may
 
 ChatGPT es la puerta de entrada más sencilla al mundo de la IA. Su versión gratuita ya ofrece un valor enorme, y con algo de práctica en cómo formular las preguntas, se convierte en un asistente imprescindible para el día a día.
 
+
+## Los errores más comunes al usar ChatGPT
+
+Muchos usuarios nuevos cometen los mismos errores que les impiden sacar el máximo partido a ChatGPT. Aquí están los más frecuentes:
+
+**Error 1: Prompts demasiado vagos.** "Escríbeme algo sobre marketing" es un prompt terrible. "Escríbeme 5 ideas de posts para Instagram para una tienda de ropa sostenible dirigida a mujeres de 25-35 años, tono cercano y sin tecnicismos" es un prompt excelente.
+
+**Error 2: No dar contexto.** ChatGPT no sabe quién eres, qué haces ni para qué necesitas la respuesta. Cuanto más contexto des, mejor será el resultado.
+
+**Error 3: Aceptar la primera respuesta sin cuestionar.** ChatGPT "alucina": puede presentar información incorrecta con total confianza. Siempre verifica datos importantes con fuentes oficiales.
+
+**Error 4: No pedir mejoras.** Si la respuesta no es exactamente lo que querías, no empieces de cero. Di "hazlo más corto", "cambia el tono a más formal" o "añade más ejemplos prácticos".
+
+## Casos de uso avanzados que quizás no conocías
+
+Más allá de redactar emails y resumir textos, ChatGPT tiene usos sorprendentemente potentes:
+
+**Preparar entrevistas de trabajo:** Pídele que haga de entrevistador para el puesto al que aspiras y practica tus respuestas. Luego pídele feedback.
+
+**Aprender idiomas:** Conversa con ChatGPT en el idioma que quieres aprender. Pídele que corrija tus errores y te explique las reglas gramaticales que estás violando.
+
+**Analizar contratos:** Sube un contrato (o copia el texto) y pídele que explique las cláusulas en lenguaje sencillo y señale las más importantes o potencialmente problemáticas.
+
+**Brainstorming de negocio:** Describe tu idea de negocio y pídele que identifique los principales riesgos, las oportunidades que no has considerado y los competidores directos e indirectos.
+
+**Crear contenido en varios formatos:** Escribe una vez y pídele que lo adapte a post de LinkedIn, hilo de Twitter, newsletter y guion de vídeo. Cuatro formatos por el precio de uno.

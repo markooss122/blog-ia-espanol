@@ -108,3 +108,50 @@ Midjourney sigue siendo el rey de la generación de imágenes artísticas en 202
 
 Para uso ocasional, las alternativas gratuitas como Leonardo AI son más que suficientes.
 
+
+## Técnicas avanzadas para mejores resultados
+
+Una vez dominados los prompts básicos, hay técnicas que elevan significativamente la calidad.
+
+### Aspect ratios para diferentes plataformas
+
+Usa el parámetro --ar para controlar las proporciones de la imagen:
+
+- --ar 16:9 para vídeo, wallpaper y thumbnails de YouTube
+- --ar 9:16 para Instagram Stories, TikTok y Reels  
+- --ar 1:1 para posts de Instagram y avatares
+- --ar 4:3 para blogs y presentaciones
+
+### Pesos en el prompt
+
+Puedes asignar diferente importancia a distintos elementos usando el símbolo :: seguido de un número. Por ejemplo: "forest::2 magical::1 dark::0.5" indica que el bosque debe ser el elemento dominante, lo mágico tiene importancia media y el ambiente oscuro es secundario.
+
+### El parámetro --no para excluir elementos
+
+Añade --no al final para excluir elementos no deseados: "--no text, watermarks, blurry, low quality". Esto mejora notablemente los resultados al eliminar los defectos más comunes.
+
+### Estilo raw para resultados más fotográficos
+
+Añade --style raw para obtener imágenes más fotográficas y menos "artísticas". Útil cuando necesitas imágenes que parezcan fotografías reales en lugar de ilustraciones.
+
+## Cómo usar Midjourney para el trabajo
+
+Más allá del arte generativo, Midjourney tiene aplicaciones profesionales muy rentables:
+
+**Para blogs y contenido:** Genera imágenes únicas para cada artículo sin depender de bancos de imágenes. Las imágenes originales mejoran el SEO y la experiencia del lector.
+
+**Para diseño de producto:** Visualiza conceptos antes de fabricarlos. Muchas startups usan Midjourney para crear mockups y presentarlos a inversores.
+
+**Para publicidad:** Genera variaciones de creatividades para test A/B sin necesidad de sesión fotográfica.
+
+**Para arquitectura e interiorismo:** Los arquitectos usan Midjourney para generar renders conceptuales rápidos que luego refinan con software especializado.
+
+## Errores frecuentes que debes evitar
+
+**Prompts en español:** Midjourney funciona mejor con prompts en inglés. Si escribes en español, los resultados son notablemente peores. Usa un traductor si no dominas el inglés.
+
+**Prompts demasiado largos:** Más de 60-70 palabras en el prompt tiende a confundir al modelo. Sé específico pero conciso.
+
+**No iterar:** Si la primera imagen no es exacta, usa la función de variación (botón V) para explorar alternativas próximas en lugar de empezar desde cero.
+
+**Ignorar los parámetros:** Los parámetros como --ar, --q y --style no son opcionales para trabajo profesional. Son la diferencia entre resultados mediocres y resultados publicables.

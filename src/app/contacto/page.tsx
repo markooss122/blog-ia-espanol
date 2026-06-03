@@ -9,7 +9,7 @@ export default function ContactPage() {
   return (
     <div className="max-w-xl mx-auto">
       <header className="mb-10">
-        <span className="text-xs font-semibold tracking-widest text-indigo-600 uppercase">Contacto</span>
+        <span className="text-xs font-semibold tracking-widest text-blue-600 uppercase">Contacto</span>
         <h1 className="text-3xl font-bold text-zinc-900 mt-2 mb-4" style={{ letterSpacing: '-0.02em' }}>
           Escríbenos
         </h1>
@@ -93,7 +93,7 @@ export default function ContactPage() {
       <div className="mt-10 pt-6 border-t border-zinc-100">
         <p className="text-sm text-zinc-400">
           También puedes escribirnos directamente a{' '}
-          <a href="mailto:hola@iaenespanol.com" className="text-indigo-600 hover:underline">
+          <a href="mailto:hola@iaenespanol.com" className="text-blue-600 hover:underline">
             hola@iaenespanol.com
           </a>
         </p>

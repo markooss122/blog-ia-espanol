@@ -52,7 +52,7 @@ export default async function ArticlePage({ params }: Props) {
         <nav className="flex items-center gap-1.5 text-xs text-zinc-400 mb-5">
           <Link href="/" className="hover:text-blue-600 transition-colors">Inicio</Link>
           <span>›</span>
-          <span className="text-zinc-600">{post.category}</span>
+          <Link href={`/?cat=${post.category}`} className="hover:text-blue-600 transition-colors">{post.category}</Link>
           <span>›</span>
           <span className="text-zinc-400 truncate max-w-[240px]">{post.title}</span>
         </nav>

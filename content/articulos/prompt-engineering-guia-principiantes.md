@@ -107,3 +107,53 @@ El prompt engineering no requiere conocimientos técnicos. Con estas técnicas b
 
 La práctica es la mejor maestra: experimenta, observa qué funciona y ajusta. En pocas semanas tendrás intuición para formular prompts efectivos de forma natural.
 
+
+## Técnicas avanzadas de prompt engineering que marcan la diferencia
+
+Una vez dominadas las técnicas básicas, hay enfoques más sofisticados que elevan significativamente la calidad de las respuestas.
+
+### Meta-prompting
+
+Pídele a la IA que te ayude a escribir el prompt. Suena circular, pero funciona muy bien:
+
+"Quiero pedirte que hagas X. ¿Cómo debería formular mi pregunta para obtener el mejor resultado posible?"
+
+Esta técnica es especialmente útil cuando no sabes exactamente cómo articular lo que necesitas.
+
+### Prompts con restricciones explícitas
+
+Las restricciones mejoran la calidad. En lugar de dar libertad total, define los límites:
+
+"Explícame el machine learning en exactamente 5 puntos, cada uno de no más de 2 frases, usando solo analogías del mundo cotidiano, sin ningún término técnico."
+
+Las restricciones fuerzan a la IA a ser creativa dentro de límites útiles para ti.
+
+### El método Socrático
+
+En vez de pedir respuestas directas, pídele que te haga preguntas para entender mejor tu situación antes de responder:
+
+"Antes de darme consejos sobre mi estrategia de marketing, hazme 5 preguntas para entender mejor mi negocio, mi audiencia y mis objetivos."
+
+Este enfoque produce consejos mucho más personalizados y útiles.
+
+### Prompts con ejemplos de salida
+
+Muéstrale exactamente el formato de respuesta que quieres:
+
+"Responde en este formato exacto:
+**Herramienta:** [nombre]
+**Para qué:** [una frase]
+**Plan gratuito:** [sí/no + detalles]
+**Lo mejor:** [una ventaja clave]
+---
+Lista las 5 mejores herramientas de IA para diseño gráfico."
+
+## Cómo medir si tus prompts están mejorando
+
+El prompt engineering es una habilidad que se aprende con práctica. Para mejorar más rápido:
+
+**Lleva un registro:** guarda los prompts que te dan mejores resultados. Con el tiempo tendrás una biblioteca personal de prompts efectivos para tus casos de uso habituales.
+
+**Itera sistemáticamente:** cuando un prompt no da el resultado esperado, cambia solo una variable a la vez (la longitud, el tono, la estructura) para entender qué está fallando.
+
+**Compara modelos:** el mismo prompt puede dar resultados muy diferentes en ChatGPT, Claude y Gemini. Saber cuál es mejor para cada tipo de tarea te ahorra tiempo.

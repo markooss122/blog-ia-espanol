@@ -94,3 +94,38 @@ Si ya usas Notion para organizarte, su IA integrada es una mejora inmediata para
 
 No necesitas gastar dinero para beneficiarte de la IA en 2026. Con los planes gratuitos de estas herramientas puedes automatizar tareas, mejorar tu productividad y crear contenido de calidad sin invertir un euro.
 
+
+## Herramientas gratuitas que no conocías todavía
+
+La lista de las 10 mejores es un punto de partida, pero el ecosistema de IA gratuita es mucho más amplio. Aquí hay algunas joyas menos conocidas:
+
+**Phind:** Motor de búsqueda especializado en programación. Si eres desarrollador o aprendes a programar, Phind es más útil que ChatGPT para encontrar soluciones técnicas con ejemplos de código.
+
+**Krea AI:** Generación de imágenes en tiempo real mientras escribes el prompt. Ver la imagen formarse mientras describes lo que quieres es una experiencia única y muy útil para iterar rápidamente.
+
+**Runway ML:** Edición de vídeo con IA. El plan gratuito permite eliminar fondos, hacer inpainting (rellenar partes de un vídeo) y aplicar estilos artísticos a clips cortos.
+
+**Suno AI:** Generación de música con IA a partir de texto. Describe el género, el mood y la letra, y Suno crea una canción completa en segundos. El plan gratuito permite crear varios temas al día.
+
+**Pika Labs:** Alternativa gratuita a Sora para generar vídeos cortos con IA. La calidad no es perfecta, pero para prototipado creativo es una herramienta muy potente.
+
+## Cómo combinar varias herramientas gratuitas en un flujo de trabajo
+
+El verdadero poder de las herramientas gratuitas está en combinarlas. Un flujo típico para crear contenido de redes sociales:
+
+1. **ChatGPT** → genera las ideas y el texto del post
+2. **Bing Image Creator** → crea la imagen a partir del concepto del texto
+3. **Canva** → combina texto e imagen en un diseño listo para publicar
+4. **Buffer** (plan gratuito) → programa la publicación
+
+Este flujo completo tiene coste cero y puede producir contenido de calidad profesional en 15-20 minutos por post.
+
+## ¿Cuándo merece la pena pagar?
+
+Las herramientas gratuitas tienen límites. Merece la pena pasarte a un plan de pago cuando:
+
+- Superas consistentemente los límites del plan gratuito
+- La herramienta está directamente vinculada a tu fuente de ingresos
+- El tiempo ahorrado por el plan Pro supera claramente su coste mensual
+
+Una regla práctica: si una herramienta te ahorra 2+ horas al mes y tu tiempo vale más de 10€/hora, el plan de pago se amortiza solo.

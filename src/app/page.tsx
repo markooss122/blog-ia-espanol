@@ -51,11 +51,6 @@ export default function Home() {
             </section>
           )}
 
-          {/* Ad in-content */}
-          <div className="mb-6">
-            <AdUnit slot="1122334455" format="horizontal" className="w-full h-[90px]" />
-          </div>
-
           {/* Grid principal con filtros — TODOS los artículos */}
           <section>
             <div className="flex items-center gap-2 mb-4">
@@ -107,7 +102,7 @@ export default function Home() {
             <div className="space-y-3">
               {posts.slice(0, 5).map((post, i) => (
                 <a key={post.slug} href={`/articulos/${post.slug}`} className="flex gap-2.5 group items-start">
-                  <span className="text-xl font-bold text-zinc-100 leading-none w-5 flex-shrink-0 group-hover:text-blue-200 transition-colors" style={{ fontFamily: 'Newsreader, serif' }}>
+                  <span className="text-xl font-bold text-zinc-300 leading-none w-5 flex-shrink-0" style={{ fontFamily: 'Newsreader, serif' }}>
                     {i + 1}
                   </span>
                   <span className="text-xs font-medium text-zinc-700 group-hover:text-blue-600 transition-colors leading-snug line-clamp-2">

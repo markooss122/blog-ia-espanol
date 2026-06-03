@@ -9,7 +9,7 @@ export default function PrivacyPage() {
   return (
     <div className="max-w-2xl mx-auto">
       <header className="mb-10">
-        <span className="text-xs font-semibold tracking-widest text-indigo-600 uppercase">Legal</span>
+        <span className="text-xs font-semibold tracking-widest text-blue-600 uppercase">Legal</span>
         <h1 className="text-3xl font-bold text-zinc-900 mt-2 mb-2" style={{ letterSpacing: '-0.02em' }}>
           Política de Privacidad
         </h1>
