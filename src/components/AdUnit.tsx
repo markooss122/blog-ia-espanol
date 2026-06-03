@@ -7,21 +7,11 @@ interface AdUnitProps {
 }
 
 export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnitProps) {
-  const publisherId = 'ca-pub-2587597281292784'
-
-  if (publisherId === 'ca-pub-XXXXXXXXXX') {
-    return (
-      <div className={`bg-gray-100 border border-dashed border-gray-300 rounded flex items-center justify-center text-gray-400 text-sm ${className}`}>
-        [Espacio AdSense — slot: {slot}]
-      </div>
-    )
-  }
-
   return (
     <ins
       className={`adsbygoogle ${className}`}
       style={{ display: 'block' }}
-      data-ad-client={publisherId}
+      data-ad-client="ca-pub-2587597281292784"
       data-ad-slot={slot}
       data-ad-format={format}
       data-full-width-responsive="true"
