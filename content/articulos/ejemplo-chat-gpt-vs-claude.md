@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+imageAlt: "Comparativa ChatGPT vs Claude - pantallas con IA"
 title: "ChatGPT vs Claude: ¿Cuál es mejor en 2026?"
 description: "Comparativa completa entre ChatGPT y Claude. Analizamos velocidad, calidad de respuestas, precio y casos de uso para ayudarte a elegir."
 date: "2026-06-03"
 category: "Comparativas"
 ---
-
 ## Introducción
 
 ChatGPT y Claude son los dos asistentes de inteligencia artificial más usados en 2026. Ambos son potentes, pero tienen diferencias importantes que conviene conocer antes de elegir uno.
@@ -24,3 +25,4 @@ Ambos tienen plan gratuito con limitaciones. El plan de pago de ChatGPT cuesta $
 ## Conclusión
 
 Si escribes mucho en español o necesitas análisis largos, Claude es mejor opción. Si priorizas velocidad e integración con otras herramientas de OpenAI, elige ChatGPT.
+

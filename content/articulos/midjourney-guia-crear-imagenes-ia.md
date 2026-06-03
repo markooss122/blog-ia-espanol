@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1686191128892-3261802c3b87?w=800&q=80"
+imageAlt: "Imágenes generadas por inteligencia artificial"
 title: "Midjourney: cómo crear imágenes con IA desde cero (Guía 2026)"
 description: "Tutorial completo de Midjourney en español: cómo empezar, los comandos esenciales, trucos para mejores imágenes y alternativas gratuitas."
 date: "2026-04-28"
 category: "Herramientas"
 ---
-
 ## Qué es Midjourney
 
 Midjourney es un generador de imágenes con inteligencia artificial. Describes lo que quieres ver con palabras y la IA crea una imagen en segundos.
@@ -106,3 +107,4 @@ Si no quieres pagar, estas opciones son sólidas:
 Midjourney sigue siendo el rey de la generación de imágenes artísticas en 2026. Si creas contenido visual de forma regular —ya sea para redes sociales, productos digitales o proyectos creativos— el coste mensual se amortiza rápidamente.
 
 Para uso ocasional, las alternativas gratuitas como Leonardo AI son más que suficientes.
+

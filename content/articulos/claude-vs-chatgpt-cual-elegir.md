@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+imageAlt: "Comparativa entre asistentes de IA"
 title: "Claude vs ChatGPT: ¿Cuál es mejor para ti en 2026?"
 description: "Comparativa honesta entre Claude de Anthropic y ChatGPT de OpenAI. Velocidad, calidad de escritura, precio, contexto y casos de uso reales."
 date: "2026-05-28"
 category: "Comparativas"
 ---
-
 ## Claude vs ChatGPT: la comparativa definitiva
 
 Son los dos gigantes de los asistentes de IA. Millones de personas los usan a diario, pero tienen diferencias importantes que conviene conocer antes de decidir cuál te conviene más.
@@ -74,3 +75,4 @@ Claude tiene menos integraciones pero está mejorando rápidamente, especialment
 No tienes que elegir solo uno. Ambos tienen plan gratuito. Úsalos en paralelo durante una semana para las tareas que haces habitualmente y verás cuál se adapta mejor a ti.
 
 En mi experiencia, muchos usuarios acaban usando **ChatGPT para buscar y explorar**, y **Claude para redactar y analizar**.
+

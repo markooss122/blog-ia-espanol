@@ -1,5 +1,5 @@
 import { getAllPosts } from '@/lib/posts'
-import ArticleCard from '@/components/ArticleCard'
+import ArticleGrid from '@/components/ArticleGrid'
 import AdUnit from '@/components/AdUnit'
 import type { Metadata } from 'next'
 
@@ -8,17 +8,13 @@ export const metadata: Metadata = {
   description: 'Guías prácticas, comparativas y tutoriales sobre las mejores herramientas IA en español. ChatGPT, Claude, Gemini y más.',
 }
 
-const CATEGORIES = ['Comparativas', 'Tutoriales', 'Novedades', 'Herramientas', 'Automatización']
-
 export default function Home() {
   const posts = getAllPosts()
-  const featured = posts[0]
-  const rest = posts.slice(1)
 
   return (
-    <div className="space-y-16">
+    <div className="space-y-12">
 
-      {/* Hero — patrón Newsletter/Content First (UI/UX Pro Max) */}
+      {/* Hero */}
       <section className="pt-4 pb-2">
         <div className="flex items-center gap-2 mb-4">
           <span className="text-xs font-semibold tracking-widest text-indigo-600 uppercase">Blog</span>
@@ -33,7 +29,6 @@ export default function Home() {
           Guías prácticas, comparativas y novedades sobre las mejores herramientas IA. Publicamos cada semana.
         </p>
 
-        {/* Newsletter CTA */}
         <form
           id="newsletter"
           action="https://formspree.io/f/xldndpwg"
@@ -57,52 +52,17 @@ export default function Home() {
         <p className="text-xs text-zinc-400 mt-2">Sin spam. Cancela cuando quieras.</p>
       </section>
 
-      {/* Ad — horizontal banner */}
       <AdUnit slot="1234567890" format="horizontal" className="w-full h-24" />
 
-      {/* Categorías */}
+      {/* Grid con filtros */}
       <section>
-        <div className="flex flex-wrap gap-2">
-          {CATEGORIES.map(cat => (
-            <span
-              key={cat}
-              className="text-xs font-medium px-3 py-1.5 rounded-full border border-zinc-200 text-zinc-600 hover:border-indigo-300 hover:text-indigo-600 cursor-pointer transition-colors bg-white"
-            >
-              {cat}
-            </span>
-          ))}
+        <div className="flex items-center justify-between mb-6">
+          <h2 className="text-xs font-semibold tracking-widest text-zinc-400 uppercase">Artículos</h2>
+          <span className="text-xs text-zinc-400">{posts.length} publicados</span>
         </div>
+        <ArticleGrid posts={posts} />
       </section>
 
-      {/* Artículo destacado */}
-      {featured && (
-        <section>
-          <div className="flex items-center justify-between mb-5">
-            <h2 className="text-xs font-semibold tracking-widest text-zinc-400 uppercase">Destacado</h2>
-          </div>
-          <ArticleCard post={featured} featured />
-        </section>
-      )}
-
-      {/* Grid artículos recientes */}
-      <section>
-        <div className="flex items-center justify-between mb-5">
-          <h2 className="text-xs font-semibold tracking-widest text-zinc-400 uppercase">Artículos recientes</h2>
-          <span className="text-xs text-zinc-400">{posts.length} artículos</span>
-        </div>
-
-        {posts.length === 0 ? (
-          <p className="text-zinc-400 text-sm">Próximamente los primeros artículos.</p>
-        ) : (
-          <div className="grid gap-4 md:grid-cols-2">
-            {rest.map(post => (
-              <ArticleCard key={post.slug} post={post} />
-            ))}
-          </div>
-        )}
-      </section>
-
-      {/* Ad — rectangle */}
       <AdUnit slot="0987654321" format="rectangle" className="w-full h-48" />
     </div>
   )

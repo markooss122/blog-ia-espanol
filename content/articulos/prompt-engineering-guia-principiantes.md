@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
+imageAlt: "Código y texto en pantalla - prompt engineering"
 title: "Prompt Engineering: cómo hablar con la IA para obtener mejores respuestas"
 description: "Aprende las técnicas básicas y avanzadas de prompt engineering para obtener respuestas mucho mejores de ChatGPT, Claude y Gemini. Con ejemplos en español."
 date: "2026-05-15"
 category: "Tutoriales"
 ---
-
 ## Qué es el prompt engineering
 
 Un "prompt" es simplemente lo que le escribes a la IA. El "prompt engineering" es el arte de formular esas instrucciones de forma que obtengas las mejores respuestas posibles.
@@ -105,3 +106,4 @@ Al final, dame 3 preguntas para comprobar que lo he entendido.
 El prompt engineering no requiere conocimientos técnicos. Con estas técnicas básicas ya obtendrás respuestas significativamente mejores.
 
 La práctica es la mejor maestra: experimenta, observa qué funciona y ajusta. En pocas semanas tendrás intuición para formular prompts efectivos de forma natural.
+

@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&q=80"
+imageAlt: "Automatización de procesos con tecnología"
 title: "n8n: automatiza tu trabajo con IA sin saber programar"
 description: "Qué es n8n, cómo instalarlo gratis y cómo crear automatizaciones con IA que ahorran horas de trabajo cada semana. Guía práctica en español."
 date: "2026-05-10"
 category: "Automatización"
 ---
-
 ## Qué es n8n
 
 n8n es una herramienta de automatización de flujos de trabajo de código abierto. Permite conectar aplicaciones entre sí y añadir inteligencia artificial a esos flujos sin necesidad de programar.
@@ -83,3 +84,4 @@ Email: {{$json.body}}
 n8n es una de las herramientas más potentes que puedes aprender en 2026. La curva de aprendizaje es real, pero una vez que haces tu primer flujo funcional, entiendes por qué tanta gente la considera imprescindible.
 
 Empieza con algo sencillo: un flujo de 3 nodos. En una tarde puedes tener tu primera automatización con IA funcionando.
+

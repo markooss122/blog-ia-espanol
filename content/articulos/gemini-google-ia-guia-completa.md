@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&q=80"
+imageAlt: "Google Gemini inteligencia artificial"
 title: "Gemini de Google: guía completa para principiantes (2026)"
 description: "Qué es Gemini, cómo usarlo gratis, sus diferencias con ChatGPT y Claude, y los mejores casos de uso para sacarle partido al asistente de IA de Google."
 date: "2026-05-20"
 category: "Tutoriales"
 ---
-
 ## Qué es Gemini
 
 Gemini es el asistente de inteligencia artificial de Google. Antes se llamaba Bard, pero Google lo relanzó y mejoró bajo el nombre Gemini en 2024.
@@ -64,3 +65,4 @@ Puedes enviarle imágenes, hacer capturas de pantalla y pedirle que las analice.
 Gemini es la mejor elección si ya vives dentro del ecosistema de Google. Su integración con Gmail, Docs y Drive lo hace especialmente útil para el trabajo del día a día.
 
 Si usas poco Google Workspace, ChatGPT o Claude probablemente te ofrezcan más valor. Pero merece la pena probarlo gratis y decidir por ti mismo.
+

@@ -6,4 +6,6 @@ export interface Post {
   category: string
   readingTime: string
   content: string
+  image?: string
+  imageAlt?: string
 }

@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=800&q=80"
+imageAlt: "Búsqueda inteligente con IA en el navegador"
 title: "Perplexity AI: el buscador inteligente que deberías usar en lugar de Google"
 description: "Qué es Perplexity AI, cómo funciona, sus ventajas sobre Google y ChatGPT, y cuándo usarlo. Guía completa en español con ejemplos prácticos."
 date: "2026-04-20"
 category: "Herramientas"
 ---
-
 ## Qué es Perplexity AI
 
 Perplexity es un motor de búsqueda impulsado por IA. A diferencia de Google (que te da una lista de enlaces) o ChatGPT (que da respuestas sin fuentes), Perplexity combina lo mejor de ambos: **respuestas directas con fuentes citadas**.
@@ -87,3 +88,4 @@ No es perfecto:
 Perplexity no reemplaza a Google, ChatGPT ni Claude. Es una herramienta complementaria que brilla cuando necesitas información actualizada con fuentes verificables.
 
 Si investigas temas con frecuencia —para trabajo, estudios o simplemente por curiosidad— Perplexity puede ahorrarte mucho tiempo. Y su plan gratuito es más que suficiente para empezar.
+

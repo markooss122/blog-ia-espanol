@@ -1,6 +1,7 @@
 import { getPostBySlug, getAllPosts } from '@/lib/posts'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import AdUnit from '@/components/AdUnit'
 import { marked } from 'marked'
 import type { Metadata } from 'next'
@@ -71,6 +72,19 @@ export default async function ArticlePage({ params }: Props) {
             {post.description}
           </p>
         </header>
+
+        {post.image && (
+          <div className="relative w-full h-64 rounded-xl overflow-hidden mb-8">
+            <Image
+              src={post.image}
+              alt={post.imageAlt || post.title}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 672px"
+              priority
+            />
+          </div>
+        )}
 
         <AdUnit slot="1122334455" format="horizontal" className="w-full h-24 mb-8" />
 

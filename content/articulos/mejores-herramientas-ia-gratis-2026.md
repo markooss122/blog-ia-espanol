@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+imageAlt: "Herramientas de inteligencia artificial"
 title: "Las 10 mejores herramientas de IA gratuitas en 2026"
 description: "Lista actualizada de las mejores herramientas de inteligencia artificial que puedes usar gratis ahora mismo: texto, imágenes, vídeo, voz y automatización."
 date: "2026-06-01"
 category: "Herramientas"
 ---
-
 ## Las mejores herramientas de IA gratis en 2026
 
 El ecosistema de IA ha explotado. Cada mes aparecen nuevas herramientas, muchas de ellas con un plan gratuito más que decente. Aquí tienes la lista actualizada de las que realmente merecen la pena.
@@ -92,3 +93,4 @@ Si ya usas Notion para organizarte, su IA integrada es una mejora inmediata para
 ## Conclusión
 
 No necesitas gastar dinero para beneficiarte de la IA en 2026. Con los planes gratuitos de estas herramientas puedes automatizar tareas, mejorar tu productividad y crear contenido de calidad sin invertir un euro.
+

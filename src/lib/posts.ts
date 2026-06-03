@@ -21,6 +21,8 @@ export function getAllPosts() {
         category: data.category || 'General',
         readingTime: readingTime(content).text,
         content,
+        image: data.image || '',
+        imageAlt: data.imageAlt || data.title || '',
       }
     })
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
@@ -39,5 +41,7 @@ export function getPostBySlug(slug: string) {
     category: data.category || 'General',
     readingTime: readingTime(content).text,
     content,
+    image: data.image || '',
+    imageAlt: data.imageAlt || data.title || '',
   }
 }

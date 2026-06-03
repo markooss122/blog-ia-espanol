@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+imageAlt: "Estudiantes usando tecnología e inteligencia artificial"
 title: "Cómo usar la IA si eres estudiante (sin hacer trampa)"
 description: "Guía práctica para estudiantes sobre cómo usar ChatGPT, Claude y otras herramientas de IA de forma ética y efectiva para aprender más y estudiar mejor."
 date: "2026-05-05"
 category: "Tutoriales"
 ---
-
 ## La IA y los estudios: el debate que todos tienen
 
 Muchos estudiantes tienen dudas: ¿puedo usar IA para estudiar? ¿Es trampa? ¿Me pillará el profesor?
@@ -91,3 +92,4 @@ Este ciclo combina el esfuerzo humano (que consolida el aprendizaje) con la IA c
 La IA es una herramienta increíble para los estudiantes, pero como cualquier herramienta, su valor depende de cómo la uses. Usada bien, es como tener un tutor personal disponible 24 horas.
 
 El objetivo no es terminar los deberes más rápido. Es aprender más y mejor. La IA puede ayudarte con eso si la usas de forma inteligente.
+

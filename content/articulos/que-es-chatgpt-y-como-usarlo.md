@@ -1,10 +1,11 @@
----
+﻿---
+image: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80"
+imageAlt: "ChatGPT interfaz en ordenador"
 title: "Qué es ChatGPT y cómo usarlo paso a paso (Guía 2026)"
 description: "Todo lo que necesitas saber sobre ChatGPT: qué es, para qué sirve, cómo registrarte gratis y los mejores trucos para sacarle el máximo partido."
 date: "2026-06-02"
 category: "Tutoriales"
 ---
-
 ## Qué es ChatGPT
 
 ChatGPT es un asistente de inteligencia artificial desarrollado por OpenAI. Puedes hablar con él como si fuera una persona: hacerle preguntas, pedirle que redacte textos, que explique conceptos o que te ayude a resolver problemas.
@@ -53,3 +54,4 @@ El plan gratuito da acceso a GPT-4o mini, que es más que suficiente para la may
 ## Conclusión
 
 ChatGPT es la puerta de entrada más sencilla al mundo de la IA. Su versión gratuita ya ofrece un valor enorme, y con algo de práctica en cómo formular las preguntas, se convierte en un asistente imprescindible para el día a día.
+
