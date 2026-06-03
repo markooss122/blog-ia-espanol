@@ -33,17 +33,27 @@ export default function Home() {
           Guías prácticas, comparativas y novedades sobre las mejores herramientas IA. Publicamos cada semana.
         </p>
 
-        {/* Newsletter CTA — patrón recomendado por la skill */}
-        <div id="newsletter" className="flex gap-2 max-w-md">
+        {/* Newsletter CTA */}
+        <form
+          id="newsletter"
+          action="https://formspree.io/f/xldndpwg"
+          method="POST"
+          className="flex gap-2 max-w-md"
+        >
           <input
             type="email"
+            name="email"
             placeholder="tu@email.com"
+            required
             className="flex-1 px-4 py-2.5 text-sm border border-zinc-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent bg-white"
           />
-          <button className="px-4 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium rounded-lg transition-colors whitespace-nowrap">
+          <button
+            type="submit"
+            className="px-4 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-medium rounded-lg transition-colors whitespace-nowrap"
+          >
             Recibir guías
           </button>
-        </div>
+        </form>
         <p className="text-xs text-zinc-400 mt-2">Sin spam. Cancela cuando quieras.</p>
       </section>
 

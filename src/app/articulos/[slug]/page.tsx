@@ -6,7 +6,7 @@ import { marked } from 'marked'
 import type { Metadata } from 'next'
 
 interface Props {
-  params: { slug: string }
+  params: Promise<{ slug: string }>
 }
 
 export async function generateStaticParams() {
@@ -14,7 +14,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const post = getPostBySlug(params.slug)
+  const { slug } = await params
+  const post = getPostBySlug(slug)
   if (!post) return {}
   return {
     title: post.title,
@@ -28,11 +29,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default function ArticlePage({ params }: Props) {
-  const post = getPostBySlug(params.slug)
+export default async function ArticlePage({ params }: Props) {
+  const { slug } = await params
+  const post = getPostBySlug(slug)
   if (!post) notFound()
 
-  const htmlContent = marked(post.content)
+  const htmlContent = await marked(post.content)
 
   const formattedDate = new Date(post.date).toLocaleDateString('es-ES', {
     year: 'numeric',
@@ -43,7 +45,6 @@ export default function ArticlePage({ params }: Props) {
   return (
     <div className="max-w-2xl mx-auto">
 
-      {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-xs text-zinc-400 mb-8">
         <Link href="/" className="hover:text-zinc-600 transition-colors">Inicio</Link>
         <span>›</span>
@@ -73,7 +74,6 @@ export default function ArticlePage({ params }: Props) {
 
         <AdUnit slot="1122334455" format="horizontal" className="w-full h-24 mb-8" />
 
-        {/* Contenido del artículo */}
         <div
           className="prose"
           dangerouslySetInnerHTML={{ __html: htmlContent }}
@@ -81,12 +81,8 @@ export default function ArticlePage({ params }: Props) {
 
         <AdUnit slot="5544332211" format="rectangle" className="w-full h-48 mt-10" />
 
-        {/* Footer del artículo */}
         <div className="mt-10 pt-6 border-t border-zinc-100 flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-sm text-zinc-400 hover:text-zinc-600 transition-colors"
-          >
+          <Link href="/" className="text-sm text-zinc-400 hover:text-zinc-600 transition-colors">
             ← Volver al inicio
           </Link>
           <span className="text-xs text-zinc-400">IA en Español</span>
