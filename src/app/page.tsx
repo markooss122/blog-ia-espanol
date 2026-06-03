@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import { getAllPosts } from '@/lib/posts'
 import ArticleGrid from '@/components/ArticleGrid'
 import AdUnit from '@/components/AdUnit'
@@ -62,7 +63,9 @@ export default function Home() {
               <span className="flex-1 h-px bg-zinc-200"></span>
               <span className="text-[10px] text-zinc-400">{posts.length} publicados</span>
             </div>
-            <ArticleGrid posts={posts} />
+            <Suspense fallback={<div className="h-40" />}>
+              <ArticleGrid posts={posts} />
+            </Suspense>
           </section>
           {/* Note: ArticleGrid receives ALL posts — hero section above is decorative only */}
         </div>

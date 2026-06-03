@@ -1,13 +1,21 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { useSearchParams } from 'next/navigation'
 import ArticleCard from './ArticleCard'
 import { Post } from '@/types/post'
 
 const CATEGORIES = ['Todos', 'Comparativas', 'Tutoriales', 'Herramientas', 'Automatización', 'Novedades']
 
 export default function ArticleGrid({ posts }: { posts: Post[] }) {
-  const [active, setActive] = useState('Todos')
+  const searchParams = useSearchParams()
+  const catParam = searchParams.get('cat') || 'Todos'
+  const [active, setActive] = useState(catParam)
+
+  // Sync con el query param cuando cambia (clicks en el header)
+  useEffect(() => {
+    setActive(catParam)
+  }, [catParam])
 
   const filtered = active === 'Todos' ? posts : posts.filter(p => p.category === active)
 
