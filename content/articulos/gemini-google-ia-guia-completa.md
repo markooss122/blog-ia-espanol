@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=800&q=80"
-imageAlt: "Google Gemini inteligencia artificial"
+image: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Logotipo de Google con tecnología de inteligencia artificial"
 title: "Gemini de Google: guía completa para principiantes (2026)"
 description: "Qué es Gemini, cómo usarlo gratis, sus diferencias con ChatGPT y Claude, y los mejores casos de uso para sacarle partido al asistente de IA de Google."
 date: "2026-05-20"

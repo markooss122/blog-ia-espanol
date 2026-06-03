@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=800&q=80"
-imageAlt: "Búsqueda inteligente con IA en el navegador"
+image: "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Barra de búsqueda inteligente en pantalla de ordenador"
 title: "Perplexity AI: el buscador inteligente que deberías usar en lugar de Google"
 description: "Qué es Perplexity AI, cómo funciona, sus ventajas sobre Google y ChatGPT, y cuándo usarlo. Guía completa en español con ejemplos prácticos."
 date: "2026-04-20"

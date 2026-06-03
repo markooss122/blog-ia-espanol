@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
-imageAlt: "Comparativa ChatGPT vs Claude - pantallas con IA"
+image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Pantalla con interfaz de chatbot de inteligencia artificial"
 title: "ChatGPT vs Claude: ¿Cuál es mejor en 2026?"
 description: "Comparativa completa entre ChatGPT y Claude. Analizamos velocidad, calidad de respuestas, precio y casos de uso para ayudarte a elegir."
 date: "2026-06-03"

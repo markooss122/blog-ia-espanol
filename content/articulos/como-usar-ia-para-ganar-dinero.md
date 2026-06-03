@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&q=80"
-imageAlt: "Ordenador portátil con gráficos de ingresos"
+image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Persona trabajando con ordenador portátil y gráficos de ingresos"
 title: "Cómo usar la IA para ganar dinero en 2026 (10 formas reales)"
 description: "Formas concretas y probadas de generar ingresos usando herramientas de inteligencia artificial. Sin inversión inicial, desde casa y en español."
 date: "2026-05-25"

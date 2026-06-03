@@ -4,50 +4,44 @@ import { useState } from 'react'
 import ArticleCard from './ArticleCard'
 import { Post } from '@/types/post'
 
-const CATEGORIES = ['Todos', 'Comparativas', 'Tutoriales', 'Novedades', 'Herramientas', 'Automatización']
+const CATEGORIES = ['Todos', 'Comparativas', 'Tutoriales', 'Herramientas', 'Automatización', 'Novedades']
 
 export default function ArticleGrid({ posts }: { posts: Post[] }) {
   const [active, setActive] = useState('Todos')
 
   const filtered = active === 'Todos' ? posts : posts.filter(p => p.category === active)
-  const featured = filtered[0]
-  const rest = filtered.slice(1)
 
   return (
-    <div className="space-y-10">
-      {/* Filtros de categoría */}
+    <div className="space-y-6">
+      {/* Filtros */}
       <div className="flex flex-wrap gap-2">
         {CATEGORIES.map(cat => (
           <button
             key={cat}
             onClick={() => setActive(cat)}
-            className={`text-xs font-medium px-3 py-1.5 rounded-full border transition-colors ${
+            className={`text-xs font-semibold px-3 py-1.5 rounded-full border transition-colors ${
               active === cat
-                ? 'bg-indigo-600 border-indigo-600 text-white'
-                : 'border-zinc-200 text-zinc-600 hover:border-indigo-300 hover:text-indigo-600 bg-white'
+                ? 'bg-blue-600 border-blue-600 text-white'
+                : 'border-zinc-200 text-zinc-600 hover:border-blue-300 hover:text-blue-600 bg-white'
             }`}
           >
             {cat}
+            <span className={`ml-1 text-[10px] ${active === cat ? 'text-blue-200' : 'text-zinc-400'}`}>
+              {cat === 'Todos' ? posts.length : posts.filter(p => p.category === cat).length}
+            </span>
           </button>
         ))}
       </div>
 
-      {/* Artículo destacado */}
-      {featured && (
-        <ArticleCard post={featured} featured />
-      )}
-
-      {/* Grid resto */}
-      {rest.length > 0 && (
-        <div className="grid gap-4 md:grid-cols-2">
-          {rest.map(post => (
+      {/* Grid */}
+      {filtered.length === 0 ? (
+        <p className="text-zinc-400 text-sm py-8">No hay artículos en esta categoría todavía.</p>
+      ) : (
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-2">
+          {filtered.map(post => (
             <ArticleCard key={post.slug} post={post} />
           ))}
         </div>
-      )}
-
-      {filtered.length === 0 && (
-        <p className="text-zinc-400 text-sm">No hay artículos en esta categoría todavía.</p>
       )}
     </div>
   )

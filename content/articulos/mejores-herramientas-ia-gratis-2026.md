@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
-imageAlt: "Herramientas de inteligencia artificial"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Robot de inteligencia artificial con tecnología digital"
 title: "Las 10 mejores herramientas de IA gratuitas en 2026"
 description: "Lista actualizada de las mejores herramientas de inteligencia artificial que puedes usar gratis ahora mismo: texto, imágenes, vídeo, voz y automatización."
 date: "2026-06-01"

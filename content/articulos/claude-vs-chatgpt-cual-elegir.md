@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
-imageAlt: "Comparativa entre asistentes de IA"
+image: "https://images.unsplash.com/photo-1676299081847-824916de030a?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Comparativa de asistentes de inteligencia artificial"
 title: "Claude vs ChatGPT: ¿Cuál es mejor para ti en 2026?"
 description: "Comparativa honesta entre Claude de Anthropic y ChatGPT de OpenAI. Velocidad, calidad de escritura, precio, contexto y casos de uso reales."
 date: "2026-05-28"

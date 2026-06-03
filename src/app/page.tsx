@@ -62,7 +62,7 @@ export default function Home() {
               <span className="flex-1 h-px bg-zinc-200"></span>
               <span className="text-[10px] text-zinc-400">{posts.length} publicados</span>
             </div>
-            <ArticleGrid posts={rest.length > 0 ? rest : posts} />
+            <ArticleGrid posts={posts} />
           </section>
         </div>
 

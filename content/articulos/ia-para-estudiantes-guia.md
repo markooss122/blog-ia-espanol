@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
-imageAlt: "Estudiantes usando tecnología e inteligencia artificial"
+image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Estudiantes trabajando con ordenadores y tecnología"
 title: "Cómo usar la IA si eres estudiante (sin hacer trampa)"
 description: "Guía práctica para estudiantes sobre cómo usar ChatGPT, Claude y otras herramientas de IA de forma ética y efectiva para aprender más y estudiar mejor."
 date: "2026-05-05"

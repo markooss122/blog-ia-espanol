@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1686191128892-3261802c3b87?w=800&q=80"
-imageAlt: "Imágenes generadas por inteligencia artificial"
+image: "https://images.unsplash.com/photo-1547954575-855750c57bd3?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Arte digital generado por inteligencia artificial"
 title: "Midjourney: cómo crear imágenes con IA desde cero (Guía 2026)"
 description: "Tutorial completo de Midjourney en español: cómo empezar, los comandos esenciales, trucos para mejores imágenes y alternativas gratuitas."
 date: "2026-04-28"

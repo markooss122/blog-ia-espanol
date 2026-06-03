@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&q=80"
-imageAlt: "ChatGPT interfaz en ordenador"
+image: "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Persona usando ChatGPT en un ordenador"
 title: "Qué es ChatGPT y cómo usarlo paso a paso (Guía 2026)"
 description: "Todo lo que necesitas saber sobre ChatGPT: qué es, para qué sirve, cómo registrarte gratis y los mejores trucos para sacarle el máximo partido."
 date: "2026-06-02"

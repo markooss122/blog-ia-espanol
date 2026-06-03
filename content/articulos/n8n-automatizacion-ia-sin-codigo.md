@@ -1,6 +1,6 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&q=80"
-imageAlt: "Automatización de procesos con tecnología"
+image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Flujos de automatización de procesos digitales"
 title: "n8n: automatiza tu trabajo con IA sin saber programar"
 description: "Qué es n8n, cómo instalarlo gratis y cómo crear automatizaciones con IA que ahorran horas de trabajo cada semana. Guía práctica en español."
 date: "2026-05-10"
