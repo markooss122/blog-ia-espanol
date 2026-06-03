@@ -6,8 +6,8 @@ import ArticleCard from '@/components/ArticleCard'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'IA en Español — Guías y herramientas de inteligencia artificial',
-  description: 'Guías prácticas, comparativas y tutoriales sobre las mejores herramientas IA en español. ChatGPT, Claude, Gemini y más.',
+  title: 'PulsoIA — El pulso de la inteligencia artificial en español',
+  description: 'Guías prácticas, comparativas y tutoriales sobre las mejores herramientas de IA en español. ChatGPT, Claude, Gemini y más.',
 }
 
 export default function Home() {

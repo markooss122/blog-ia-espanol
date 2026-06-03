@@ -6,17 +6,26 @@ import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: {
-    default: 'IA en Español — Guías y herramientas de inteligencia artificial',
-    template: '%s | IA en Español',
+    default: 'PulsoIA — El pulso de la inteligencia artificial en español',
+    template: '%s | PulsoIA',
   },
-  description: 'Guías, comparativas y tutoriales sobre herramientas de inteligencia artificial en español. ChatGPT, Claude, Gemini, n8n y más.',
-  metadataBase: new URL('https://ia-en-espanol.vercel.app'),
+  description: 'Guías prácticas, comparativas y tutoriales sobre las mejores herramientas de inteligencia artificial en español. ChatGPT, Claude, Gemini, n8n y más.',
+  metadataBase: new URL('https://pulso-ia.vercel.app'),
   openGraph: {
     type: 'website',
     locale: 'es_ES',
-    siteName: 'IA en Español',
+    siteName: 'PulsoIA',
+    images: [{ url: '/logo.svg', width: 48, height: 48, alt: 'PulsoIA' }],
+  },
+  twitter: {
+    card: 'summary',
+    site: '@pulsoIA',
   },
   robots: { index: true, follow: true },
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

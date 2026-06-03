@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Footer() {
   return (
@@ -8,9 +9,11 @@ export default function Footer() {
 
           {/* Marca */}
           <div className="col-span-2">
-            <div className="flex items-center gap-2 mb-3">
-              <span className="w-7 h-7 rounded-lg bg-blue-600 flex items-center justify-center text-white text-xs font-bold">IA</span>
-              <span className="font-bold text-white text-base" style={{ fontFamily: 'Newsreader, Georgia, serif' }}>IA en Español</span>
+            <div className="flex items-center gap-2.5 mb-3">
+              <Image src="/logo.svg" alt="PulsoIA" width={32} height={32} />
+              <span className="font-bold text-white text-lg" style={{ fontFamily: 'Newsreader, Georgia, serif' }}>
+                PulsoIA
+              </span>
             </div>
             <p className="text-xs leading-relaxed text-zinc-500 max-w-xs">
               El blog de referencia sobre inteligencia artificial en español. Guías prácticas, comparativas y tutoriales sin tecnicismos innecesarios.
@@ -44,8 +47,8 @@ export default function Footer() {
         </div>
 
         <div className="pt-6 border-t border-zinc-800 flex flex-col md:flex-row justify-between items-center gap-2">
-          <p className="text-[11px] text-zinc-600">© {new Date().getFullYear()} IA en Español. Todos los derechos reservados.</p>
-          <p className="text-[11px] text-zinc-700">Este sitio utiliza cookies y publicidad de Google AdSense — <Link href="/privacidad" className="hover:text-zinc-500 transition-colors underline">Política de privacidad</Link></p>
+          <p className="text-[11px] text-zinc-600">© {new Date().getFullYear()} PulsoIA. Todos los derechos reservados.</p>
+          <p className="text-[11px] text-zinc-700">Este sitio utiliza cookies y publicidad de Google AdSense — <Link href="/privacidad" className="hover:text-zinc-500 underline transition-colors">Política de privacidad</Link></p>
         </div>
       </div>
     </footer>

@@ -1,8 +1,8 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Contacto',
-  description: 'Ponte en contacto con el equipo de IA en Español. Respondemos en menos de 48 horas.',
+  description: 'Ponte en contacto con el equipo de PulsoIA. Respondemos en menos de 48 horas.',
 }
 
 export default function ContactPage() {

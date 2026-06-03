@@ -1,8 +1,8 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Sobre nosotros',
-  description: 'Conoce quiénes somos, por qué creamos IA en Español y nuestra misión de acercar la inteligencia artificial a todos los hispanohablantes.',
+  description: 'Conoce quiénes somos, por qué creamos PulsoIA y nuestra misión de acercar la inteligencia artificial a todos los hispanohablantes.',
 }
 
 export default function AboutPage() {
@@ -14,7 +14,7 @@ export default function AboutPage() {
           ¿Quiénes somos?
         </h1>
         <p className="text-lg text-zinc-500">
-          Somos un equipo de entusiastas de la tecnología y la inteligencia artificial con una misión clara: explicar la IA en español, de forma honesta y sin tecnicismos innecesarios.
+          Somos un equipo de entusiastas de la tecnología y la inteligencia artificial con una misión clara: explicar la IA de forma honesta y sin tecnicismos innecesarios.
         </p>
       </header>
 
@@ -24,7 +24,7 @@ export default function AboutPage() {
           La inteligencia artificial está transformando el mundo a una velocidad sin precedentes. Sin embargo, la mayoría del contenido de calidad sobre IA está en inglés, lo que deja fuera a millones de hispanohablantes que quieren entender y aprovechar estas herramientas.
         </p>
         <p>
-          <strong>IA en Español</strong> nació en 2026 para cerrar esa brecha. Publicamos guías prácticas, comparativas honestas y tutoriales paso a paso sobre las herramientas de inteligencia artificial más relevantes, todo en español y pensado para el día a día.
+          <strong>PulsoIA</strong> nació en 2026 para cerrar esa brecha. Publicamos guías prácticas, comparativas honestas y tutoriales paso a paso sobre las herramientas de inteligencia artificial más relevantes, todo en español y pensado para el día a día.
         </p>
 
         <h2>Qué encontrarás aquí</h2>

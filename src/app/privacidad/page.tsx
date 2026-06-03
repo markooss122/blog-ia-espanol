@@ -1,8 +1,8 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Política de Privacidad',
-  description: 'Política de privacidad de IA en Español. Información sobre cómo recopilamos, usamos y protegemos tus datos.',
+  description: 'Política de privacidad de PulsoIA. Información sobre cómo recopilamos, usamos y protegemos tus datos.',
 }
 
 export default function PrivacyPage() {
@@ -18,7 +18,7 @@ export default function PrivacyPage() {
 
       <div className="prose">
         <p>
-          En <strong>IA en Español</strong> (en adelante, "el sitio web"), accesible desde este dominio, la privacidad de nuestros visitantes es una prioridad. Esta Política de Privacidad describe qué información recopilamos, cómo la usamos y qué derechos tienes sobre ella.
+          En <strong>PulsoIA</strong> (en adelante, "el sitio web"), accesible desde este dominio, la privacidad de nuestros visitantes es una prioridad. Esta Política de Privacidad describe qué información recopilamos, cómo la usamos y qué derechos tienes sobre ella.
         </p>
 
         <h2>1. Información que recopilamos</h2>

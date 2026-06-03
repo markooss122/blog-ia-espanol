@@ -111,7 +111,7 @@ export default async function ArticlePage({ params }: Props) {
               <div className="flex items-center gap-2">
                 <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold">IA</div>
                 <div>
-                  <p className="text-xs font-semibold text-zinc-800">Equipo IA en Español</p>
+                  <p className="text-xs font-semibold text-zinc-800">Equipo PulsoIA</p>
                   <p className="text-[10px] text-zinc-400">Publicado el {date}</p>
                 </div>
               </div>
