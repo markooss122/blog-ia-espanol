@@ -164,3 +164,29 @@ Lunes (10 minutos): programar todos los posts en Buffer o Metricool, revisar los
 El resto de la semana: responder comentarios y menciones en tiempo real, publicar 1-2 posts espontaneos si surge algo relevante.
 
 Este sistema no elimina el trabajo creativo. Lo concentra en el momento de mayor energia y deja el resto de la semana libre para trabajo de mayor valor.
+## Tabla comparativa: herramientas de automatización para redes sociales
+
+| Herramienta | Plan gratuito | Mejor para | Integración IA |
+|---|---|---|---|
+| **Buffer** | 3 canales, 10 posts | Programación simple | ChatGPT via Zapier |
+| **Metricool** | 1 marca | Analytics + programación | Generación de captions |
+| **Hootsuite** | Muy limitado | Equipos grandes | OwlyWriter AI integrado |
+| **Later** | 1 perfil/red | Instagram y TikTok | Sugerencias de hashtags |
+| **Publer** | 3 cuentas | Variedad de redes | AI Assist integrado |
+
+## Resumen: cuándo automatizar y cuándo no
+
+> La automatización de redes sociales funciona mejor para el contenido planificado y evergreen. Las conversaciones en tiempo real, las crisis de reputación y las respuestas a comentarios siempre necesitan intervención humana.
+
+**Automatiza sin dudar:**
+- Posts informativos y tutoriales programados
+- Republica de contenido evergreen cada 3-6 meses
+- Informes de rendimiento semanales
+- Respuestas automáticas a mensajes directos frecuentes
+
+**Nunca automatices:**
+- Respuestas a comentarios negativos o quejas
+- Participación en conversaciones de tendencias
+- Interacciones con seguidores influyentes
+- Comunicación de crisis o noticias urgentes
+

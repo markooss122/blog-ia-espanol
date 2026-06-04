@@ -154,3 +154,27 @@ Estudiar con preguntas generadas por IA te prepara mejor para el examen que rele
 ### El metodo Feynman con IA
 
 El metodo Feynman consiste en explicar un concepto como si se lo enseNaras a alguien que no sabe nada. Con IA puedes llevarlo mas lejos: explica el concepto al chatbot y pidele que te haga preguntas para comprobar que realmente lo entiendes, no solo que has memorizado la definicion.
+## Tabla: usos de la IA por tipo de estudiante
+
+| Perfil | Herramienta recomendada | Uso principal | Tiempo ahorrado |
+|---|---|---|---|
+| **Universitario** | Claude, ChatGPT | Resúmenes, comprensión | 2-3h/semana |
+| **Opositor** | Claude | Síntesis de temarios largos | 4-5h/semana |
+| **Idiomas** | ChatGPT, DeepL | Práctica conversacional | 1-2h/semana |
+| **Programación** | GitHub Copilot, ChatGPT | Depuración, explicación | 3-4h/semana |
+| **Investigación** | Perplexity, Elicit | Búsqueda de fuentes | 2-3h/semana |
+| **Bachillerato** | ChatGPT | Explicación de conceptos | 1-2h/semana |
+
+## Lo que la IA hace bien vs. lo que necesitas estudiar tú
+
+> La IA es una herramienta de comprensión, no un sustituto del estudio. Usarla para evitar pensar activamente sobre el material destruye el aprendizaje real.
+
+| La IA puede ayudarte con... | Necesitas hacerlo tú... |
+|---|---|
+| Explicar conceptos difíciles de otra forma | Memorizar información clave |
+| Generar ejemplos prácticos | Resolver problemas sin ayuda |
+| Revisar tu redacción | Construir argumentos propios |
+| Crear tests de práctica | Hacer los tests sin mirar |
+| Resumir textos largos | Leer los textos importantes |
+| Traducir vocabulario técnico | Interiorizar el vocabulario |
+

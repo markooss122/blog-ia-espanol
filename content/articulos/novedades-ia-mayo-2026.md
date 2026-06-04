@@ -142,3 +142,28 @@ Los proximos lanzamientos que generan mas expectativa en la comunidad:
 - **Claude 4:** Anthropic se centra en mejorar las capacidades de uso de herramientas y automatizacion
 
 El ritmo de innovacion no da senales de frenarse. Para los usuarios, la recomendacion practica es simple: no esperes el siguiente modelo para empezar a usar IA. El modelo actual ya es mas que suficiente para transformar tu productividad.
+## Los lanzamientos más importantes de mayo 2026: tabla resumen
+
+| Empresa | Lanzamiento | Categoría | Impacto |
+|---|---|---|---|
+| **OpenAI** | GPT-4o con voz mejorada | Modelo multimodal | Alto |
+| **Anthropic** | Claude con memoria persistente | Asistente | Alto |
+| **Google** | Gemini 2.0 Flash | Modelo rápido | Medio |
+| **Meta** | Llama 4 open source | Modelo abierto | Alto |
+| **Mistral** | Mistral Large 2 | Modelo europeo | Medio |
+| **Stability AI** | Stable Diffusion 4 | Imágenes | Medio |
+
+## Tendencias consolidadas en mayo 2026
+
+> El mes confirmó tres tendencias que llevan meses desarrollándose: la memoria persistente en asistentes, los agentes autónomos para tareas complejas, y la reducción de costes de los modelos más capaces.
+
+**Lo que esto significa para usuarios:**
+- Los asistentes recuerdan tus preferencias y contexto entre conversaciones
+- Los precios de la API bajan un 40-60% respecto a hace 12 meses
+- Los modelos open source alcanzan la calidad de los modelos de pago de 2024
+
+**Lo que esto significa para empresas:**
+- Automatizaciones más complejas son ahora económicamente viables
+- Menor dependencia de un único proveedor gracias al open source
+- Los casos de uso de agentes autónomos empiezan a ser producción-ready
+

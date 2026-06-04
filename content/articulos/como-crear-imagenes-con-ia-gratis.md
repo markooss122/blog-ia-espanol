@@ -165,3 +165,29 @@ Si creas contenido para un blog y necesitas imagenes originales para cada articu
 5. Sube la imagen comprimida a tu blog con un alt text descriptivo
 
 Con este proceso, cada imagen tarda menos de 5 minutos y el resultado es original, relevante y gratuito.
+## Comparativa de herramientas gratuitas para crear imágenes con IA
+
+| Herramienta | Límite gratuito | Calidad | Velocidad | Mejor para |
+|---|---|---|---|---|
+| **Bing Image Creator** | Ilimitado (lento sin créditos) | ⭐⭐⭐⭐⭐ | Alta | Uso general, fotos realistas |
+| **Adobe Firefly** | 25 créditos/mes | ⭐⭐⭐⭐ | Alta | Uso comercial seguro |
+| **Leonardo AI** | 150 créditos/día | ⭐⭐⭐⭐ | Media | Arte, personajes, estilos |
+| **Canva IA** | Limitado en plan free | ⭐⭐⭐ | Alta | Diseño gráfico con texto |
+| **Stable Diffusion** | Ilimitado (local) | ⭐⭐⭐⭐ | Variable | Control total, sin límites |
+
+## Guía rápida de prompts por estilo
+
+> Un prompt bien escrito marca la diferencia entre una imagen genérica y una imagen profesional. Estos son los patrones que mejor funcionan:
+
+**Para fotografía realista:**
+`fotografia profesional de [sujeto], luz natural, fondo desenfocado, calidad 4K, estilo editorial`
+
+**Para ilustración:**
+`ilustracion digital de [sujeto], estilo minimalista, paleta de colores azul y blanco, fondo limpio`
+
+**Para infografías:**
+`diseño plano de [concepto], iconos simples, colores corporativos, estilo moderno, sin texto`
+
+**Para redes sociales:**
+`imagen cuadrada para Instagram de [tema], llamativa, colores vibrantes, composición centrada`
+

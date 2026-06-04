@@ -136,3 +136,30 @@ Ebooks, plantillas de prompts, packs de imágenes, cursos cortos... productos qu
 5. Sube el precio con cada cliente nuevo
 
 La IA reduce la barrera de entrada, pero no elimina la necesidad de ofrecer valor real. El dinero llega cuando ayudas a alguien a resolver un problema concreto, no por usar herramientas sofisticadas.
+## Las 10 formas de ganar dinero con IA: tabla resumen
+
+| Método | Inversión inicial | Tiempo para primeros ingresos | Potencial mensual |
+|---|---|---|---|
+| **Servicios de copywriting IA** | Muy baja | 1-2 semanas | 500-3.000€ |
+| **Creación de prompts** | Nula | 1 semana | 100-800€ |
+| **Automatización para pymes** | Baja | 2-4 semanas | 1.000-5.000€ |
+| **Blog monetizado con AdSense** | Baja | 3-6 meses | 200-2.000€ |
+| **Cursos online sobre IA** | Media | 1-3 meses | 500-5.000€ |
+| **Diseño gráfico con Midjourney** | Baja | 2-3 semanas | 300-2.000€ |
+| **Traducción y localización** | Nula | 1 semana | 400-1.500€ |
+| **Asistente virtual con IA** | Nula | 1 semana | 600-2.500€ |
+| **Generación de vídeo** | Media | 1-2 meses | 500-3.000€ |
+| **Consultoría de IA para empresas** | Baja | 2-4 semanas | 2.000-10.000€ |
+
+> **Dato importante:** Los métodos con menor inversión inicial suelen tener menor potencial a largo plazo. Los de mayor potencial (consultoría, automatización) requieren más tiempo de aprendizaje pero son mucho más escalables.
+
+## Herramientas clave por tipo de ingreso
+
+| Tipo de servicio | Herramientas principales | Precio mensual |
+|---|---|---|
+| Escritura y contenido | ChatGPT Plus, Claude Pro | 20-40€ |
+| Imágenes y diseño | Midjourney, Adobe Firefly | 10-30€ |
+| Vídeo | Runway ML, Sora | 15-76€ |
+| Automatización | Make, Zapier, n8n | 0-20€ |
+| Voz y audio | ElevenLabs, Whisper | 0-22€ |
+

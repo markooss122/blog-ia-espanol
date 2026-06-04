@@ -195,3 +195,24 @@ Zapier es el mejor punto de entrada para la automatizacion con IA porque su inte
 - Quieren mas control sobre el flujo de datos y la gestion de errores
 
 La buena noticia: aprender Zapier es el mejor entrenamiento para aprender Make despues. Los conceptos son los mismos, la interfaz de Make es algo mas compleja pero mucho mas potente.
+## Comparativa de automatizaciones Zapier más útiles para negocios
+
+| Automatización | Herramientas | Tareas/mes | Ahorro estimado |
+|---|---|---|---|
+| Clasificación de emails | Gmail + OpenAI | ~200 | 3-4h/semana |
+| Respuesta automática leads | Gmail + OpenAI + CRM | ~50 | 2h/semana |
+| Actualización CRM tras reunión | Calendly + OpenAI + HubSpot | ~20 | 1-2h/semana |
+| Resumen diario emails | Gmail + OpenAI | 30 (un/día) | 30 min/día |
+| Informes semanales | Sheets + OpenAI + Slack | 4 (semanal) | 1-2h/semana |
+
+## Comparativa de planes Zapier según volumen
+
+| Plan | Precio | Tareas/mes | Multi-step | Mejor para |
+|---|---|---|---|---|
+| **Gratuito** | 0€ | 100 | No | Probar, uso mínimo |
+| **Starter** | 20€ | 750 | Sí | Freelancers y autónomos |
+| **Professional** | 49€ | 2.000 | Sí | Pequeñas empresas |
+| **Team** | 69€ | 2.000 + equipo | Sí | Equipos de 2-5 personas |
+
+> **Regla práctica:** Antes de pagar Zapier, calcula cuántas tareas al mes necesitas realmente. La mayoría de autónomos con 2-3 automatizaciones activas no supera las 750 tareas mensuales del plan Starter.
+

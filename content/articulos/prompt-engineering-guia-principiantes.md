@@ -185,3 +185,25 @@ La forma mas objetiva de medir si tus prompts mejoran es comparar el tiempo que 
 Otra metrica util: la cantidad de edicion manual que necesita el texto generado antes de estar listo para usar. Si antes editabas el 40% del texto y ahora solo el 15%, el prompt es significativamente mejor aunque el resultado parezca similar a primera vista.
 
 El objetivo no es perfeccion en el primer intento sino reducir el numero de ciclos necesarios para llegar a un resultado util. Con practica consistente, la mayoria de usuarios alcanzan ese punto en 2-4 semanas de uso diario.
+## Comparativa de técnicas de prompt engineering por nivel
+
+| Técnica | Nivel | Cuándo usarla | Ejemplo |
+|---|---|---|---|
+| **Prompt directo** | Principiante | Tareas simples | "Resume este texto en 3 puntos" |
+| **Role prompting** | Principiante | Cambiar perspectiva | "Actúa como experto en marketing" |
+| **Few-shot** | Intermedio | Formato específico | Dar 2-3 ejemplos del output deseado |
+| **Chain of thought** | Intermedio | Razonamiento complejo | "Piensa paso a paso..." |
+| **Tree of thought** | Avanzado | Decisiones complejas | Explorar múltiples caminos |
+| **ReAct** | Avanzado | Agentes con herramientas | Razonar + actuar + observar |
+
+## Cuánto mejora el output según el tipo de prompt
+
+| Calidad del prompt | Iteraciones necesarias | % edición manual posterior |
+|---|---|---|
+| Prompt básico (1 línea) | 4-6 iteraciones | 60-70% |
+| Prompt estructurado (contexto + tarea) | 2-3 iteraciones | 30-40% |
+| Prompt con rol + formato + ejemplos | 1-2 iteraciones | 10-20% |
+| Prompt optimizado + sistema | 1 iteración | 5-10% |
+
+> **Regla de oro:** Cada minuto invertido en mejorar un prompt ahorra 3-5 minutos de edición posterior. Para tareas recurrentes, el retorno de crear un buen prompt es exponencial.
+
