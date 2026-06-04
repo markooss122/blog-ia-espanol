@@ -15,22 +15,23 @@ declare global {
 }
 
 export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnitProps) {
-  const [hasConsent, setHasConsent] = useState<boolean | null>(null)
+  const [ready, setReady] = useState(false)
+  const [personalized, setPersonalized] = useState(false)
 
   useEffect(() => {
     const consent = localStorage.getItem('cookie-consent')
-    setHasConsent(consent === 'accepted')
+    setPersonalized(consent === 'accepted')
+    setReady(true)
   }, [])
 
   useEffect(() => {
-    if (hasConsent) {
-      try {
-        (window.adsbygoogle = window.adsbygoogle || []).push({})
-      } catch {}
-    }
-  }, [hasConsent])
+    if (!ready) return
+    try {
+      (window.adsbygoogle = window.adsbygoogle || []).push({})
+    } catch {}
+  }, [ready])
 
-  if (!hasConsent) return null
+  if (!ready) return null
 
   return (
     <ins
@@ -40,6 +41,7 @@ export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnit
       data-ad-slot={slot}
       data-ad-format={format}
       data-full-width-responsive="true"
+      {...(!personalized && { 'data-npa-on-page-load': '1' })}
     />
   )
 }
