@@ -143,3 +143,12 @@ La evolucion en los ultimos dos anos ha sido extraordinaria. En 2024, las manos 
 Las areas de mejora mas activas ahora mismo son la coherencia de personajes entre imagenes, la integracion con video (Sora, Runway, Pika), y el control fino sobre la composicion sin necesidad de prompts muy tecnicos.
 
 La conclusion practica: las herramientas actuales ya son mas que suficientes para la mayoria de casos de uso profesionales. No hay razon para esperar la siguiente version antes de empezar a usar generadores de imagenes con IA.
+
+![Arte digital generado con inteligencia artificial](https://images.unsplash.com/photo-1561736778-92e52a7769ef?auto=format&fit=crop&w=800&q=80)
+*Midjourney sigue siendo el estándar de calidad para arte conceptual e ilustración en 2026.*
+
+---
+
+![Galería de imágenes generadas por IA](https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=800&q=80)
+*Stable Diffusion permite control total sobre el proceso generativo para usuarios avanzados.*
+

@@ -142,3 +142,12 @@ Notion AI es para el presente: es excelente gestionando informacion actual y col
 Obsidian con IA es para el futuro: construyes una base de conocimiento que se vuelve mas valiosa con el tiempo, porque las conexiones entre ideas se acumulan y se vuelven mas ricas.
 
 Para la mayoria de profesionales, la decision practica es empezar con Notion AI (mas facil de adoptar) y migrar a Obsidian si con el tiempo sientes que necesitas mas control y profundidad.
+
+![Aplicación de toma de notas en portátil](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=800&q=80)
+*Notion AI genera contenido, resume páginas y responde preguntas sobre tu base de conocimiento.*
+
+---
+
+![Sistema de gestión del conocimiento en pantalla](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80)
+*Obsidian con plugins de IA mantiene todo tu conocimiento en archivos locales.*
+

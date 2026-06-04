@@ -100,3 +100,35 @@ h1, h2, h3 {
   font-size: 0.85rem;
 }
 .prose hr { border: none; border-top: 1px solid #E4E4E7; margin: 2rem 0; }
+.prose img {
+  width: 100%;
+  border-radius: 10px;
+  margin: 2rem 0 0.5rem;
+  object-fit: cover;
+  max-height: 420px;
+  display: block;
+}
+.prose img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #71717A;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+.prose .info-box {
+  background: #EFF6FF;
+  border-left: 4px solid #2563EB;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+.prose .warning-box {
+  background: #FFFBEB;
+  border-left: 4px solid #F59E0B;
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}

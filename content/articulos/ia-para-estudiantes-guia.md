@@ -178,3 +178,13 @@ El metodo Feynman consiste en explicar un concepto como si se lo enseNaras a alg
 | Resumir textos largos | Leer los textos importantes |
 | Traducir vocabulario técnico | Interiorizar el vocabulario |
 
+
+
+![Estudiante trabajando con ordenador portátil](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80)
+*La IA puede reducir el tiempo de estudio hasta un 40% cuando se usa para comprender, no para copiar.*
+
+---
+
+![Grupo de estudiantes colaborando con tecnología](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80)
+*Usar IA para generar tests de práctica es uno de los usos más efectivos y éticamente claros.*
+

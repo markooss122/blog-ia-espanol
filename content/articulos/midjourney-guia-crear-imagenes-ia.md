@@ -8,6 +8,11 @@ category: "Herramientas"
 ---
 ## Qué es Midjourney
 
+
+![Arte digital colorido generado por inteligencia artificial](https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=800&q=80)
+*Midjourney puede generar imágenes fotorrealistas, ilustraciones y arte conceptual con igual calidad.*
+
+
 Midjourney es un generador de imágenes con inteligencia artificial. Describes lo que quieres ver con palabras y la IA crea una imagen en segundos.
 
 Es la herramienta preferida de diseñadores, ilustradores y creadores de contenido por la calidad artística de sus resultados, que supera a la competencia en la mayoría de estilos.
@@ -155,6 +160,11 @@ Más allá del arte generativo, Midjourney tiene aplicaciones profesionales muy 
 **No iterar:** Si la primera imagen no es exacta, usa la función de variación (botón V) para explorar alternativas próximas en lugar de empezar desde cero.
 
 **Ignorar los parámetros:** Los parámetros como --ar, --q y --style no son opcionales para trabajo profesional. Son la diferencia entre resultados mediocres y resultados publicables.
+
+
+![Persona usando Discord en ordenador](https://images.unsplash.com/photo-1611606063065-ee7946f0787a?auto=format&fit=crop&w=800&q=80)
+*Midjourney funciona a través de Discord y también de su propia web en midjourney.com/app.*
+
 ## Preguntas frecuentes sobre Midjourney
 
 **¿Midjourney es gratis?** No. Midjourney eliminó su plan gratuito en 2023. El plan más barato cuesta 10 dólares al mes con 200 imágenes. Antes de suscribirte, prueba alternativas gratuitas como Bing Image Creator o Adobe Firefly.
@@ -176,4 +186,5 @@ Si no quieres pagar 10 dólares al mes, estas alternativas ofrecen calidad acept
 **Stable Diffusion (local):** Si tienes un ordenador con tarjeta gráfica potente, puedes instalar Stable Diffusion localmente y generar imágenes ilimitadas sin coste. Requiere conocimientos técnicos básicos.
 
 **Leonardo AI:** Plan gratuito con 150 créditos diarios, suficiente para uso casual. Interfaz más amigable que Stable Diffusion con resultados de calidad similar a Midjourney básico.
+
 

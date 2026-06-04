@@ -167,3 +167,13 @@ El ritmo de innovacion no da senales de frenarse. Para los usuarios, la recomend
 - Menor dependencia de un único proveedor gracias al open source
 - Los casos de uso de agentes autónomos empiezan a ser producción-ready
 
+
+
+![Noticias de tecnología en pantalla digital](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80)
+*Mayo 2026 fue uno de los meses más activos en lanzamientos de IA desde el boom de ChatGPT en 2022.*
+
+---
+
+![Robot futurista representando avances en IA](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80)
+*Los modelos open source como Llama 4 están acercando las capacidades de la IA avanzada a cualquier empresa.*
+

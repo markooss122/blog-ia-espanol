@@ -165,3 +165,12 @@ Si las conversaciones que transcribes contienen informacion confidencial (reunio
 Herramientas cloud como Otter.ai o Fireflies.ai procesan el audio en sus servidores. Aunque tienen politicas de privacidad que protegen tus datos, el audio sale de tu infraestructura.
 
 Whisper ejecutado localmente (usando la libreria de Python o aplicaciones como MacWhisper o Buzz) procesa todo en tu propio ordenador. Ningun dato sale a servidores externos. Esta es la opcion adecuada para contenido confidencial.
+
+![Micrófono profesional en estudio](https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=800&q=80)
+*La calidad del micrófono es el factor más importante para obtener buenas transcripciones con IA.*
+
+---
+
+![Onda de audio en pantalla de edición](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80)
+*Herramientas como Descript permiten editar audio eliminando palabras directamente del texto transcrito.*
+

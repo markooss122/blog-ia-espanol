@@ -1,4 +1,4 @@
----
+﻿---
 image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Texto y código de prompt engineering en pantalla"
 title: "Prompt Engineering: cómo hablar con la IA para obtener mejores respuestas"
@@ -7,6 +7,11 @@ date: "2026-05-15"
 category: "Tutoriales"
 ---
 ## Qué es el prompt engineering
+
+
+![Persona escribiendo en teclado con pantalla de código](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80)
+*Un buen prompt es la diferencia entre una respuesta genérica y una respuesta realmente útil.*
+
 
 Un "prompt" es simplemente lo que le escribes a la IA. El "prompt engineering" es el arte de formular esas instrucciones de forma que obtengas las mejores respuestas posibles.
 
@@ -185,6 +190,11 @@ La forma mas objetiva de medir si tus prompts mejoran es comparar el tiempo que 
 Otra metrica util: la cantidad de edicion manual que necesita el texto generado antes de estar listo para usar. Si antes editabas el 40% del texto y ahora solo el 15%, el prompt es significativamente mejor aunque el resultado parezca similar a primera vista.
 
 El objetivo no es perfeccion en el primer intento sino reducir el numero de ciclos necesarios para llegar a un resultado util. Con practica consistente, la mayoria de usuarios alcanzan ese punto en 2-4 semanas de uso diario.
+
+
+![Diagrama de flujo de trabajo digital](https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=800&q=80)
+*El prompt engineering es una habilidad que mejora con práctica constante.*
+
 ## Comparativa de técnicas de prompt engineering por nivel
 
 | Técnica | Nivel | Cuándo usarla | Ejemplo |
@@ -206,4 +216,5 @@ El objetivo no es perfeccion en el primer intento sino reducir el numero de cicl
 | Prompt optimizado + sistema | 1 iteración | 5-10% |
 
 > **Regla de oro:** Cada minuto invertido en mejorar un prompt ahorra 3-5 minutos de edición posterior. Para tareas recurrentes, el retorno de crear un buen prompt es exponencial.
+
 

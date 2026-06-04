@@ -1,4 +1,4 @@
----
+﻿---
 image: "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Persona usando ChatGPT en un ordenador"
 title: "Qué es ChatGPT y cómo usarlo paso a paso (Guía 2026)"
@@ -8,9 +8,18 @@ category: "Tutoriales"
 ---
 ## Qué es ChatGPT
 
+
+![Pantalla de registro en ChatGPT](https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80)
+*Crear una cuenta en ChatGPT es gratuito y tarda menos de 2 minutos.*
+
 ChatGPT es un asistente de inteligencia artificial desarrollado por OpenAI. Puedes hablar con él como si fuera una persona: hacerle preguntas, pedirle que redacte textos, que explique conceptos o que te ayude a resolver problemas.
 
 Desde su lanzamiento en 2022, se ha convertido en la herramienta de IA más usada del mundo, con más de 200 millones de usuarios activos.
+
+
+
+![Persona usando el móvil con aplicación de IA](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=800&q=80)
+*ChatGPT está disponible en web y app móvil para iOS y Android.*
 
 ## Para qué sirve ChatGPT
 
@@ -51,6 +60,11 @@ El plan gratuito da acceso a GPT-4o mini, que es más que suficiente para la may
 
 **Usa roles.** "Actúa como un experto en marketing digital y ayúdame a..."
 
+
+
+![Persona usando el móvil con aplicación de IA](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=800&q=80)
+*ChatGPT está disponible en web y app móvil para iOS y Android.*
+
 ## Conclusión
 
 ChatGPT es la puerta de entrada más sencilla al mundo de la IA. Su versión gratuita ya ofrece un valor enorme, y con algo de práctica en cómo formular las preguntas, se convierte en un asistente imprescindible para el día a día.
@@ -67,6 +81,11 @@ Muchos usuarios nuevos cometen los mismos errores que les impiden sacar el máxi
 **Error 3: Aceptar la primera respuesta sin cuestionar.** ChatGPT "alucina": puede presentar información incorrecta con total confianza. Siempre verifica datos importantes con fuentes oficiales.
 
 **Error 4: No pedir mejoras.** Si la respuesta no es exactamente lo que querías, no empieces de cero. Di "hazlo más corto", "cambia el tono a más formal" o "añade más ejemplos prácticos".
+
+
+
+![Persona usando el móvil con aplicación de IA](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&w=800&q=80)
+*ChatGPT está disponible en web y app móvil para iOS y Android.*
 
 ## Casos de uso avanzados que quizás no conocías
 

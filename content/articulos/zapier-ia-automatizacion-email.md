@@ -216,3 +216,13 @@ La buena noticia: aprender Zapier es el mejor entrenamiento para aprender Make d
 
 > **Regla práctica:** Antes de pagar Zapier, calcula cuántas tareas al mes necesitas realmente. La mayoría de autónomos con 2-3 automatizaciones activas no supera las 750 tareas mensuales del plan Starter.
 
+
+
+![Bandeja de correo electrónico organizada](https://images.unsplash.com/photo-1557200134-90327ee9fafa?auto=format&fit=crop&w=800&q=80)
+*Con Zapier e IA, tu bandeja de entrada se clasifica sola sin que toques un email.*
+
+---
+
+![CRM con datos de clientes en pantalla](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80)
+*Automatizar la actualización del CRM ahorra hasta 45 minutos diarios por comercial.*
+

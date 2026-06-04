@@ -119,3 +119,12 @@ Si trabajas en una empresa que usa Microsoft 365 y tu dia a dia implica Word, Ex
 Si eres freelance, estudiante o tu trabajo no gira alrededor de Office, ChatGPT Plus ofrece mas versatilidad al mismo precio. Puedes generar imagenes, usar GPTs especializados y conectar con mas herramientas externas.
 
 Para la mayoria de usuarios que trabajan en empresas medianas o grandes con Microsoft 365, la combinacion optima es Copilot for Microsoft 365 para el trabajo diario y ChatGPT Plus para tareas creativas y personales. Son herramientas complementarias, no rivales directas.
+
+![Interfaz de Microsoft Copilot en pantalla](https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80)
+*Microsoft Copilot está integrado en Word, Excel y Teams sin apps adicionales.*
+
+---
+
+![Pantalla de ordenador con herramientas de productividad](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80)
+*ChatGPT tiene más flexibilidad pero requiere copiar y pegar entre aplicaciones.*
+

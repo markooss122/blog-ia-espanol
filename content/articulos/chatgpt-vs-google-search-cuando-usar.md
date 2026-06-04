@@ -152,3 +152,12 @@ La regla de oro: si el dato importa, verificalo en Google o en la fuente origina
 ## Resumen ejecutivo
 
 Usa Google para encontrar, verificar y acceder a informacion actual y especifica. Usa ChatGPT o Claude para crear, analizar, resumir y transformar. La combinacion de ambas herramientas es mas potente que cualquiera por separado, y los usuarios que dominan este flujo tienen una ventaja real de productividad sobre los que usan solo una.
+
+![Búsqueda en Google en pantalla de ordenador](https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&w=800&q=80)
+*Google sigue siendo insuperable para buscar información actual y local con fuentes verificables.*
+
+---
+
+![Chat con inteligencia artificial en pantalla](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=800&q=80)
+*ChatGPT brilla cuando necesitas síntesis, análisis o generar contenido a partir de lo que buscas.*
+

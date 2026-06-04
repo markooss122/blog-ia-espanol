@@ -127,3 +127,12 @@ En 2026, la distancia entre GPT-4o y Gemini Ultra se ha reducido significativame
 - La importancia del ecosistema de integraciones de OpenAI para tu flujo de trabajo
 
 Si puedes, prueba ambos durante el primer mes con sus planes de pago. La experiencia practica con tus propias tareas vale mas que cualquier comparativa teorica.
+
+![Comparativa de modelos de IA en pantalla](https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80)
+*GPT-4o y Gemini Ultra representan lo más avanzado disponible al público en 2026.*
+
+---
+
+![Logo de Google con tecnología de IA](https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?auto=format&fit=crop&w=800&q=80)
+*Gemini Ultra se integra con todo el ecosistema de Google, una ventaja clave para usuarios de Gmail y Workspace.*
+

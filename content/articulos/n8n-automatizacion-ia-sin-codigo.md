@@ -132,3 +132,12 @@ Claude extrae: asistentes, puntos principales, decisiones tomadas y tareas asign
 4. Identifica el siguiente proceso repetitivo en tu trabajo y automatizalo
 
 n8n es una de las inversiones de tiempo mas rentables de 2026. Las primeras horas de aprendizaje se recuperan en la primera semana de uso, y las automatizaciones siguen funcionando indefinidamente sin mantenimiento.
+
+![Flujos de automatización conectando aplicaciones](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80)
+*n8n permite crear automatizaciones visuales sin código conectando más de 400 aplicaciones.*
+
+---
+
+![Diagrama de flujo de trabajo digital](https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=800&q=80)
+*Los flujos de n8n se ejecutan automáticamente 24/7 sin intervención manual.*
+

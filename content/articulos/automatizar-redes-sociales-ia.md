@@ -190,3 +190,13 @@ Este sistema no elimina el trabajo creativo. Lo concentra en el momento de mayor
 - Interacciones con seguidores influyentes
 - Comunicación de crisis o noticias urgentes
 
+
+
+![Aplicaciones de redes sociales en móvil](https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80)
+*Buffer, Metricool y Hootsuite integran IA para sugerir los mejores horarios de publicación.*
+
+---
+
+![Métricas de redes sociales en pantalla](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80)
+*El análisis de métricas con IA permite identificar qué tipo de contenido genera más engagement.*
+

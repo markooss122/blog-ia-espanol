@@ -145,3 +145,12 @@ Make Core (9 dolares al mes) ofrece 10.000 operaciones mensuales, suficiente par
 El coste adicional de la API de OpenAI o Claude hay que sumarlo: para la mayoria de flujos de negocio con volumen moderado, espera gastar entre 5 y 20 dolares adicionales al mes en llamadas de IA.
 
 La comparativa final de costes para automatizacion con IA a escala media: Make Pro + OpenAI API cuesta aproximadamente 36-56 dolares al mes. El equivalente en Zapier con sus planes Teams y el addon de IA seria 80-120 dolares al mes. Make es significativamente mas economico para el mismo resultado.
+
+![Diagrama de flujos de trabajo en pantalla](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?auto=format&fit=crop&w=800&q=80)
+*Make usa un canvas visual donde puedes ver todos los pasos de tu automatización de un vistazo.*
+
+---
+
+![Conexiones entre aplicaciones digitales](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=800&q=80)
+*Make conecta más de 1.500 apps incluyendo las principales herramientas de IA.*
+

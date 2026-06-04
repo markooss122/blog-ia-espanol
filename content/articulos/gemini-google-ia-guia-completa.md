@@ -1,4 +1,4 @@
----
+﻿---
 image: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Logotipo de Google con tecnología de inteligencia artificial"
 title: "Gemini de Google: guía completa para principiantes (2026)"
@@ -7,6 +7,11 @@ date: "2026-05-20"
 category: "Tutoriales"
 ---
 ## Qué es Gemini
+
+
+![Logotipo de Google en edificio corporativo](https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?auto=format&fit=crop&w=800&q=80)
+*Google integra Gemini en toda su suite de productos: Gmail, Docs, Maps y más.*
+
 
 Gemini es el asistente de inteligencia artificial de Google. Antes se llamaba Bard, pero Google lo relanzó y mejoró bajo el nombre Gemini en 2024.
 
@@ -100,6 +105,11 @@ Ninguna herramienta es perfecta. Gemini tiene algunas limitaciones que conviene 
 **Contexto de 1 millón de tokens:** Aunque impresionante en teoría, el rendimiento puede degradarse con contextos extremadamente largos.
 
 **Integración fuera de Google:** Si no usas el ecosistema de Google, pierdes gran parte del valor diferencial de Gemini.
+
+
+
+![Teléfono Android con aplicación de inteligencia artificial](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80)
+*En dispositivos Android, Gemini sustituye al Asistente de Google con capacidades mucho más avanzadas.*
 
 ## Gemini Advanced: las funciones que justifican el plan de pago
 

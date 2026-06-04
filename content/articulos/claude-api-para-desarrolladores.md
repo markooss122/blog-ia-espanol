@@ -257,3 +257,13 @@ El mejor punto de partida: crea una cuenta gratuita en `console.anthropic.com`, 
 **¿Puedo usar la API para un negocio?** Sí, con los planes de API de Anthropic puedes usar Claude en aplicaciones comerciales. Lee los términos de uso para casos específicos.
 
 **¿La API funciona en streaming?** Sí, Claude soporta streaming para mostrar la respuesta mientras se genera, lo que mejora la experiencia de usuario en chatbots.
+
+
+![Código de programación en pantalla oscura](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80)
+*La API de Claude es especialmente valorada para aplicaciones que procesan documentos largos en español.*
+
+---
+
+![Programador trabajando con múltiples monitores](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80)
+*Con el SDK oficial de Anthropic, integrar Claude en tu aplicación lleva menos de una hora.*
+

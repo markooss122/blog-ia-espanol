@@ -1,4 +1,4 @@
----
+﻿---
 image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Buscador inteligente Perplexity AI en pantalla de ordenador"
 title: "Perplexity AI: el buscador inteligente que deberías usar en lugar de Google"
@@ -7,6 +7,11 @@ date: "2026-04-20"
 category: "Herramientas"
 ---
 ## Qué es Perplexity AI
+
+
+![Búsqueda en internet en pantalla de ordenador](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&w=800&q=80)
+*Perplexity muestra las fuentes de cada respuesta, algo que Google y ChatGPT no siempre hacen.*
+
 
 Perplexity es un motor de búsqueda impulsado por IA. A diferencia de Google (que te da una lista de enlaces) o ChatGPT (que da respuestas sin fuentes), Perplexity combina lo mejor de ambos: **respuestas directas con fuentes citadas**.
 
@@ -120,6 +125,11 @@ El plan Pro cuesta 17 euros al mes y desbloquea:
 - Modo de investigacion profunda (analiza mas fuentes antes de responder)
 
 Para un investigador, periodista o profesional que hace muchas busquedas cada dia, el Pro se amortiza rapidamente. Para uso casual, el plan gratuito con 5 busquedas Pro diarias es suficiente.
+
+
+
+![Noticias y resultados de búsqueda en pantalla](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80)
+*El modo Pro de Perplexity permite búsquedas más profundas con acceso a fuentes académicas.*
 
 ## Limitaciones que debes conocer
 

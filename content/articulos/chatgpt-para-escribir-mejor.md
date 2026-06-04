@@ -234,3 +234,13 @@ Con el tiempo, esta biblioteca se convierte en un activo personal que ninguna ot
 
 > **Dato clave:** Para escritura editorial en español, Claude produce textos que requieren un 30-40% menos de edición posterior que GPT-4o, según pruebas directas con textos de más de 800 palabras.
 
+
+
+![Persona escribiendo en teclado de ordenador](https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80)
+*ChatGPT como asistente de escritura reduce el tiempo de producción de contenido hasta un 60%.*
+
+---
+
+![Documento de texto en pantalla de ordenador](https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80)
+*El resultado final siempre debe revisarse: la voz y el criterio editorial siguen siendo tuyos.*
+

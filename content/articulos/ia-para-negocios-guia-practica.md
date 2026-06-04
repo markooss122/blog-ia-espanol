@@ -134,3 +134,12 @@ Canva gratuito con IA para disenar materiales de marketing sin contratar a un di
 Otter.ai gratuito con 300 minutos de transcripcion al mes para reuniones.
 
 Con estas cuatro herramientas gratuitas ya puedes automatizar la creacion de contenido, la atencion basica al cliente, el diseno de materiales y la documentacion de reuniones. El siguiente paso es medir el impacto real en tu negocio antes de invertir en planes de pago.
+
+![Equipo de trabajo usando herramientas digitales](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80)
+*La IA permite a pymes pequeñas competir con la productividad de empresas mucho más grandes.*
+
+---
+
+![Dashboard de análisis de negocio en pantalla](https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=800&q=80)
+*Los dashboards generados con IA permiten tomar decisiones basadas en datos sin necesitar un analista.*
+
