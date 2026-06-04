@@ -1,5 +1,5 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Arte generado con Stable Diffusion en pantalla de ordenador"
 title: "Stable Diffusion: guía completa para generar imágenes gratis en local (2026)"
 description: "Tutorial completo de Stable Diffusion: instalación, primeros pasos, mejores modelos, parámetros clave y cómo obtener resultados profesionales sin pagar por cada imagen."

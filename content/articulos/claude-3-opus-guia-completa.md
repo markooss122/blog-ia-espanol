@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Interfaz de Claude de Anthropic en pantalla de ordenador"
 title: "Claude 3 Opus y Claude Sonnet: guía completa para sacarles el máximo partido"
 description: "Todo sobre los modelos Claude de Anthropic: diferencias entre Opus, Sonnet y Haiku, casos de uso ideales, técnicas avanzadas de prompting y comparativa con ChatGPT."
