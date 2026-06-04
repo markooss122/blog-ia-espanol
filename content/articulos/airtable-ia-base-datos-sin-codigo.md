@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Base de datos visual con automatizaciones de inteligencia artificial en pantalla"
 title: "Airtable con IA: cómo automatizar tu base de datos sin programar en 2026"
 description: "Guía completa de Airtable con IA: automatizaciones inteligentes, integración con ChatGPT, flujos sin código y casos de uso reales para equipos y freelancers."

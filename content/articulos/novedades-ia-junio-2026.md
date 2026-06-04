@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Pantalla digital con noticias de tecnología e inteligencia artificial"
 title: "Novedades IA junio 2026: GPT-5, nuevos modelos y lo más importante del mes"
 description: "Resumen de las novedades más importantes de inteligencia artificial en junio 2026: lanzamientos, actualizaciones de modelos y herramientas que debes conocer."

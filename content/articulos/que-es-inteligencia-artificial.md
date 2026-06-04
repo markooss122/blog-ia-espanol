@@ -1,5 +1,5 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Inteligencia artificial generando texto en pantalla"
 title: "Qué es la inteligencia artificial y cómo funciona: guía para no técnicos"
 description: "Explicación clara y sin tecnicismos de qué es la inteligencia artificial, cómo funciona, sus tipos y por qué está cambiando el mundo. Guía para principiantes absolutos."

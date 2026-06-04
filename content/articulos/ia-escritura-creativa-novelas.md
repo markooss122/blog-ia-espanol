@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Escritor creativo usando inteligencia artificial para escribir novelas y relatos"
 title: "IA para escritura creativa: cómo usar Claude y ChatGPT para escribir ficción"
 description: "Guía para escritores sobre cómo usar la IA como herramienta creativa: superar el bloqueo, desarrollar personajes, construir mundos y mantener la coherencia narrativa en novelas."

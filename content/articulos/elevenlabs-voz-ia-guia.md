@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Micrófono de estudio para síntesis de voz con inteligencia artificial"
 title: "ElevenLabs: la guía completa para crear voces con IA en español"
 description: "Tutorial completo de ElevenLabs: cómo generar voz realista con IA, clonar tu propia voz, crear personajes y usar la API. La mejor herramienta de síntesis de voz en 2026."
