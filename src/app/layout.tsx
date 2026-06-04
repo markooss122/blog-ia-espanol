@@ -17,11 +17,12 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     siteName: 'PulsoIA',
-    images: [{ url: '/og-image.svg', width: 1200, height: 630, alt: 'PulsoIA — El pulso de la IA en español' }],
+    images: [{ url: '/og', width: 1200, height: 630, alt: 'PulsoIA — El pulso de la IA en español' }],
   },
   twitter: { card: 'summary_large_image', site: '@pulsoIA' },
   robots: { index: true, follow: true },
   icons: { icon: '/favicon.svg', shortcut: '/favicon.svg' },
+  alternates: { canonical: BASE_URL },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
