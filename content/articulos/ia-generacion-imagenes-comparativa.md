@@ -1,6 +1,6 @@
 ---
-image: "https://images.unsplash.com/photo-1547954575-855750c57bd3?auto=format&fit=crop&w=800&q=80"
-imageAlt: "Galería de imágenes generadas por inteligencia artificial"
+image: "https://images.unsplash.com/photo-1686191128892-3b37add4c844?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Comparativa visual entre imágenes generadas por Midjourney, DALL-E y Stable Diffusion"
 title: "Midjourney vs DALL·E 3 vs Stable Diffusion: la comparativa definitiva 2026"
 description: "Comparamos los tres grandes generadores de imágenes con IA. Calidad, precio, facilidad de uso y casos de uso reales para elegir el mejor para ti."
 date: "2026-05-18"

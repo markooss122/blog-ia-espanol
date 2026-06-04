@@ -1,6 +1,6 @@
 ---
-image: "https://images.unsplash.com/photo-1547954575-855750c57bd3?auto=format&fit=crop&w=800&q=80"
-imageAlt: "Arte digital colorido creado con inteligencia artificial"
+image: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Arte digital colorido creado gratuitamente con herramientas de inteligencia artificial"
 title: "Cómo crear imágenes con IA gratis: guía paso a paso para principiantes"
 description: "Tutorial completo para crear imágenes con inteligencia artificial sin gastar dinero. Las mejores herramientas gratuitas, cómo escribir buenos prompts y ejemplos reales."
 date: "2026-05-26"
