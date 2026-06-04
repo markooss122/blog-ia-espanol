@@ -30,7 +30,10 @@ export default function CookieBanner() {
           Usamos cookies propias y de terceros (incluyendo Google AdSense) para mejorar tu experiencia y mostrarte publicidad relevante.
           Consulta nuestra{' '}
           <Link href="/privacidad" className="underline text-zinc-200 hover:text-white">
-            Política de privacidad
+            política de privacidad
+          </Link>{' '}y{' '}
+          <Link href="/cookies" className="underline text-zinc-200 hover:text-white">
+            política de cookies
           </Link>.
         </p>
         <div className="flex gap-2 flex-shrink-0">

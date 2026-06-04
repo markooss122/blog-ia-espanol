@@ -45,7 +45,7 @@ export default function PrivacyPage() {
         <p>Tipos de cookies que utilizamos:</p>
         <ul>
           <li><strong>Cookies esenciales:</strong> necesarias para el funcionamiento básico del sitio.</li>
-          <li><strong>Cookies analíticas:</strong> nos permiten entender cómo los visitantes interactúan con el sitio (Google Analytics).</li>
+          <li><strong>Cookies analíticas:</strong> nos permiten entender cómo los visitantes interactúan con el sitio.</li>
           <li><strong>Cookies publicitarias:</strong> utilizadas por Google AdSense para mostrar anuncios relevantes basados en tus intereses.</li>
         </ul>
         <p>
@@ -63,10 +63,10 @@ export default function PrivacyPage() {
         <h2>5. Proveedores de servicios externos</h2>
         <p>Trabajamos con los siguientes proveedores externos que pueden acceder a ciertos datos:</p>
         <ul>
-          <li><strong>Google Analytics:</strong> análisis de tráfico web</li>
-          <li><strong>Google AdSense:</strong> publicidad contextual</li>
+          <li><strong>Google AdSense:</strong> publicidad contextual. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Política de privacidad de Google</a></li>
           <li><strong>Formspree:</strong> gestión de formularios de contacto</li>
           <li><strong>Vercel:</strong> alojamiento del sitio web</li>
+          <li><strong>Unsplash:</strong> imágenes de stock bajo licencia libre</li>
         </ul>
         <p>Todos estos proveedores tienen sus propias políticas de privacidad y están sujetos a sus respectivas normativas.</p>
 

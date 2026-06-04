@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Marca */}
           <div className="col-span-2">
             <div className="flex items-center gap-2.5 mb-3">
-              <Image src="/logo.svg" alt="PulsoIA" width={32} height={32} />
+              <Image src="/favicon.svg" alt="PulsoIA" width={32} height={32} />
               <span className="font-bold text-white text-lg" style={{ fontFamily: 'Newsreader, Georgia, serif' }}>
                 PulsoIA
               </span>
@@ -41,6 +41,7 @@ export default function Footer() {
             <p className="text-[10px] font-bold tracking-widest text-zinc-500 uppercase mb-3">Legal</p>
             <nav className="space-y-2">
               <Link href="/privacidad" className="block text-xs text-zinc-500 hover:text-white transition-colors">Política de privacidad</Link>
+              <Link href="/cookies" className="block text-xs text-zinc-500 hover:text-white transition-colors">Política de cookies</Link>
               <Link href="/aviso-legal" className="block text-xs text-zinc-500 hover:text-white transition-colors">Aviso legal</Link>
             </nav>
           </div>
