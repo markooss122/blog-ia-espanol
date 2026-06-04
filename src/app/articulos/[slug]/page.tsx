@@ -171,8 +171,7 @@ export default async function ArticlePage({ params }: Props) {
             </div>
           </div>
 
-          {/* Ad sidebar inferior */}
-          <AdUnit slot="1234567890" format="rectangle" className="w-full h-[250px]" />
+          {/* sidebar inferior — reservado para cuando se creen slots reales */}
         </div>
       </aside>
     </div>

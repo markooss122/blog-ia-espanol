@@ -62,7 +62,6 @@ export default function Home() {
               <ArticleGrid posts={posts} />
             </Suspense>
           </section>
-          {/* Note: ArticleGrid receives ALL posts — hero section above is decorative only */}
         </div>
 
         {/* Sidebar — estilo Xataka/Genbeta */}

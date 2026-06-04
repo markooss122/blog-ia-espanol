@@ -1,9 +1,9 @@
 import type { Metadata } from 'next'
-import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import CookieBanner from '@/components/CookieBanner'
+import AdSenseLoader from '@/components/AdSenseLoader'
 
 const BASE_URL = 'https://adsense-markooss122s-projects.vercel.app'
 
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'es_ES',
     siteName: 'PulsoIA',
-    images: [{ url: '/logo.svg', width: 48, height: 48, alt: 'PulsoIA' }],
+    images: [{ url: '/og-image.svg', width: 1200, height: 630, alt: 'PulsoIA — El pulso de la IA en español' }],
   },
-  twitter: { card: 'summary', site: '@pulsoIA' },
+  twitter: { card: 'summary_large_image', site: '@pulsoIA' },
   robots: { index: true, follow: true },
   icons: { icon: '/favicon.svg', shortcut: '/favicon.svg' },
 }
@@ -35,12 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
         <Footer />
         <CookieBanner />
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2587597281292784"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
+        <AdSenseLoader />
       </body>
     </html>
   )

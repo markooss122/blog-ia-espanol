@@ -93,8 +93,8 @@ export default function ContactPage() {
       <div className="mt-10 pt-6 border-t border-zinc-100">
         <p className="text-sm text-zinc-400">
           También puedes escribirnos directamente a{' '}
-          <a href="mailto:hola@iaenespanol.com" className="text-blue-600 hover:underline">
-            hola@iaenespanol.com
+          <a href="mailto:pulsoiaes@gmail.com" className="text-blue-600 hover:underline">
+            pulsoiaes@gmail.com
           </a>
         </p>
       </div>
