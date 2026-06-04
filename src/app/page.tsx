@@ -16,7 +16,30 @@ export default function Home() {
   const secondary = posts.slice(1, 4)
   const rest = posts.slice(4)
 
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'PulsoIA',
+    url: 'https://pulsoia.xyz',
+    description: 'Guías prácticas, comparativas y tutoriales sobre las mejores herramientas de IA en español.',
+    publisher: {
+      '@type': 'Organization',
+      name: 'PulsoIA',
+      logo: { '@type': 'ImageObject', url: 'https://pulsoia.xyz/logo.svg' },
+    },
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: 'https://pulsoia.xyz/?cat={search_term_string}',
+      'query-input': 'required name=search_term_string',
+    },
+  }
+
   return (
+    <>
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+    />
     <div>
       {/* Ad banner superior — above the fold */}
       <div className="mb-5">
@@ -117,5 +140,6 @@ export default function Home() {
         </aside>
       </div>
     </div>
+    </>
   )
 }

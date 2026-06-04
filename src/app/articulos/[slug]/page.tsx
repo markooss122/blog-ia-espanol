@@ -37,14 +37,70 @@ export default async function ArticlePage({ params }: Props) {
   const post = getPostBySlug(slug)
   if (!post) notFound()
 
-  const htmlContent = await marked(post.content)
+  // Renderer personalizado: imágenes con lazy load y clase prose
+  const renderer = new marked.Renderer()
+  renderer.image = ({ href, title, text }) => {
+    return `<img src="${href}" alt="${text || ''}" title="${title || ''}" loading="lazy" decoding="async" style="width:100%;border-radius:10px;margin:2rem 0 0.5rem;" />`
+  }
+  const htmlContent = await marked(post.content, { renderer })
+
   const allPosts = getAllPosts()
+
+  // Schema.org JSON-LD para rich snippets
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.description,
+    image: post.image || 'https://pulsoia.xyz/og',
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      '@type': 'Person',
+      name: 'Marcos Alcega',
+      url: 'https://pulsoia.xyz/sobre-nosotros',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'PulsoIA',
+      url: 'https://pulsoia.xyz',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://pulsoia.xyz/logo.svg',
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://pulsoia.xyz/articulos/${slug}`,
+    },
+  }
   const related = allPosts.filter(p => p.slug !== slug && p.category === post.category).slice(0, 4)
   const latest = allPosts.filter(p => p.slug !== slug).slice(0, 5)
 
   const date = new Date(post.date).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })
 
   return (
+    <>
+      {/* Schema.org JSON-LD — rich snippets Google */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Inicio', item: 'https://pulsoia.xyz' },
+              { '@type': 'ListItem', position: 2, name: post.category, item: `https://pulsoia.xyz/?cat=${post.category}` },
+              { '@type': 'ListItem', position: 3, name: post.title, item: `https://pulsoia.xyz/articulos/${slug}` },
+            ],
+          })
+        }}
+      />
+
     <div className="flex gap-6 items-start">
 
       {/* Contenido principal */}
@@ -179,5 +235,6 @@ export default async function ArticlePage({ params }: Props) {
         </div>
       </aside>
     </div>
+    </>
   )
 }
