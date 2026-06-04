@@ -1,4 +1,4 @@
-﻿---
+---
 image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Estudiantes trabajando con ordenadores y tecnología"
 title: "Cómo usar la IA si eres estudiante (sin hacer trampa)"
@@ -93,3 +93,64 @@ La IA es una herramienta increíble para los estudiantes, pero como cualquier he
 
 El objetivo no es terminar los deberes más rápido. Es aprender más y mejor. La IA puede ayudarte con eso si la usas de forma inteligente.
 
+## Herramientas especificas por asignatura
+
+No todas las herramientas de IA son igual de utiles para todas las materias. Aqui van las combinaciones que mejor funcionan.
+
+### Matematicas y ciencias
+
+**ChatGPT y Claude** son excelentes para explicar conceptos matematicos paso a paso. Si no entiendes como resolver una integral o una ecuacion diferencial, pidele que te explique el proceso, no solo el resultado.
+
+Ejemplo util: "Tengo que resolver esta ecuacion: [ecuacion]. No te pido la respuesta, explica cada paso del proceso y por que se hace cada transformacion."
+
+**Wolfram Alpha** sigue siendo la referencia para calculos complejos con verificacion. No es IA conversacional, pero es fiable al 100% para matematicas.
+
+### Historia y ciencias sociales
+
+Aqui la IA brilla especialmente para dar contexto. En lugar de memorizar fechas, usa ChatGPT para entender las causas y consecuencias de los eventos.
+
+Ejemplo util: "Explica la Primera Guerra Mundial como si fuera una serie de Netflix: los personajes principales, sus motivaciones, los conflictos entre ellos y el giro de trama final."
+
+Este tipo de narrativa hace que la informacion sea mucho mas memorable.
+
+### Idiomas
+
+Practicar conversacion con ChatGPT o Claude en el idioma que estudias es una de las aplicaciones mas valiosas. Puedes pedirle que corrija tus errores, que use solo vocabulario de nivel B2, o que simule una situacion concreta como una entrevista de trabajo o una reserva en un restaurante.
+
+**Un truco especialmente util:** escribe un parrafo en el idioma que estudias y pidele que lo corrija senaLando cada error con una explicacion de la regla que has violado. Aprendes mas de tus propios errores que de ejercicios genericos.
+
+### Literatura y humanidades
+
+Para ensayos y redacciones, la IA puede ayudarte a estructurar el argumento, identificar puntos debiles en tu razonamiento, y sugerir ejemplos o citas relevantes. Lo que no debe hacer es escribir el ensayo por ti: el pensamiento critico es precisamente la habilidad que desarrollas al escribirlo.
+
+Uso correcto: "Tengo que argumentar que X. Aqui esta mi argumento: [tu argumento]. Que puntos debiles ves? Que contraargumentos tendria que responder?"
+
+## Como usar la IA sin que tu profesor lo detecte (y por que eso no es lo que deberia importarte)
+
+Las herramientas de deteccion de IA como Turnitin o GPTZero se mejoran constantemente. Pero el argumento mas importante no es el riesgo de ser detectado, sino el coste para ti mismo.
+
+Si usas IA para que haga el trabajo por ti, no desarrollas las habilidades que esa asignatura intenta ensenar. En el examen, en la entrevista de trabajo, en el momento en que tengas que demostrar lo que sabes sin ayuda, la diferencia sera evidente.
+
+La IA usada bien te hace mas capaz. Usada como atajo, te deja con las mismas limitaciones pero con menos practica.
+
+## Consejos para organizar tu estudio con IA
+
+### Crear resumenes activos
+
+En lugar de pedir a la IA que te resuma el tema (lo cual es pasivo y no ayuda a memorizar), usa este flujo:
+
+1. Lee el material original sin IA
+2. Escribe un resumen con tus propias palabras, sin mirar el libro
+3. Pidele a Claude que compare tu resumen con el temario y senaLe que has omitido o que has entendido mal
+
+Este proceso activo consolida el aprendizaje mucho mejor que leer resumenes ajenos.
+
+### Generar preguntas de examen
+
+"Dame 20 preguntas tipo test sobre [tema] con una dificultad equivalente a un examen universitario. Mezcla preguntas de conocimiento, comprension y aplicacion. Dame las respuestas al final."
+
+Estudiar con preguntas generadas por IA te prepara mejor para el examen que releer los apuntes repetidamente.
+
+### El metodo Feynman con IA
+
+El metodo Feynman consiste en explicar un concepto como si se lo enseNaras a alguien que no sabe nada. Con IA puedes llevarlo mas lejos: explica el concepto al chatbot y pidele que te haga preguntas para comprobar que realmente lo entiendes, no solo que has memorizado la definicion.

@@ -155,3 +155,57 @@ Artículo: [tu texto]
 ChatGPT no reemplaza a los buenos escritores — los hace más rápidos y eficientes. Úsalo para superar bloqueos, mejorar lo que ya escribes y explorar posibilidades que no habrías considerado solo.
 
 La escritura sigue siendo tuya. La IA simplemente quita la fricción.
+
+## Plantillas de prompts que puedes usar hoy mismo
+
+La teoria sobre prompts es util, pero las plantillas concretas son lo que cambia el flujo de trabajo real. Aqui van las que mas uso.
+
+### Para emails profesionales dificiles
+
+Cuando tienes que escribir un email delicado (pedir un aumento, rechazar a un candidato, comunicar un retraso) y no sabes como empezar:
+
+"Necesito escribir un email [describir situacion]. El destinatario es [descripcion del destinatario]. El objetivo del email es [objetivo]. El tono debe ser [tono deseado]. La longitud maxima es [longitud]. Puntos que debo incluir obligatoriamente: [lista de puntos]. Puntos que debo evitar: [lista]."
+
+### Para transformar notas en texto estructurado
+
+Tienes apuntes desordenados de una reunion o una sesion de investigacion y necesitas convertirlos en algo legible:
+
+"Tengo estas notas desordenadas de [contexto]. ConviertelAS en [formato deseado: informe, resumen ejecutivo, lista de tareas, etc.] manteniendo toda la informacion importante pero con estructura clara. Notas: [tus notas]"
+
+### Para mejorar un texto existente sin perder la voz
+
+El mayor riesgo de usar IA para editar es que el texto resultante pierda tu personalidad:
+
+"Mejora este texto corrigiendo errores gramaticales y mejorando la fluidez, pero mantén exactamente mi voz y estilo. No cambies el vocabulario a uno más sofisticado ni añadas frases que no habría escrito yo. Solo corrige lo que está mal o suena torpe. Texto: [tu texto]"
+
+### Para generar estructura de cualquier proyecto
+
+Antes de empezar cualquier proyecto de escritura, da y pide la estructura:
+
+"Voy a escribir [descripcion del proyecto]. La audiencia objetivo es [audiencia]. El objetivo principal es [objetivo]. La longitud aproximada es [longitud]. Dame una estructura detallada con los apartados principales, los puntos clave de cada apartado y el orden logico que recomiendas."
+
+## Los limites reales de la IA para escritura
+
+Usar IA para escribir mejor no significa que la IA lo haga todo. Estos son los limites que debes conocer para no llevarte decepciones.
+
+### La voz propia no se puede delegar
+
+ChatGPT y Claude pueden imitar estilos, pero no tienen tu experiencia, tu perspectiva ni tu contexto personal. Los mejores textos escritos con IA son aquellos donde el humano aporta la idea central, los ejemplos propios y la perspectiva unica, y la IA ayuda con la estructura, la claridad y la correccion.
+
+Si delegas completamente la escritura a la IA, el resultado sera correcto pero generico. Funciona para emails de tramite pero no para contenido que construye autoridad o conexion con lectores.
+
+### Los hechos necesitan verificacion
+
+La IA puede generar estadisticas que suenan plausibles pero son inventadas. Antes de publicar cualquier dato concreto que hayas obtenido con ayuda de IA, verificalo en la fuente original.
+
+### El contexto personal no esta disponible
+
+La IA no sabe que trabajo en el sector sanitario, que mi cliente principal es una mediana empresa industrial o que mi audiencia son directores de marketing de mas de 40 anos. Cuanto mas contexto des en el prompt, mejores seran los resultados.
+
+## Como construir un sistema personal de prompts
+
+El mayor salto de productividad no viene de usar prompts mejores una vez, sino de construir una biblioteca personal de prompts que funcionan para tus casos de uso especificos.
+
+Herramienta recomendada: una nota simple en Notion, Obsidian o incluso un documento de Word con categorias (emails, articulos, presentaciones, codigo, analisis) y los prompts que mejor han funcionado para cada caso.
+
+Con el tiempo, esta biblioteca se convierte en un activo personal que ninguna otra persona tiene exactamente igual, porque esta calibrada a tu trabajo, tu tono y tus necesidades especificas.

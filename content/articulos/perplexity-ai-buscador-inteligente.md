@@ -1,4 +1,4 @@
-﻿---
+---
 image: "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Barra de búsqueda inteligente en pantalla de ordenador"
 title: "Perplexity AI: el buscador inteligente que deberías usar en lugar de Google"
@@ -89,3 +89,56 @@ Perplexity no reemplaza a Google, ChatGPT ni Claude. Es una herramienta compleme
 
 Si investigas temas con frecuencia —para trabajo, estudios o simplemente por curiosidad— Perplexity puede ahorrarte mucho tiempo. Y su plan gratuito es más que suficiente para empezar.
 
+## Casos de uso avanzados que no son obvios
+
+La mayoria de personas usa Perplexity para busquedas basicas, pero hay casos de uso que aprovechan mucho mejor sus capacidades.
+
+### Investigacion competitiva
+
+Pide a Perplexity que analice a un competidor concreto: que publican, que dicen sus clientes en resenas, que cambios han hecho recientemente en su producto. Al citar fuentes, puedes verificar cada afirmacion en segundos.
+
+Ejemplo de prompt: "Analiza la estrategia de contenido de Notion en los ultimos 6 meses. Que temas tratan, en que formatos y con que frecuencia publican."
+
+### Verificacion rapida de hechos
+
+Antes de publicar cualquier dato o estadistica, pegalo en Perplexity con la pregunta "es esto correcto y actual?". En 10 segundos sabes si el dato es fiable o si la IA que lo genero se lo invento.
+
+### Seguimiento de temas en tiempo real
+
+Perplexity tiene una funcion de "espacios" donde puedes guardar busquedas recurrentes. Si quieres seguir la evolucion de las regulaciones de IA en Europa o las novedades de OpenAI, configura un espacio y Perplexity te muestra las actualizaciones cada vez que entras.
+
+### Resumen de articulos largos sin leerlos
+
+Pega una URL de un articulo largo y pide: "resume este articulo en 5 puntos clave y dime si el autor tiene alguna conclusion llamativa o contraintuitiva." Perplexity lee el articulo completo y te da lo esencial.
+
+## Perplexity Pro: vale la pena pagarlo?
+
+El plan Pro cuesta 17 euros al mes y desbloquea:
+- Busquedas ilimitadas con los modelos mas potentes (Claude Opus, GPT-4o)
+- Subida de archivos para analisis de documentos propios
+- Busqueda en imagenes y videos
+- Modo de investigacion profunda (analiza mas fuentes antes de responder)
+
+Para un investigador, periodista o profesional que hace muchas busquedas cada dia, el Pro se amortiza rapidamente. Para uso casual, el plan gratuito con 5 busquedas Pro diarias es suficiente.
+
+## Limitaciones que debes conocer
+
+Perplexity no es perfecto. Sus limitaciones mas importantes:
+
+**Sintetiza mal fuentes contradictorias:** cuando hay debate sobre un tema, a veces mezcla posiciones opuestas sin senaLar claramente que hay controversia.
+
+**Sesgos de las fuentes indexadas:** si las fuentes mas visibles sobre un tema tienen un sesgo particular, la respuesta de Perplexity lo heredara.
+
+**No reemplaza la lectura original:** para temas importantes, lee las fuentes primarias. Perplexity es un punto de entrada, no el destino final.
+
+**Paywalls:** muchas fuentes de calidad estan detras de muros de pago. Perplexity cita el titulo pero no puede acceder al contenido completo, lo que a veces limita la profundidad de la respuesta.
+
+## Como Perplexity encaja en tu ecosistema de herramientas
+
+La forma mas inteligente de usar Perplexity es como primer paso de cualquier investigacion, no como herramienta unica:
+
+1. Perplexity para orientarte y encontrar las fuentes mas relevantes
+2. Google para acceder a esas fuentes directamente y encontrar contenido mas especifico
+3. Claude o ChatGPT para analizar, sintetizar y crear a partir de lo que has encontrado
+
+Este flujo de tres pasos produce resultados mejores y mas fiables que usar cualquiera de las tres herramientas por separado.

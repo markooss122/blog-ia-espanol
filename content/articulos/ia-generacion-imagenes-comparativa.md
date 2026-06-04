@@ -95,3 +95,51 @@ Stable Diffusion es open source y gratuito. Puedes ejecutarlo en tu ordenador o 
 ## Conclusión
 
 No existe un ganador absoluto. Midjourney gana en calidad artística, DALL·E 3 en accesibilidad, y Stable Diffusion en flexibilidad y privacidad. La buena noticia: puedes probar las tres sin gastar dinero antes de decidir.
+
+## Como elegir segun tu caso de uso concreto
+
+La comparativa teorica ayuda, pero lo que realmente importa es que herramienta funciona mejor para lo que TU necesitas hacer. Aqui van recomendaciones especificas por tipo de usuario.
+
+### Si eres creador de contenido para redes sociales
+
+Para thumbnails de YouTube, posts de Instagram y banners de LinkedIn, necesitas velocidad, calidad aceptable y coste bajo. La combinacion ideal es Bing Image Creator (gratis) para el dia a dia y Leonardo AI (plan gratuito generoso) para proyectos que requieren mas control.
+
+Midjourney solo merece la pena si publicas contenido visual de forma profesional y la calidad artistica es un diferenciador para tu marca.
+
+### Si eres disenador grafico profesional
+
+Midjourney es la herramienta que los disenadores profesionales usan como punto de partida para conceptos que luego refinan en Illustrator o Photoshop. La calidad y el control que ofrece justifican los 10 dolares al mes del plan basico si trabajas con imagenes frecuentemente.
+
+Adobe Firefly es la alternativa si ya tienes licencia de Creative Cloud, especialmente porque sus imagenes estan libres de problemas de copyright al haber sido entrenadas solo con contenido con licencia.
+
+### Si necesitas imagenes para un blog o web
+
+Para este caso de uso, la gratuidad tiene mas peso que la calidad maxima. Bing Image Creator con DALL-E 3 produce imagenes perfectamente adecuadas para ilustrar articulos. Son unicas, relevantes al tema y no cuestan nada.
+
+Una advertencia: las imagenes generadas con IA pueden tener problemas con los anuncios de Google si el contenido parece generado automaticamente a gran escala. Usa imagenes de IA como complemento de imagenes reales, no como sustituto total.
+
+### Si eres desarrollador o tienes necesidades de volumen alto
+
+Stable Diffusion ejecutado localmente o a traves de servicios como Replicate es la unica opcion economicamente viable para generar cientos o miles de imagenes. El coste de API de Midjourney o DALL-E escala rapidamente con el volumen.
+
+## Los problemas que ningun generador ha resuelto del todo
+
+### Texto en las imagenes
+
+Todos los generadores tienen dificultades con texto legible dentro de las imagenes. Letras deformadas, palabras inventadas, tipografia inconsistente. DALL-E 3 es el mejor en este aspecto pero todavia falla con frecuencia. Si necesitas una imagen con texto especifico, la solucion practica es generar la imagen sin texto y añadirlo despues en Canva o Photoshop.
+
+### Personas reales y coherencia de personajes
+
+Generar una persona especifica (que no sea una figura publica) de forma consistente entre multiples imagenes sigue siendo dificil. Las herramientas mejoran, pero para campanas publicitarias que requieren un personaje coherente, todavia se necesita trabajo adicional.
+
+### Derechos de imagen
+
+El debate legal sobre la propiedad de las imagenes generadas por IA no esta resuelto. La practica segura es usar Adobe Firefly (entrenado con contenido con licencia) para cualquier uso comercial donde el riesgo legal es relevante.
+
+## El futuro de los generadores de imagenes
+
+La evolucion en los ultimos dos anos ha sido extraordinaria. En 2024, las manos con seis dedos eran el meme de los fallos de la IA. En 2026, ese problema esta practicamente resuelto.
+
+Las areas de mejora mas activas ahora mismo son la coherencia de personajes entre imagenes, la integracion con video (Sora, Runway, Pika), y el control fino sobre la composicion sin necesidad de prompts muy tecnicos.
+
+La conclusion practica: las herramientas actuales ya son mas que suficientes para la mayoria de casos de uso profesionales. No hay razon para esperar la siguiente version antes de empezar a usar generadores de imagenes con IA.

@@ -109,3 +109,59 @@ La calidad del resultado depende directamente de cómo describes la imagen. Aqu�
 No necesitas presupuesto para empezar a crear imágenes con IA. Bing Image Creator con DALL·E 3 es el punto de entrada más sencillo y potente. Practica escribiendo prompts detallados y verás cómo los resultados mejoran rápidamente.
 
 El único límite es tu capacidad para describir lo que imaginas.
+
+## Tecnicas avanzadas para mejores resultados sin pagar
+
+Dominar los prompts es la diferencia entre resultados mediocres y resultados que parecen de pago, aunque uses herramientas gratuitas.
+
+### La estructura de prompt que funciona siempre
+
+El prompt mas efectivo para cualquier generador gratuito sigue este orden: sujeto principal + entorno o contexto + estilo visual + iluminacion + calidad.
+
+Ejemplo practico: "A Spanish woman reading a book in a cozy cafe, warm autumn afternoon, soft watercolor illustration style, golden hour window light, high detail" produce resultados significativamente mejores que "mujer leyendo en un cafe".
+
+### Palabras clave de calidad que funcionan en todos los generadores
+
+Anadir estas palabras al final de cualquier prompt mejora la calidad de forma consistente: "highly detailed, professional quality, sharp focus, vibrant colors, 4k". No son magia pero orientan al modelo hacia resultados mas cuidados.
+
+### Iterar rapidamente con variaciones
+
+Cuando generas 4 imagenes y una te gusta pero no es perfecta, no empieces desde cero. Modifica solo un elemento del prompt a la vez para entender que esta funcionando. Si la composicion es buena pero el estilo no, cambia solo la parte del estilo. Si la iluminacion no es correcta, modifica solo esa parte.
+
+Este proceso iterativo es mas eficiente que generar prompts completamente nuevos cada vez.
+
+### Usar referencias de estilo de artistas
+
+Anadir el nombre de un artista o movimiento artistico al prompt orienta fuertemente el estilo visual. "in the style of Edward Hopper" produce imagenes con esa luz caracteristica y esa soledad urbana. "Art Nouveau style" da ornamentacion organica caracteristica.
+
+Importante: usar el nombre de un artista vivo puede tener implicaciones eticas. Es mejor referenciar movimientos artisticos o artistas historicos.
+
+## Cuales son los limites de las herramientas gratuitas
+
+Ser honesto sobre las limitaciones ahorra tiempo y frustracion.
+
+### Numero de generaciones diarias
+
+Bing Image Creator tiene un sistema de creditos que se recargan. Los primeros creditos son rapidos (15-30 segundos por generacion) y despues la velocidad baja significativamente. Leonardo AI tiene 150 creditos diarios que se regeneran cada 24 horas.
+
+Para uso casual y puntual, estos limites son mas que suficientes. Para produccion diaria de contenido, necesitaras un plan de pago.
+
+### Resolucion y formato de descarga
+
+La mayoria de herramientas gratuitas limitan la resolucion maxima de descarga o el formato. Bing Image Creator descarga en formato WebP a 1024x1024 pixeles, suficiente para web pero insuficiente para impresion de gran formato.
+
+### Personalizacion y control
+
+Las herramientas gratuitas tienen menos parametros de control que Midjourney o Stable Diffusion. Si necesitas control preciso sobre la composicion, el angulo de camara o el estilo especifico, las opciones de pago ofrecen mucho mas.
+
+## El mejor flujo de trabajo gratuito para blogs
+
+Si creas contenido para un blog y necesitas imagenes originales para cada articulo sin pagar, este flujo funciona bien en la practica:
+
+1. Escribe el tema del articulo en Bing Image Creator con un prompt descriptivo en ingles
+2. Genera 4 variaciones y elige la que mejor ilustra el contenido
+3. Si ninguna es perfecta, ajusta el prompt y genera otras 4
+4. Descarga la imagen elegida y optimizala en Squoosh (herramienta gratuita de compresion)
+5. Sube la imagen comprimida a tu blog con un alt text descriptivo
+
+Con este proceso, cada imagen tarda menos de 5 minutos y el resultado es original, relevante y gratuito.

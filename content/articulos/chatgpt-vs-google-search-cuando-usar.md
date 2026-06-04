@@ -96,3 +96,59 @@ ChatGPT hace esa síntesis por ti. El truco está en saber cuándo la síntesis 
 Google y ChatGPT no son competidores — son herramientas complementarias con fortalezas distintas. Los usuarios más productivos en 2026 son los que saben usar las dos en el momento adecuado.
 
 La regla general: **ChatGPT para crear y analizar, Google para encontrar y verificar.**
+
+
+## Flujos de trabajo reales que combinan ambas herramientas
+
+La teoria esta bien, pero los flujos concretos son lo que cambia habitos. Aqui van cuatro combinaciones que uso de forma habitual.
+
+### Investigar antes de publicar un articulo
+
+1. Google: busco el tema principal y leo los 3-5 resultados mejor posicionados para entender que ya existe
+2. ChatGPT: le pego los titulos y resumenes y le pido que identifique angulos que nadie ha cubierto aun
+3. Perplexity: verifico datos y estadisticas concretas que quiero incluir, con fuentes
+4. Claude: redacto el borrador con toda esa informacion ya digerida
+
+Este flujo me tarda 45 minutos en lugar de las 2 horas que tardaba sin IA.
+
+### Tomar una decision de compra tecnica
+
+1. Google: busco reviews recientes del producto con la fecha en el titulo para asegurarme que son actuales
+2. ChatGPT: le paso las especificaciones de las opciones que he identificado y le pido una comparativa segun mis necesidades concretas
+3. Google: verifico el precio actual y disponibilidad antes de comprar
+
+### Aprender algo nuevo
+
+1. ChatGPT: le pido que me explique el concepto desde cero, con analogias, como si tuviera 15 anos
+2. Google: busco documentacion oficial o recursos recomendados para profundizar
+3. ChatGPT: vuelvo con dudas especificas que han surgido durante la lectura
+
+### Resolver un problema tecnico
+
+1. Google: busco el error exacto en Stack Overflow o GitHub Issues para ver si alguien ya lo ha resuelto
+2. ChatGPT: si no encuentro solucion directa, le explico el problema con el codigo y el mensaje de error
+3. Google: verifico que la solucion propuesta por la IA es una practica aceptada y no un hack que causara problemas despues
+
+## Cuando la IA falla y Google salva la situacion
+
+Hay casos donde confiar en la IA puede salir caro:
+
+**Informacion juridica y medica:** Los modelos de IA pueden dar informacion plausible pero incorrecta o desactualizada en estos campos. Siempre contrasta con fuentes oficiales o profesionales.
+
+**Datos de empresas especificas:** Precios, horarios, disponibilidad, contacto. La IA no tiene acceso a esta informacion en tiempo real. Google Maps o la web oficial siempre.
+
+**Noticias de las ultimas horas:** Aunque modelos como GPT-4o y Claude tienen acceso a busqueda web, su latencia de actualizacion no compite con Google News.
+
+**Contenido muy de nicho:** Si buscas informacion sobre un tema muy especifico o local, Google indexa contenido que los modelos de IA no conocen.
+
+## El error mas caro: no verificar lo que dice la IA
+
+Una advertencia final que merece su propia seccion: la IA inventa con confianza. El fenomeno se llama alucinacion y afecta a todos los modelos actuales.
+
+He visto a personas publicar articulos con estadisticas inventadas por ChatGPT, citar estudios que no existen, y referenciar leyes con numeros incorrectos. Todo presentado con total seguridad por el modelo.
+
+La regla de oro: si el dato importa, verificalo en Google o en la fuente original. La IA es excelente para generar, sintetizar y crear. No es una base de datos fiable.
+
+## Resumen ejecutivo
+
+Usa Google para encontrar, verificar y acceder a informacion actual y especifica. Usa ChatGPT o Claude para crear, analizar, resumir y transformar. La combinacion de ambas herramientas es mas potente que cualquiera por separado, y los usuarios que dominan este flujo tienen una ventaja real de productividad sobre los que usan solo una.

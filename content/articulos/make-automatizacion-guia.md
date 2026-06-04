@@ -115,3 +115,33 @@ Make tiene integraciones nativas con:
 Make es la herramienta de automatización que ofrece el mejor equilibrio entre potencia y accesibilidad. Su plan gratuito es generoso para empezar, y la integración de IA nativa lo convierte en una plataforma especialmente relevante en 2026.
 
 Si ya usas Zapier y has chocado con sus limitaciones de lógica, Make es tu siguiente paso natural. Si estás empezando desde cero, Make es una excelente primera herramienta de automatización.
+
+## Patrones avanzados de automatizacion con IA en Make
+
+Una vez que dominas los flujos basicos, hay patrones mas sofisticados que multiplican el valor de Make.
+
+### El patron de enriquecimiento de datos
+
+Este patron toma datos crudos (un nombre y un email de un formulario) y los enriquece con informacion adicional antes de guardarlos en el CRM.
+
+El flujo: recibe el formulario, llama a la API de LinkedIn para obtener informacion profesional del contacto, usa ChatGPT para generar un resumen del perfil y clasificar el lead, y guarda todo en HubSpot con el contacto ya segmentado y con contexto.
+
+Resultado: el equipo de ventas recibe un lead con toda la informacion relevante lista, no solo un nombre y un email.
+
+### El patron de reaprovechamiento de contenido
+
+Produce una vez, publica en todos sitios. El flujo: detecta nuevo articulo en tu blog, usa Claude para generar una version para LinkedIn (tono profesional, 300 palabras), una version para Twitter (5 tweets con gancho), un guion para YouTube Shorts (60 segundos) y una version para el boletin de correo. Guarda todo en Notion para revision y programacion.
+
+### El patron de monitorizacion y alerta
+
+Vigila lo que importa sin tener que estar pendiente. El flujo: monitoriza palabras clave en Twitter, Reddit, Google News y resenas de Google cada hora, filtra con IA las menciones relevantes (elimina ruido), clasifica por urgencia y sentimiento, y envia solo las alertas que requieren accion inmediata.
+
+## Cuanto cuesta Make en la practica
+
+El plan gratuito de Make con 1.000 operaciones al mes es suficiente para flujos simples de bajo volumen. Cuando superas ese limite o necesitas flujos mas complejos, los planes de pago son razonables comparados con Zapier:
+
+Make Core (9 dolares al mes) ofrece 10.000 operaciones mensuales, suficiente para la mayoria de negocios pequenos con 5-10 flujos activos. Make Pro (16 dolares al mes) añade operaciones ilimitadas y herramientas de analisis avanzadas.
+
+El coste adicional de la API de OpenAI o Claude hay que sumarlo: para la mayoria de flujos de negocio con volumen moderado, espera gastar entre 5 y 20 dolares adicionales al mes en llamadas de IA.
+
+La comparativa final de costes para automatizacion con IA a escala media: Make Pro + OpenAI API cuesta aproximadamente 36-56 dolares al mes. El equivalente en Zapier con sus planes Teams y el addon de IA seria 80-120 dolares al mes. Make es significativamente mas economico para el mismo resultado.

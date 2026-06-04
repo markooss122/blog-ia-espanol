@@ -1,4 +1,4 @@
-﻿---
+---
 image: "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Persona usando ChatGPT en un ordenador"
 title: "Qué es ChatGPT y cómo usarlo paso a paso (Guía 2026)"
@@ -81,3 +81,33 @@ Más allá de redactar emails y resumir textos, ChatGPT tiene usos sorprendentem
 **Brainstorming de negocio:** Describe tu idea de negocio y pídele que identifique los principales riesgos, las oportunidades que no has considerado y los competidores directos e indirectos.
 
 **Crear contenido en varios formatos:** Escribe una vez y pídele que lo adapte a post de LinkedIn, hilo de Twitter, newsletter y guion de vídeo. Cuatro formatos por el precio de uno.
+
+## ChatGPT para casos de uso especificos en espanol
+
+Mas alla de los usos generales, hay casos concretos donde ChatGPT es especialmente util para usuarios hispanohablantes.
+
+### Mejorar tu espanol escrito
+
+Si escribes en espanol profesional y quieres mejorar tu estilo, ChatGPT puede actuar como un editor nativo. El prompt mas efectivo no es "corrige este texto" sino "revisa este texto, corrige los errores y explica cada cambio que hagas con la regla gramatical correspondiente". Este segundo enfoque es un aprendizaje activo, no solo una correccion pasiva.
+
+### Preparar el discurso o la presentacion
+
+Tienes que dar una presentacion importante y no sabes como estructurarla. Describe a ChatGPT el tema, la audiencia, el tiempo disponible y el objetivo principal. Pide que genere primero la estructura con los puntos clave de cada seccion, luego desarrolla cada seccion por separado con tu propio contenido, y finalmente pide que revise la transicion entre secciones.
+
+Este proceso produce presentaciones mucho mas solidas que intentar escribirlas de golpe.
+
+### Traducir con matices culturales
+
+Para traducciones que van mas alla de la literalidad, ChatGPT entiende los matices culturales. Si traducces un contrato de ingles a espanol de Espana frente a espanol de Mexico, puedes especificar el registro y la variante regional que necesitas.
+
+Ejemplo practico: "Traduce este texto al espanol de Espana, registro formal-profesional, evitando latinismos innecesarios y usando terminologia juridica espanola estandar".
+
+## La configuracion que pocos conocen: instrucciones personalizadas
+
+ChatGPT tiene una funcion llamada "Instrucciones personalizadas" que pocos usuarios configuran y que cambia completamente la experiencia. La encuentras en Configuracion > Instrucciones personalizadas.
+
+En el primer campo ("Que quieres que ChatGPT sepa sobre ti") puedes escribir tu contexto: "Soy director de marketing en una empresa de software B2B. Mi audiencia principal son directores de IT y CTOs de empresas medianas. Trabajo principalmente en espanol de Espana."
+
+En el segundo campo ("Como quieres que responda ChatGPT") puedes especificar preferencias: "Responde siempre en espanol a menos que yo escriba en otro idioma. Sé directo y conciso. Evita frases de relleno como 'es importante destacar que' o 'en conclusion'. Cuando no sepas algo con certeza, dilo explicitamente."
+
+Con estas instrucciones configuradas, cada conversacion empieza con ese contexto ya cargado, sin tener que repetirlo en cada prompt.

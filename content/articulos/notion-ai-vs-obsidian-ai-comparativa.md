@@ -90,3 +90,55 @@ Obsidian es un editor de notas en Markdown que almacena todo localmente en tu di
 No hay una respuesta universal. Si buscas la opción más sencilla con IA integrada y trabajas en equipo, Notion AI es difícil de superar. Si valoras la privacidad, la personalización y el poder del conocimiento interconectado, Obsidian con plugins de IA es la opción más potente a largo plazo.
 
 Mi consejo: prueba Notion gratis durante dos semanas y Obsidian otras dos. Ambos tienen versiones gratuitas suficientes para evaluarlos en profundidad.
+
+## Como configurar Obsidian con IA paso a paso
+
+Si decides probar Obsidian con IA, aqui va la configuracion minima para empezar a ver resultados:
+
+### Paso 1: Instalar Obsidian
+
+Descarga Obsidian desde obsidian.md. Es completamente gratis para uso personal. La aplicacion instala en segundos y funciona offline desde el primer momento.
+
+### Paso 2: Instalar el plugin Smart Connections
+
+Smart Connections es el plugin de IA mas util para empezar. Lo encuentras en Configuracion de Obsidian > Plugins de la comunidad > Buscar "Smart Connections".
+
+Este plugin analiza todas tus notas y encuentra conexiones semanticas entre ellas. Si escribes una nota sobre productividad y tienes otra sobre gestion del tiempo, Smart Connections las conecta aunque no hayas usado etiquetas ni enlaces manuales.
+
+### Paso 3: Configurar una API key
+
+Smart Connections necesita una API key de OpenAI para funcionar. Crea una en platform.openai.com. El coste es muy bajo para uso personal: menos de 1 euro al mes si tienes menos de 500 notas.
+
+Alternativamente, puedes usar modelos locales con Ollama (completamente gratis, sin API, sin datos que salen de tu ordenador), aunque la calidad es inferior a GPT-4o.
+
+### Paso 4: Empezar a chatear con tus notas
+
+Una vez configurado, abre el panel de Smart Connections y empieza a hacer preguntas sobre tu propia base de conocimiento: que notas tengo sobre gestion del tiempo, resume mis ideas sobre productividad, que conexiones hay entre mis notas de marketing y mis notas de psicologia.
+
+## Notion AI vs Obsidian: el veredicto por perfil
+
+La eleccion entre Notion AI y Obsidian con plugins depende mas de tu forma de trabajar que de las capacidades tecnicas de cada herramienta.
+
+**Notion AI es mejor si:**
+- Trabajas en equipo y necesitas colaboracion en tiempo real
+- Prefieres una herramienta que funcione sin configuracion
+- Tu organizacion ya usa Notion para otros procesos
+- La interfaz visual y la gestion de bases de datos es importante para ti
+
+**Obsidian con IA es mejor si:**
+- La privacidad de tus datos es una prioridad no negociable
+- Quieres construir una base de conocimiento personal a largo plazo
+- Disfrutas del control total sobre tu sistema de notas
+- Escribes mucho y el formato Markdown te resulta natural
+
+**Una tercera opcion que merece mencion:** Capacities. Es una herramienta de notas mas reciente que combina la facilidad de uso de Notion con una filosofia de conocimiento conectado similar a Obsidian, con IA integrada. Vale la pena probarla si ninguna de las dos principales te convence del todo.
+
+## El argumento definitivo para cada uno
+
+Si tuvieras que resumir la diferencia en una sola frase:
+
+Notion AI es para el presente: es excelente gestionando informacion actual y colaborando con otros en tiempo real.
+
+Obsidian con IA es para el futuro: construyes una base de conocimiento que se vuelve mas valiosa con el tiempo, porque las conexiones entre ideas se acumulan y se vuelven mas ricas.
+
+Para la mayoria de profesionales, la decision practica es empezar con Notion AI (mas facil de adoptar) y migrar a Obsidian si con el tiempo sientes que necesitas mas control y profundidad.

@@ -1,4 +1,4 @@
-﻿---
+---
 image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Código y texto en pantalla representando prompt engineering"
 title: "Prompt Engineering: cómo hablar con la IA para obtener mejores respuestas"
@@ -157,3 +157,31 @@ El prompt engineering es una habilidad que se aprende con práctica. Para mejora
 **Itera sistemáticamente:** cuando un prompt no da el resultado esperado, cambia solo una variable a la vez (la longitud, el tono, la estructura) para entender qué está fallando.
 
 **Compara modelos:** el mismo prompt puede dar resultados muy diferentes en ChatGPT, Claude y Gemini. Saber cuál es mejor para cada tipo de tarea te ahorra tiempo.
+
+## Errores de prompt engineering que cometen hasta los usuarios avanzados
+
+Conocer las tecnicas no es suficiente si sigues cometiendo estos errores que degradan la calidad de las respuestas.
+
+### Pedir demasiadas cosas en un solo prompt
+
+Cuanto mas pides en una sola instruccion, mas probable es que el modelo descuide alguna parte. Si necesitas un analisis, un resumen y tres recomendaciones, es mejor hacerlo en tres prompts separados que en uno solo. El modelo mantiene mejor el foco cuando la tarea es especifica.
+
+### No especificar el formato de salida
+
+"Dame informacion sobre X" puede producir un parrafo, una lista, una tabla o un ensayo de 1.000 palabras. Si sabes que formato necesitas, especificalo siempre: "Dame los 5 puntos mas importantes en formato lista con viñetas, maximo 2 frases por punto."
+
+### Aceptar la primera respuesta sin iterar
+
+El 80% del valor del prompt engineering no esta en el primer prompt sino en la iteracion. La primera respuesta es el punto de partida, no el destino. Aprende a decir: "Bien, ahora hazlo mas conciso", "Cambia el tono a mas tecnico", "Anade un ejemplo concreto al punto 3". Cada iteracion acerca el resultado a lo que necesitas.
+
+### Prompts demasiado educados
+
+Los modelos de lenguaje no tienen sentimientos. Decir "por favor" y "gracias" no mejora las respuestas (aunque tampoco las empeora). El tiempo que gastas en cortesias podria usarse en dar mas contexto o especificar mejor el formato deseado.
+
+## Como evaluar si tus prompts estan mejorando
+
+La forma mas objetiva de medir si tus prompts mejoran es comparar el tiempo que tardas en obtener un resultado utilizable desde el primer prompt. Si antes tardabas 5 iteraciones para llegar al resultado y ahora tardas 2, tus prompts han mejorado un 60% en eficiencia.
+
+Otra metrica util: la cantidad de edicion manual que necesita el texto generado antes de estar listo para usar. Si antes editabas el 40% del texto y ahora solo el 15%, el prompt es significativamente mejor aunque el resultado parezca similar a primera vista.
+
+El objetivo no es perfeccion en el primer intento sino reducir el numero de ciclos necesarios para llegar a un resultado util. Con practica consistente, la mayoria de usuarios alcanzan ese punto en 2-4 semanas de uso diario.
