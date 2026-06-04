@@ -129,3 +129,40 @@ Las herramientas gratuitas tienen límites. Merece la pena pasarte a un plan de 
 - El tiempo ahorrado por el plan Pro supera claramente su coste mensual
 
 Una regla práctica: si una herramienta te ahorra 2+ horas al mes y tu tiempo vale más de 10€/hora, el plan de pago se amortiza solo.
+
+## Herramientas gratuitas por categoria que no debes perderte
+
+### Para productividad y escritura
+
+**Notion AI (prueba gratuita):** El asistente de IA integrado en Notion para tomar notas, redactar y organizar informacion. Aunque requiere suscripcion pasada la prueba, la version basica de Notion con sus plantillas ya es potentisima de forma gratuita.
+
+**Grammarly (plan basico):** Corrector gramatical con IA para ingles. Si escribes contenido en ingles, el plan gratuito detecta errores basicos y sugiere mejoras de estilo.
+
+**QuillBot:** Parafraseador con IA. Util para reescribir textos manteniendo el significado. El plan gratuito permite procesar hasta 125 palabras por vez.
+
+### Para analisis de datos
+
+**Julius AI (mensajes limitados):** Analiza hojas de calculo y datos con lenguaje natural. Sube un CSV y hazle preguntas como "cual es el mes con mas ventas" sin necesidad de formulas.
+
+**Google Colab:** Entorno de Python gratuito en la nube con GPU incluida. Imprescindible para experimentos de machine learning sin tener hardware potente.
+
+### Para video e imagen
+
+**Clipchamp (Microsoft):** Editor de video con IA integrado en Windows 11. Gratuito, permite subtitulos automaticos, eliminacion de fondos y efectos basicos.
+
+**Remove.bg:** Elimina fondos de imagenes en un clic. Plan gratuito con imagenes de baja resolucion, suficiente para uso en redes sociales.
+
+**Upscayl:** Aplicacion de escritorio gratuita que aumenta la resolucion de imagenes con IA. Convierte fotos pixeladas en imagenes de alta calidad.
+
+## La combinacion ganadora para emprendedores con presupuesto cero
+
+Si eres autonomo o emprendedor y quieres montar un flujo de trabajo con IA sin gastar nada, esta es la combinacion optima:
+
+- **ChatGPT** (plan gratuito) para redaccion, ideas y analisis de texto
+- **Bing Image Creator** para imagenes de articulos y redes sociales
+- **Canva** (plan gratuito) para diseño de contenido visual
+- **Notion** (plan gratuito) para organizar el trabajo y tomar notas
+- **n8n** (self-hosted gratuito) para automatizar tareas repetitivas
+
+Este stack cubre el 80% de las necesidades de un negocio digital pequeño sin gastar un euro. Cuando una herramienta se vuelva critica para tus ingresos, ese es el momento de pagar por el plan Pro.
+

@@ -1,10 +1,10 @@
 ---
-image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?auto=format&fit=crop&w=800&q=80"
-imageAlt: "Flujos de automatizacion n8n conectando aplicaciones"
-title: "n8n: guia completa para automatizar con IA sin programar (2026)"
-description: "Aprende a usar n8n para crear automatizaciones con IA que ahorran horas semanales. Instalacion, flujos reales, comparativa con Zapier y Make."
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Flujos de automatización n8n conectando aplicaciones digitales"
+title: "n8n: guía completa para automatizar con IA sin programar (2026)"
+description: "Aprende a usar n8n para crear automatizaciones con IA que ahorran horas semanales. Instalación, flujos reales, comparativa con Zapier y Make."
 date: "2026-05-10"
-category: "Automatizacion"
+category: "Automatización"
 ---
 
 Llevo usando n8n dos anos y sigue siendo la herramienta que mas ha cambiado mi forma de trabajar. Lo que antes requeria un desarrollador, ahora lo configuro en una tarde. Esta guia es practica: sin relleno, con los flujos reales que uso cada semana.

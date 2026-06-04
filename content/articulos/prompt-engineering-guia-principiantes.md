@@ -1,6 +1,6 @@
 ---
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80"
-imageAlt: "Código y texto en pantalla representando prompt engineering"
+image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Texto y código de prompt engineering en pantalla"
 title: "Prompt Engineering: cómo hablar con la IA para obtener mejores respuestas"
 description: "Aprende las técnicas básicas y avanzadas de prompt engineering para obtener respuestas mucho mejores de ChatGPT, Claude y Gemini. Con ejemplos en español."
 date: "2026-05-15"

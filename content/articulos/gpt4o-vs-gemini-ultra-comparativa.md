@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Comparativa entre modelos de inteligencia artificial GPT-4o y Gemini Ultra"
 title: "GPT-4o vs Gemini Ultra: ¿cuál es el modelo de IA más potente en 2026?"
 description: "Comparamos los dos modelos de IA más avanzados disponibles al público: GPT-4o de OpenAI y Gemini Ultra de Google. Pruebas reales, precios y veredicto final."

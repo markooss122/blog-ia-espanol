@@ -155,3 +155,25 @@ Más allá del arte generativo, Midjourney tiene aplicaciones profesionales muy 
 **No iterar:** Si la primera imagen no es exacta, usa la función de variación (botón V) para explorar alternativas próximas en lugar de empezar desde cero.
 
 **Ignorar los parámetros:** Los parámetros como --ar, --q y --style no son opcionales para trabajo profesional. Son la diferencia entre resultados mediocres y resultados publicables.
+## Preguntas frecuentes sobre Midjourney
+
+**¿Midjourney es gratis?** No. Midjourney eliminó su plan gratuito en 2023. El plan más barato cuesta 10 dólares al mes con 200 imágenes. Antes de suscribirte, prueba alternativas gratuitas como Bing Image Creator o Adobe Firefly.
+
+**¿Puedo usar las imágenes de Midjourney comercialmente?** Con el plan básico (10$/mes), las imágenes se generan con licencia Creative Commons. Para uso comercial sin restricciones necesitas el plan Pro (60$/mes). Revisa los términos si vas a usar las imágenes en proyectos de clientes.
+
+**¿Midjourney funciona sin Discord?** En 2024, Midjourney lanzó su propia interfaz web en midjourney.com/app, que ya no requiere Discord. Es más cómoda para usuarios nuevos aunque Discord sigue siendo la opción más completa.
+
+**¿Cuánto tiempo tarda en generar una imagen?** Entre 15 y 60 segundos dependiendo del plan y la carga del servidor. El plan Pro genera imágenes en modo rápido (fast) de forma prioritaria. En horas punta, el plan básico puede tardar más.
+
+## Alternativas gratuitas a Midjourney que deberías conocer
+
+Si no quieres pagar 10 dólares al mes, estas alternativas ofrecen calidad aceptable sin coste:
+
+**Bing Image Creator (DALL-E 3):** La mejor alternativa gratuita. Usa el mismo modelo que ChatGPT Plus pero es completamente gratuito con una cuenta de Microsoft. La calidad es excelente para uso general.
+
+**Adobe Firefly:** Integrado en Adobe Express, gratuito con límites mensuales. Ideal si ya usas el ecosistema Adobe. La ventaja es que las imágenes están entrenadas con contenido con licencia, lo que elimina los problemas de copyright.
+
+**Stable Diffusion (local):** Si tienes un ordenador con tarjeta gráfica potente, puedes instalar Stable Diffusion localmente y generar imágenes ilimitadas sin coste. Requiere conocimientos técnicos básicos.
+
+**Leonardo AI:** Plan gratuito con 150 créditos diarios, suficiente para uso casual. Interfaz más amigable que Stable Diffusion con resultados de calidad similar a Midjourney básico.
+

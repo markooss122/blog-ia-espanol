@@ -1,6 +1,6 @@
 ---
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80"
-imageAlt: "Código de programación en pantalla oscura para API de inteligencia artificial"
+image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80"
+imageAlt: "Noticias y novedades de inteligencia artificial en pantalla digital"
 title: "Novedades de IA en mayo 2026: los lanzamientos más importantes del mes"
 description: "Resumen de las novedades más importantes en inteligencia artificial de mayo 2026: nuevos modelos, herramientas y funcionalidades que debes conocer."
 date: "2026-05-31"
