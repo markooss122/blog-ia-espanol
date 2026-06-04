@@ -1,7 +1,7 @@
 import { getAllPosts } from '@/lib/posts'
 import { MetadataRoute } from 'next'
 
-const BASE_URL = 'https://adsense-markooss122s-projects.vercel.app'
+const BASE_URL = 'https://pulsoia.xyz'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts()

@@ -5,7 +5,7 @@ import Footer from '@/components/Footer'
 import CookieBanner from '@/components/CookieBanner'
 import AdSenseLoader from '@/components/AdSenseLoader'
 
-const BASE_URL = 'https://adsense-markooss122s-projects.vercel.app'
+const BASE_URL = 'https://pulsoia.xyz'
 
 export const metadata: Metadata = {
   title: {
