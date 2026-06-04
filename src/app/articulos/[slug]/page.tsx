@@ -95,7 +95,7 @@ export default async function ArticlePage({ params }: Props) {
 
             {/* Ad in-article */}
             <div className="mb-6">
-              <AdUnit slot="1122334455" format="horizontal" className="w-full h-[90px]" />
+              <AdUnit slot="6872032276" format="horizontal" className="w-full h-[90px]" />
             </div>
 
             {/* Contenido */}
@@ -103,7 +103,7 @@ export default async function ArticlePage({ params }: Props) {
 
             {/* Ad post-content */}
             <div className="mt-8">
-              <AdUnit slot="5544332211" format="rectangle" className="w-full h-[250px]" />
+              <AdUnit slot="3354154815" format="rectangle" className="w-full h-[250px]" />
             </div>
 
             {/* Autor y compartir */}
@@ -150,7 +150,7 @@ export default async function ArticlePage({ params }: Props) {
       <aside className="hidden lg:flex flex-col gap-5 w-72 flex-shrink-0">
         <div className="sticky top-[88px] flex flex-col gap-5">
           {/* Ad sidebar */}
-          <AdUnit slot="0987654321" format="rectangle" className="w-full h-[250px]" />
+          <AdUnit slot="5100775284" format="rectangle" className="w-full h-[250px]" />
 
           {/* Últimos artículos */}
           <div className="bg-white border border-zinc-200 rounded-xl p-4">

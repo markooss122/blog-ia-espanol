@@ -20,7 +20,7 @@ export default function Home() {
     <div>
       {/* Ad banner superior — above the fold */}
       <div className="mb-5">
-        <AdUnit slot="1234567890" format="horizontal" className="w-full h-[90px]" />
+        <AdUnit slot="7726938621" format="horizontal" className="w-full h-[90px]" />
       </div>
 
       {/* Layout principal: contenido (2/3) + sidebar (1/3) */}
@@ -68,7 +68,7 @@ export default function Home() {
         <aside className="hidden lg:flex flex-col gap-5 w-72 flex-shrink-0">
           {/* Ad sidebar sticky */}
           <div className="sticky top-[88px]">
-            <AdUnit slot="0987654321" format="rectangle" className="w-full h-[250px]" />
+            <AdUnit slot="5100775284" format="rectangle" className="w-full h-[250px]" />
           </div>
 
           {/* Newsletter CTA */}
@@ -113,7 +113,7 @@ export default function Home() {
           </div>
 
           {/* Ad sidebar inferior */}
-          <AdUnit slot="5544332211" format="rectangle" className="w-full h-[250px]" />
+          <AdUnit slot="3354154815" format="rectangle" className="w-full h-[250px]" />
         </aside>
       </div>
     </div>
