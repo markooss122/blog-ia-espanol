@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
-  <!-- Fondo redondeado -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <!-- Fondo píldora azul -->
   <rect width="48" height="48" rx="12" fill="#1D4ED8"/>
-  <!-- Ondas de pulso (ECG-style) que forman una "P" implícita -->
+  <!-- Onda ECG más refinada -->
   <polyline
-    points="6,28 12,28 15,18 18,36 21,22 24,28 30,28 33,20 36,28 42,28"
+    points="6,28 13,28 17,16 21,38 25,20 29,28 35,28 38,18 41,28 46,28"
     stroke="white"
-    stroke-width="2.8"
+    stroke-width="2.5"
     stroke-linecap="round"
     stroke-linejoin="round"
     fill="none"
   />
-  <!-- Punto brillante en el pico -->
-  <circle cx="33" cy="20" r="2.5" fill="#60A5FA"/>
+  <!-- Punto azul claro en pico -->
+  <circle cx="38" cy="18" r="2.5" fill="#93C5FD"/>
+  <!-- Texto "Pulso" -->
+  <text x="58" y="29" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18181B" letter-spacing="-0.5">Pulso</text>
+  <!-- Texto "IA" en azul -->
+  <text x="117" y="29" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#1D4ED8" letter-spacing="-0.5">IA</text>
 </svg>

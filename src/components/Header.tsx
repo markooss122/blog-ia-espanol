@@ -21,14 +21,9 @@ export default function Header() {
       <div className="border-b border-zinc-100">
         <div className="max-w-6xl mx-auto px-4 flex justify-between items-center h-14">
 
-          <Link href="/" className="flex items-center gap-3 group">
-            <Image src="/logo.svg" alt="PulsoIA logo" width={36} height={36} className="flex-shrink-0" />
-            <div className="leading-none">
-              <span className="block font-bold text-zinc-900 text-[17px] tracking-tight" style={{ fontFamily: 'Newsreader, Georgia, serif' }}>
-                PulsoIA
-              </span>
-              <span className="block text-[10px] text-zinc-400 tracking-widest uppercase">El pulso de la inteligencia artificial</span>
-            </div>
+          <Link href="/" className="flex items-center gap-2 group">
+            <Image src="/logo.svg" alt="PulsoIA logo" width={120} height={36} className="flex-shrink-0" />
+            <span className="hidden sm:block text-[10px] text-zinc-400 tracking-widest uppercase border-l border-zinc-200 pl-3 ml-1">El pulso de la IA</span>
           </Link>
 
           <div className="flex items-center gap-3">
