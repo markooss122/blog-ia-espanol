@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 
 interface AdUnitProps {
   slot: string
@@ -15,11 +15,22 @@ declare global {
 }
 
 export default function AdUnit({ slot, format = 'auto', className = '' }: AdUnitProps) {
+  const [hasConsent, setHasConsent] = useState<boolean | null>(null)
+
   useEffect(() => {
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({})
-    } catch {}
+    const consent = localStorage.getItem('cookie-consent')
+    setHasConsent(consent === 'accepted')
   }, [])
+
+  useEffect(() => {
+    if (hasConsent) {
+      try {
+        (window.adsbygoogle = window.adsbygoogle || []).push({})
+      } catch {}
+    }
+  }, [hasConsent])
+
+  if (!hasConsent) return null
 
   return (
     <ins
