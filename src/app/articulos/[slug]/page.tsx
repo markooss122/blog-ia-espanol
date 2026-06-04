@@ -106,16 +106,19 @@ export default async function ArticlePage({ params }: Props) {
               <AdUnit slot="3354154815" format="rectangle" className="w-full h-[250px]" />
             </div>
 
-            {/* Autor y compartir */}
-            <div className="mt-8 pt-6 border-t border-zinc-100 flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold">IA</div>
-                <div>
-                  <p className="text-xs font-semibold text-zinc-800">Equipo PulsoIA</p>
-                  <p className="text-[10px] text-zinc-400">Publicado el {date}</p>
+            {/* Autor con E-E-A-T */}
+            <div className="mt-8 pt-6 border-t border-zinc-100">
+              <div className="flex items-start gap-4 bg-zinc-50 rounded-xl p-4">
+                <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center text-white text-base font-bold flex-shrink-0">MA</div>
+                <div className="flex-1">
+                  <p className="text-sm font-semibold text-zinc-900">Marcos Alcega</p>
+                  <p className="text-[11px] text-blue-600 font-medium mb-1">Editor y fundador de PulsoIA</p>
+                  <p className="text-xs text-zinc-500 leading-relaxed">
+                    Especialista en herramientas de inteligencia artificial con más de 5 años analizando tecnología. Fundador de PulsoIA, el blog de referencia sobre IA en español. Anteriormente en medios tecnológicos digitales.
+                  </p>
+                  <p className="text-[10px] text-zinc-400 mt-1">Publicado el {date} · <Link href="/sobre-nosotros" className="hover:text-blue-600 transition-colors underline">Sobre el autor</Link></p>
                 </div>
               </div>
-              <Link href="/" className="text-xs text-zinc-400 hover:text-blue-600 transition-colors">← Volver al inicio</Link>
             </div>
           </div>
         </article>

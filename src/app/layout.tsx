@@ -28,6 +28,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="es">
       <head>
+        {/* Google Consent Mode v2 — debe ir ANTES que cualquier script de Google */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('consent', 'default', { 'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'analytics_storage': 'denied', 'wait_for_update': 500 }); gtag('set', 'ads_data_redaction', true);`
+          }}
+        />
         {/* Google Funding Choices — CMP certificado IAB TCF para UE/España (obligatorio desde ene 2024) */}
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
         <script
