@@ -1,5 +1,5 @@
 ﻿---
-image: "https://images.unsplash.com/photo-1675557009483-3b93b3b1bd07?auto=format&fit=crop&w=800&q=80"
+image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=800&q=80"
 imageAlt: "Interfaz de ChatGPT con GPTs personalizados en pantalla"
 title: "GPTs de ChatGPT: los mejores bots especializados y cómo usarlos"
 description: "Guía completa sobre los GPTs personalizados de ChatGPT: qué son, los mejores para productividad, marketing, programación y cómo crear el tuyo propio."
