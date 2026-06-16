@@ -7,6 +7,10 @@ date: "2026-05-14"
 category: "Tutoriales"
 ---
 
+La primera integración que hice con la API de Claude fue para un proyecto que necesitaba analizar documentos largos en español, y me sorprendió lo limpia que es la documentación comparada con otras APIs que había usado. En una tarde tenía las primeras llamadas funcionando.
+
+Esta guía es la que me habría gustado tener al empezar: directa, con ejemplos de código que funcionan tal cual, y centrada en lo que de verdad necesitas para construir algo útil.
+
 ## Por qué la API de Claude es diferente
 
 La API de Claude de Anthropic es una de las más valoradas por desarrolladores en 2026, especialmente para aplicaciones que requieren procesamiento de texto largo, razonamiento complejo o generación de contenido en español de alta calidad.

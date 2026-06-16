@@ -7,6 +7,10 @@ date: "2026-06-05"
 category: "Novedades"
 ---
 
+Llevo meses siguiendo de cerca los rumores sobre GPT-5, y junio por fin ha traído noticias concretas en lugar de especulación. Es de esos meses en los que conviene pararse a separar lo que de verdad cambia de lo que es solo expectación.
+
+Este es mi resumen de las novedades de junio que más impacto tienen para usuarios y profesionales, con mi valoración honesta de cada una.
+
 ## Junio 2026: el mes que todos estaban esperando
 
 El ecosistema de la IA lleva meses de rumores sobre GPT-5 y nuevas capacidades de agentes autónomos. Junio 2026 está confirmando varias de esas expectativas.

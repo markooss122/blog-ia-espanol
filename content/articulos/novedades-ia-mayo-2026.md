@@ -7,6 +7,8 @@ date: "2026-05-31"
 category: "Novedades"
 ---
 
+Cada mes recopilo las novedades de IA que de verdad importan, filtrando el ruido de los anuncios menores. Mayo ha sido un mes intenso: varios lanzamientos que cambian cosas en la práctica, no solo en los titulares. Esto es lo que destacaría si solo tuvieras cinco minutos para ponerte al día.
+
 ## Mayo 2026: un mes intenso para la IA
 
 El ecosistema de la inteligencia artificial no para. Mayo de 2026 ha traído lanzamientos significativos de las principales empresas del sector. Aquí tienes el resumen de lo más relevante para usuarios y profesionales hispanohablantes.

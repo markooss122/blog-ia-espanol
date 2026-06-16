@@ -7,6 +7,10 @@ date: "2026-04-30"
 category: "Novedades"
 ---
 
+De todos los meses que llevo resumiendo novedades de IA, abril ha sido de los que más me ha hecho cambiar de opinión sobre algo. Hasta ahora daba por sentado que los modelos comerciales (GPT, Claude, Gemini) iban siempre un paso por delante del open source. Los lanzamientos de Meta y Mistral este mes me han hecho replantearlo.
+
+Este es el resumen de lo más importante de abril, con mi valoración de qué cambia de verdad y qué es solo ruido.
+
 ## Abril 2026: el mes de los modelos open source
 
 Si marzo fue el mes de los agentes, abril fue el mes en que el open source se puso al nivel de los modelos comerciales. Los lanzamientos de Meta y Mistral en abril cambiaron la percepción de lo que es posible con modelos que cualquiera puede descargar y usar sin pagar por cada llamada.
