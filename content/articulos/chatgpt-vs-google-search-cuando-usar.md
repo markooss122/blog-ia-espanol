@@ -7,6 +7,10 @@ date: "2026-05-08"
 category: "Comparativas"
 ---
 
+Tengo un hábito que he ido afinando con los meses: antes de buscar algo, me pregunto medio segundo si lo que necesito es "encontrar" o "entender". Si necesito encontrar (un precio, un horario, una fuente), voy a Google. Si necesito entender, sintetizar o crear, voy a ChatGPT. Ese pequeño reflejo me ahorra muchísimo tiempo.
+
+Esta guía es básicamente ese criterio explicado en detalle, con ejemplos concretos de cuándo usar cada herramienta y, sobre todo, cuándo no.
+
 ## La pregunta que todos se hacen
 
 Desde que los asistentes de IA se popularizaron, muchas personas van directamente a ChatGPT para cualquier consulta, abandonando Google. Otras siguen usando Google para absolutamente todo. Ambos extremos son errores.

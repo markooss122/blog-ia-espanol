@@ -7,6 +7,10 @@ date: "2026-04-18"
 category: "Tutoriales"
 ---
 
+He ayudado a varios negocios pequeños en España a dar sus primeros pasos con la IA, y siempre encuentro la misma sorpresa: esperan algo complicado y caro, y se encuentran con herramientas gratuitas que aprenden a usar en una tarde. El obstáculo nunca es la tecnología — es la idea preconcebida de que "eso no es para mí".
+
+Esta guía está pensada específicamente para el contexto español: qué herramientas funcionan mejor aquí, qué ayudas públicas existen y cómo empezar sin presupuesto ni conocimientos técnicos.
+
 ## La IA ya no es solo para grandes empresas
 
 Hasta hace tres años, la inteligencia artificial era terreno de grandes corporaciones con departamentos de datos y presupuestos millonarios. En 2026, una empresa de 5 personas puede usar las mismas herramientas de IA que usan Amazon o Google — y en muchos casos de forma gratuita o por menos de 50 euros al mes.
