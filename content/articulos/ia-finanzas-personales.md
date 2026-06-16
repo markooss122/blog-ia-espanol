@@ -7,6 +7,10 @@ date: "2026-04-22"
 category: "Herramientas"
 ---
 
+El año pasado usé Claude para entender de verdad en qué se me iba el dinero. Pegué tres meses de movimientos categorizados y le pedí que identificara dónde gastaba más de lo que creía. La respuesta fue incómoda: gastaba en suscripciones olvidadas y comida a domicilio bastante más de lo que habría jurado. Cancelé cuatro servicios que ni usaba.
+
+Esa es la utilidad real de la IA en finanzas: no te hace rico, pero te da una claridad que cuesta conseguir solo. Eso sí, con un límite importante que explico al final: para decisiones serias, la IA no sustituye a un profesional.
+
 ## La IA como asesor financiero personal accesible
 
 El asesoramiento financiero profesional cuesta dinero — y mucho. Un asesor financiero cobra entre 100 y 300 euros por hora. Para la mayoría de personas, eso significa tomar decisiones financieras importantes sin la información y el análisis que necesitan.

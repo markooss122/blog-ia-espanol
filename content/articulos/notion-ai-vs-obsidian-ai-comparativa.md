@@ -7,6 +7,10 @@ date: "2026-05-12"
 category: "Comparativas"
 ---
 
+He usado los dos de forma intensiva, y la verdad es que tardé en entender que la pregunta "¿cuál es mejor?" estaba mal planteada. Estuve meses con Notion porque era cómodo y bonito. Luego me pasé a Obsidian buscando privacidad y control, y descubrí que el sistema de conexiones entre notas cambiaba mi forma de pensar. Pero también que la curva de aprendizaje era real.
+
+No hay ganador absoluto. Hay dos filosofías distintas, y la correcta para ti depende de cómo trabajas. Esta comparativa te ayuda a decidir sin perder semanas probando.
+
 ## El dilema de las notas en la era de la IA
 
 Gestionar el conocimiento personal siempre ha sido un reto. En 2026, la IA ha transformado las herramientas de toma de notas: ya no solo almacenan información, sino que la procesan, conectan y generan nuevas ideas.

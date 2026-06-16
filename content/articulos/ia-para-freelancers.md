@@ -7,6 +7,10 @@ date: "2026-06-03"
 category: "Tutoriales"
 ---
 
+He trabajado como freelance y conozco a muchos que lo son. Hay un patrón claro: los que más facturan no son necesariamente los mejores en su oficio, sino los que dedican menos tiempo a la parte administrativa y más a su trabajo de valor. La IA ha hecho esa diferencia mucho más grande.
+
+Lo que más tiempo me ahorraba a mí no era el trabajo creativo, sino las propuestas, los emails repetitivos y la documentación. Esta guía recoge los flujos concretos que más impacto tienen, con el tiempo real que ahorra cada uno.
+
 ## La IA como ventaja competitiva del freelancer moderno
 
 Ser freelancer en 2026 sin usar IA es como competir en Fórmula 1 con un coche de 2010. Tus competidores entregan más rápido, con menos errores y a precios que tú no puedes igualar trabajando manualmente.
