@@ -81,8 +81,44 @@ El enfoque más seguro para introducir IA en un despacho:
 4. **Mide el impacto:** lleva registro del tiempo ahorrado para justificar la inversión
 5. **Escala gradualmente:** añade casos de uso según gana confianza el equipo
 
+## Las consideraciones deontológicas que no puedes ignorar
+
+Usar IA en el ejercicio de la abogacía no es solo una cuestión de eficiencia — tiene implicaciones deontológicas serias que cualquier despacho debe tener en cuenta.
+
+**Confidencialidad y secreto profesional.** El deber de secreto profesional es uno de los pilares de la abogacía. Introducir datos de un cliente en una herramienta de IA cuyo proveedor podría usarlos para entrenar sus modelos puede vulnerar ese deber. La regla práctica: nunca uses herramientas de IA de consumo con datos identificables de clientes. Usa versiones empresariales con garantías contractuales de confidencialidad, o anonimiza los datos antes de procesarlos.
+
+**Deber de competencia y verificación.** El abogado sigue siendo responsable de todo lo que firma, aunque lo haya generado una IA. Presentar ante un tribunal un escrito con jurisprudencia inventada por la IA —algo que ya ha ocurrido y ha tenido consecuencias disciplinarias en varios países— es responsabilidad exclusiva del abogado. La IA no es una excusa.
+
+**Transparencia con el cliente.** Existe un debate abierto sobre si el cliente debe saber que parte del trabajo se realiza con asistencia de IA. La tendencia es hacia la transparencia, especialmente si afecta a la facturación de horas.
+
+## Caso práctico: revisión de un contrato de arrendamiento
+
+Para ilustrar cómo se usa la IA en la práctica de forma responsable, un flujo típico de revisión de contrato con IA sería:
+
+1. **Anonimización.** Se eliminan o sustituyen los datos identificables de las partes antes de procesar el documento.
+2. **Primer análisis con IA.** Se pide a la herramienta que identifique cláusulas de riesgo para la parte representada, ausencias de cláusulas habituales y términos inusuales.
+3. **Revisión humana del análisis.** El abogado valora cada punto marcado por la IA con su criterio profesional, descartando falsos positivos y profundizando en los riesgos reales.
+4. **Verificación de la normativa citada.** Cualquier referencia legal que haya aportado la IA se contrasta con la fuente oficial (BOE, jurisprudencia del CENDOJ).
+5. **Redacción final humana.** El abogado redacta o ajusta las recomendaciones con su propio criterio y asume la responsabilidad del resultado.
+
+Lo que antes era media jornada de lectura se convierte en una hora de trabajo de mayor valor: el abogado dedica su tiempo a valorar y decidir, no a leer línea por línea buscando lo importante.
+
 ## El futuro del trabajo legal con IA
 
-Los despachos que están ganando cuota de mercado en 2026 no son los que tienen más abogados — son los que han aprendido a usar la IA para dar el mismo nivel de servicio con menos horas facturables, lo que les permite bajar precios o aumentar márgenes.
+Los despachos que están ganando cuota de mercado en 2026 no son los que tienen más abogados — son los que han aprendido a usar la IA para dar el mismo nivel de servicio con menos horas, lo que les permite bajar precios o aumentar márgenes.
 
-Para los abogados individualmente, la IA es una oportunidad de diferenciación: el abogado que domina las herramientas puede manejar el doble de clientes con la misma calidad. El que no las domina estará en desventaja competitiva en 24-36 meses.
+Para los abogados individualmente, la IA es una oportunidad de diferenciación: el abogado que domina las herramientas puede manejar más clientes con la misma calidad. El que no las domina puede quedar en desventaja competitiva en los próximos años.
+
+Pero la dirección de fondo es clara: la IA no reemplaza al abogado, reemplaza el trabajo mecánico del abogado. El criterio, la responsabilidad, la relación con el cliente y la representación ante tribunales siguen siendo —y seguirán siendo— profundamente humanos.
+
+## Preguntas frecuentes
+
+**¿Es legal usar IA para redactar documentos jurídicos?** Sí, siempre que el abogado revise y asuma la responsabilidad del documento final. La IA es una herramienta de asistencia; la responsabilidad profesional sigue siendo del letrado.
+
+**¿Puede la IA reemplazar a un abogado?** No para el ejercicio profesional. La IA puede automatizar tareas (revisión, investigación, primeros borradores), pero no puede asumir responsabilidad legal, ejercer criterio en situaciones ambiguas ni representar a clientes ante tribunales.
+
+**¿Qué riesgo hay de usar ChatGPT para temas legales?** El principal es la alucinación: la IA puede inventar leyes, sentencias o artículos que no existen, presentándolos con total confianza. Toda información legal generada por IA debe verificarse en fuentes oficiales antes de usarse.
+
+**¿Es seguro subir contratos de clientes a una herramienta de IA?** Solo con las garantías adecuadas. Las versiones de consumo pueden usar tus datos para entrenamiento. Para datos de clientes, usa versiones empresariales con cláusulas de confidencialidad o anonimiza la información antes de procesarla.
+
+**¿Qué herramienta de IA es mejor para un despacho pequeño en España?** Para empezar, Claude o ChatGPT Plus para redacción y análisis (con datos anonimizados), combinado con las bases de datos jurídicas españolas (CENDOJ, Aranzadi, La Ley) para la investigación de jurisprudencia, que aportan la fiabilidad que la IA generalista no garantiza.
