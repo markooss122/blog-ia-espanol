@@ -7,6 +7,10 @@ date: "2026-04-10"
 category: "Herramientas"
 ---
 
+Recuerdo cuando transcribir una entrevista de una hora significaba pasarse media tarde dándole al play y al pause. La primera vez que pasé un audio por Whisper y tuve la transcripción completa en menos de dos minutos —y encima bastante precisa— me costó creerlo.
+
+He probado prácticamente todas las herramientas de transcripción que existen, de pago y gratuitas. Esta guía es el resumen de cuál usar según lo que necesites, sin rodeos.
+
 ## La transcripción automática ha cambiado para siempre
 
 Transcribir audio o vídeo manualmente era una tarea lenta y cara. En 2026, la IA ha resuelto este problema casi completamente: herramientas como Whisper de OpenAI transcriben audio con una precisión que rivaliza con transcriptores humanos, en segundos y a coste mínimo.

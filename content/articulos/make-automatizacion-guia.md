@@ -7,6 +7,10 @@ date: "2026-04-15"
 category: "Automatización"
 ---
 
+Empecé con Zapier, como casi todo el mundo. Pero llegó un día en que necesitaba un flujo con varias ramas condicionales y Zapier o no podía o me pedía el plan más caro. Probé Make ese fin de semana y ese mismo flujo lo monté en una hora, en el plan gratuito. Desde entonces es mi herramienta para cualquier automatización que tenga algo de lógica.
+
+Esta guía recoge lo que he aprendido usándolo: cuándo elegirlo, cómo empezar y los flujos con IA que más valor aportan.
+
 ## Qué es Make y por qué deberías conocerlo
 
 Make (anteriormente Integromat) es una plataforma de automatización visual que permite conectar aplicaciones y crear flujos de trabajo automáticos sin programar. Junto con Zapier y n8n, forma el trío principal de herramientas de automatización para empresas y creadores.
