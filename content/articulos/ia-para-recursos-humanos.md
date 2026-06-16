@@ -7,6 +7,10 @@ date: "2026-05-19"
 category: "Herramientas"
 ---
 
+Hablando con responsables de selección para preparar este artículo, me llamó la atención una frase que repitieron varios: "La IA me ha devuelto el tiempo para hablar con las personas." Lo que más les agobiaba no era entrevistar, sino cribar cientos de CVs. Y ahí es exactamente donde la IA ayuda — siempre que se use con cabeza, porque el riesgo de sesgo es real.
+
+Esta guía recoge cómo se está usando la IA en RRHH hoy, con sus ventajas y sus líneas rojas éticas.
+
 ## La IA está redefiniendo los Recursos Humanos
 
 El departamento de RRHH era uno de los más resistentes a la tecnología. En 2026, es uno de los que más rápido la está adoptando. La razón es simple: procesar cientos de candidaturas, gestionar onboardings y analizar el desempeño de equipos grandes es exactamente el tipo de trabajo intensivo en datos donde la IA tiene ventaja.

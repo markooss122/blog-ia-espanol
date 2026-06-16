@@ -7,6 +7,10 @@ date: "2026-05-11"
 category: "Herramientas"
 ---
 
+Conozco a la dueña de una tienda online de productos artesanales que se pasaba los domingos escribiendo descripciones de producto. Cuando le enseñé a generarlas con IA —manteniendo su voz de marca— recuperó sus domingos y, según me contó, las ventas no bajaron: subieron, porque ahora todas las fichas estaban completas y optimizadas.
+
+Esa es la promesa real de la IA en ecommerce: no reemplazar tu criterio, sino quitarte de encima el trabajo repetitivo que te impide crecer. Esta guía cubre las áreas donde más impacto tiene.
+
 ## La IA ha cambiado las reglas del ecommerce
 
 En 2026, una tienda online que no usa IA compite en desventaja con las que sí lo hacen. No porque la IA sea magia, sino porque automatiza tareas que antes consumían horas diarias y personaliza la experiencia del cliente a una escala imposible de lograr manualmente.

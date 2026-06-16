@@ -6,6 +6,10 @@ description: "Cómo están usando la IA los despachos de abogados: revisión de 
 date: "2026-05-29"
 category: "Herramientas"
 ---
+Un abogado conocido me contaba hace poco que la revisión de un contrato de 60 páginas que antes le ocupaba media jornada ahora la hace en una hora: la IA marca las cláusulas de riesgo y él se centra en valorarlas con criterio. No es que la IA sustituya su juicio profesional — es que le quita el trabajo de leer línea por línea buscando lo importante.
+
+Esta guía recoge cómo se está usando la IA en despachos, con una advertencia clara sobre los límites donde el criterio humano sigue siendo insustituible.
+
 ## La IA está transformando el sector legal más rápido de lo esperado
 
 El sector jurídico era considerado uno de los más resistentes a la automatización por su complejidad, la necesidad de criterio humano y la responsabilidad profesional involucrada. En 2026, esa resistencia se ha roto.
