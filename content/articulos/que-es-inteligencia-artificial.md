@@ -7,6 +7,10 @@ date: "2026-06-05"
 category: "Tutoriales"
 ---
 
+Mi madre me preguntó hace poco qué era "eso de la inteligencia artificial" de lo que todo el mundo habla. Empecé a explicárselo y me di cuenta de lo difícil que es hacerlo sin caer en tecnicismos o en vaguedades. Tardé un par de intentos en dar con una explicación que de verdad entendió.
+
+Esta guía es esa explicación, pulida. Está escrita para cualquier persona curiosa, sin asumir ningún conocimiento técnico. Si alguna vez te has sentido perdido cuando se habla de IA, esto es para ti.
+
 ## Inteligencia artificial: la tecnología que lo está cambiando todo
 
 La inteligencia artificial está en todas las conversaciones. En las noticias, en las reuniones de trabajo, en los colegios. Pero cuando alguien pregunta qué es exactamente, la mayoría de las explicaciones son demasiado técnicas o demasiado vagas.

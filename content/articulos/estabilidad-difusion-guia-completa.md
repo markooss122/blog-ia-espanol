@@ -6,6 +6,10 @@ description: "Tutorial completo de Stable Diffusion: instalación, primeros paso
 date: "2026-05-27"
 category: "Tutoriales"
 ---
+Instalar Stable Diffusion en mi propio ordenador fue uno de esos proyectos de fin de semana que parecían intimidantes y resultaron más sencillos de lo esperado. La recompensa: generar todas las imágenes que quiera, gratis, en privado y sin límites. Para alguien que produce contenido visual con frecuencia, eso cambia las cuentas por completo.
+
+No es la opción más fácil —Midjourney lo es más— pero es la más potente y libre. Esta guía te lleva desde la instalación hasta los resultados profesionales, sin asumir conocimientos técnicos avanzados.
+
 ## Por qué Stable Diffusion sigue siendo relevante en 2026
 
 Midjourney y DALL-E generan imágenes de alta calidad pero cuestan dinero por imagen y tus datos van a sus servidores. Stable Diffusion es diferente: es open source, funciona en tu ordenador, es completamente privado y genera imágenes ilimitadas sin coste adicional una vez instalado.

@@ -7,6 +7,10 @@ date: "2026-05-17"
 category: "Novedades"
 ---
 
+Quiero ser claro desde el principio: no soy médico, y este artículo no es consejo médico. Es un repaso informativo de cómo se está usando la IA en el sector sanitario, basado en investigación de fuentes públicas y casos documentados. Para cualquier decisión sobre tu salud, consulta siempre a un profesional.
+
+Dicho esto, lo que está pasando en medicina con la IA me parece de lo más fascinante de toda esta revolución tecnológica. Estos son los avances reales, sin exageraciones.
+
 ## La IA médica ha dejado de ser ciencia ficción
 
 Hace cinco años, la IA médica era principalmente experimental. En 2026, está integrada en hospitales, consultas y laboratorios farmacéuticos de todo el mundo. Los resultados son suficientemente sólidos como para hablar de transformación real, no de promesas futuras.

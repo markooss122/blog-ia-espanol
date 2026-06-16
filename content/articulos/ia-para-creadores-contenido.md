@@ -7,6 +7,10 @@ date: "2026-05-07"
 category: "Tutoriales"
 ---
 
+Conozco a varios creadores que trabajan solos y producen como si tuvieran un equipo detrás. El secreto no es que trabajen más horas — es que han delegado a la IA todo el trabajo mecánico: transcribir, generar variaciones de títulos, crear borradores de guion, reaprovechar un vídeo en cinco formatos. Lo que les queda es la parte que de verdad importa: su perspectiva y su conexión con la audiencia.
+
+Esta guía recoge ese flujo de trabajo, paso a paso, con las herramientas concretas que usan los creadores que más rinden.
+
 ## La IA ha cambiado lo que es posible para un creador individual
 
 En 2022, producir contenido de calidad de forma consistente requería un equipo: guionista, editor, diseñador, community manager. En 2026, un creador individual con las herramientas correctas puede producir a la misma velocidad y calidad.

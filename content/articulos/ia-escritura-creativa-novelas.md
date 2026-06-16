@@ -7,6 +7,10 @@ date: "2026-05-01"
 category: "Tutoriales"
 ---
 
+Tengo una relación complicada con la idea de usar IA para escribir ficción. Por un lado, he visto a escritores usarla de formas brillantes para desbloquearse o explorar posibilidades. Por otro, he leído textos generados enteros por IA que son técnicamente correctos y completamente vacíos.
+
+Tras darle muchas vueltas, mi conclusión es la que da título a esta guía: la IA es un colaborador extraordinario y un autor mediocre. La diferencia está en cómo la uses.
+
 ## La IA como colaborador creativo, no como sustituto
 
 La discusión sobre IA y escritura creativa suele ir a los extremos: o "la IA escribirá todas las novelas" o "la IA no puede ser creativa". La realidad es más matizada y más interesante.

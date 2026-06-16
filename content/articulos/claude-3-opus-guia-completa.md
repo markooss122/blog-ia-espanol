@@ -7,6 +7,10 @@ date: "2026-05-06"
 category: "Tutoriales"
 ---
 
+Claude es la herramienta que uso para escribir prácticamente todo lo que requiere calidad en español. Llegué a él buscando algo mejor que ChatGPT para redacción, y me quedé por una razón concreta: el texto que produce en castellano suena a persona, no a traducción. Pero entender cuándo usar Opus, cuándo Sonnet y cuándo Haiku marca una diferencia enorme en resultados y en coste.
+
+Esta guía recoge todo lo que he aprendido sacándole partido a la familia Claude, incluidas las técnicas de prompting que mejor funcionan con estos modelos.
+
 ## Claude en 2026: el asistente que mejor escribe en español
 
 Anthropic lanzó la familia Claude 3 en 2024 y desde entonces ha consolidado su posición como el asistente de IA preferido para tareas de escritura, análisis de documentos largos y razonamiento complejo en español.
