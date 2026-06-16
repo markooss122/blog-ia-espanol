@@ -7,6 +7,10 @@ date: "2026-05-18"
 category: "Comparativas"
 ---
 
+He generado, literalmente, miles de imágenes con las tres herramientas para distintos proyectos. Y la pregunta que más me hacen —"¿cuál es la mejor?"— no tiene una respuesta única. Depende totalmente de para qué la quieres, cuánto controlas la técnica y cuánto puedes gastar.
+
+Esta comparativa está basada en uso real de las tres, no en capturas de marketing. Te digo cuál usar según tu caso concreto.
+
 ## La guerra de los generadores de imágenes con IA
 
 En 2026, crear imágenes con inteligencia artificial está al alcance de cualquiera. Pero la elección del generador importa: la diferencia de calidad entre herramientas es enorme, y también lo son los precios y la curva de aprendizaje.
