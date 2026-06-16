@@ -7,6 +7,10 @@ date: "2026-04-28"
 category: "Automatización"
 ---
 
+Llevo un tiempo experimentando con agentes de IA, y mi conclusión es matizada: son a la vez más impresionantes y más frustrantes de lo que cuenta el hype. Cuando funcionan, ver a un agente planificar y ejecutar una tarea de varios pasos solo es genuinamente asombroso. Cuando fallan, lo hacen de formas que te recuerdan que esta tecnología todavía es joven.
+
+Esta guía te explica qué son realmente los agentes autónomos, qué pueden hacer hoy y —lo más importante— dónde están sus límites actuales.
+
 ## Los agentes de IA: más allá del chatbot
 
 Un chatbot responde preguntas. Un agente de IA hace cosas.

@@ -7,6 +7,10 @@ date: "2026-05-13"
 category: "Herramientas"
 ---
 
+La primera vez que generé una narración en español con ElevenLabs, me quedé en silencio escuchándola dos veces. Esperaba la típica voz robótica de los lectores automáticos. Lo que oí tenía entonación, pausas naturales y hasta un punto de expresividad. Tuve que recordarme que no había ninguna persona detrás.
+
+He probado prácticamente todas las herramientas de voz con IA que existen, y ninguna se acerca a ElevenLabs en español. Esta guía te explica cómo sacarle partido.
+
 ## ElevenLabs: por qué domina la síntesis de voz con IA
 
 ElevenLabs es la herramienta de síntesis de voz con IA más avanzada disponible en 2026. La diferencia con otras herramientas es audible: sus voces tienen entonación natural, pausas apropiadas, expresión emocional y un español convincente que las herramientas anteriores no podían lograr.

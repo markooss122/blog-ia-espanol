@@ -7,6 +7,10 @@ date: "2026-05-04"
 category: "Herramientas"
 ---
 
+He probado decenas de herramientas de productividad con IA, y la mayoría las abandoné en una semana. Prometían mucho y aportaban poco, o eran tan complicadas de configurar que el tiempo que "ahorraban" no compensaba. Solo unas pocas se quedaron en mi flujo de trabajo de forma permanente.
+
+Esta guía es honesta: cubre solo las que de verdad uso a diario y que generan un impacto medible, no las que suenan bien en una demo.
+
 ## Productividad con IA: separar lo útil del ruido
 
 El mercado de herramientas de productividad con IA está saturado de promesas. Aplicaciones que "harán todo por ti", "aprenderán de tus hábitos" y "multiplicarán tu productividad por 10". La realidad es más modesta pero también más real.

@@ -7,6 +7,10 @@ date: "2026-05-03"
 category: "Herramientas"
 ---
 
+No soy diseñador, y durante años eso fue un problema real cada vez que necesitaba una imagen para redes, una presentación decente o un banner. Canva fue mi solución mucho antes de la IA. Ahora, con Magic Studio integrado, hago en diez minutos cosas que antes me llevaban una tarde entera o que directamente delegaba.
+
+Esta guía recoge las funciones de IA de Canva que de verdad uso y que merecen la pena, separadas de las que son más marketing que utilidad.
+
 ## Canva en 2026: de herramienta de diseño a plataforma de IA creativa
 
 Canva lleva años siendo la herramienta de diseño favorita de quienes no son diseñadores. En 2026, su integración de IA lo ha llevado a otro nivel: ahora no solo facilita el diseño, sino que genera contenido visual completo desde cero.
