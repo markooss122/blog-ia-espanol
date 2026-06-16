@@ -36,18 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('consent', 'default', { 'ad_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'analytics_storage': 'denied', 'wait_for_update': 500 }); gtag('set', 'ads_data_redaction', true);`
           }}
         />
-        {/* Google Funding Choices — CMP certificado IAB TCF para UE/España (obligatorio desde ene 2024) */}
-        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-        <script
-          src="https://fundingchoicesmessages.google.com/i/pub-2587597281292784?ers=1"
-          data-nscript="beforeInteractive"
-        />
-        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();`
-          }}
-        />
+        {/* AdSense — el consentimiento se gestiona con nuestro CookieBanner + Consent Mode v2 */}
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
         <script
           async

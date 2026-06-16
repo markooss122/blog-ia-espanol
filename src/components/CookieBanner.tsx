@@ -3,21 +3,46 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void
+  }
+}
+
+// Comunica la decisión de consentimiento a Google Consent Mode v2
+function updateGoogleConsent(granted: boolean) {
+  if (typeof window === 'undefined' || typeof window.gtag !== 'function') return
+  const value = granted ? 'granted' : 'denied'
+  window.gtag('consent', 'update', {
+    ad_storage: value,
+    ad_user_data: value,
+    ad_personalization: value,
+    analytics_storage: value,
+  })
+}
+
 export default function CookieBanner() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
     const consent = localStorage.getItem('cookie-consent')
-    if (!consent) setVisible(true)
+    if (!consent) {
+      setVisible(true)
+    } else {
+      // Reafirma el consentimiento previo en cada carga de página
+      updateGoogleConsent(consent === 'accepted')
+    }
   }, [])
 
   const accept = () => {
     localStorage.setItem('cookie-consent', 'accepted')
+    updateGoogleConsent(true)
     setVisible(false)
   }
 
   const reject = () => {
     localStorage.setItem('cookie-consent', 'rejected')
+    updateGoogleConsent(false)
     setVisible(false)
   }
 
