@@ -7,6 +7,10 @@ date: "2026-04-05"
 category: "Automatización"
 ---
 
+El primer Zap que me cambió la vida fue uno tonto: clasificar automáticamente los emails entrantes por tipo. Tardé 20 minutos en montarlo y me ahorra, todavía hoy, una media hora cada mañana de ordenar la bandeja de entrada. Ese pequeño éxito me enganchó a la automatización.
+
+Esta guía se centra en el área donde más impacto tiene Zapier con IA para cualquier negocio: el email y el CRM. Son flujos reales que puedes copiar tal cual.
+
 ## Zapier + IA: la combinación que automatiza tu negocio
 
 Zapier conecta más de 6.000 aplicaciones entre sí. Con la integración de IA (ChatGPT, Claude, Gemini), sus automatizaciones pasan de simples movimientos de datos a flujos que piensan y toman decisiones.
