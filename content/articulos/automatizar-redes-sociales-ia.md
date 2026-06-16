@@ -119,25 +119,25 @@ Empieza por una sola plataforma y un solo tipo de contenido. La curva de aprendi
 
 ## Metricas que importan al automatizar redes sociales
 
-Automatizar sin medir es trabajar a ciegas. Estas son las metricas que realmente indican si tu estrategia de contenido con IA esta funcionando.
+Automatizar sin medir es trabajar a ciegas. Estas son las métricas que realmente indican si tu estrategia de contenido con IA esta funcionando.
 
 ### Tasa de engagement por formato
 
-No todos los formatos funcionan igual en todas las plataformas. Con contenido automatizado, es facil caer en publicar el mismo tipo de contenido repetidamente porque el flujo de automatizacion esta configurado asi. Monitoriza la tasa de engagement (likes + comentarios + guardados dividido por alcance) por tipo de post y ajusta el sistema cuando veas que un formato rinde mejor que otro.
+No todos los formatos funcionan igual en todas las plataformas. Con contenido automatizado, es fácil caer en publicar el mismo tipo de contenido repetidamente porque el flujo de automatización esta configurado asi. Monitoriza la tasa de engagement (likes + comentarios + guardados dividido por alcance) por tipo de post y ajusta el sistema cuando veas que un formato rinde mejor que otro.
 
 ### Tiempo de primera respuesta a comentarios
 
-La automatizacion del contenido no debe confundirse con la automatizacion de la interaccion. Los comentarios y menciones siguen requiriendo respuesta humana rapida. Un buen sistema automatizado libera tiempo para que puedas responder en 30-60 minutos en lugar de horas.
+La automatización del contenido no debe confundirse con la automatización de la interaccion. Los comentarios y menciones siguen requiriendo respuesta humana rapida. Un buen sistema automatizado libera tiempo para que puedas responder en 30-60 minutos en lugar de horas.
 
 ### Ratio contenido automatizado vs organico
 
 Los algoritmos de redes sociales penalizan el contenido que parece generado automaticamente. Una ratio saludable para la mayoria de cuentas es no mas de 60-70% de contenido planificado con anticipacion, dejando espacio para contenido espontaneo que responde a tendencias o eventos actuales.
 
-## Herramientas de analisis que complementan la automatizacion
+## Herramientas de análisis que complementan la automatizacion
 
-Metricool tiene la mejor integracion para creadores en espanol: analiza multiples redes desde un solo panel, muestra los mejores horarios de publicacion basados en tu audiencia especifica y genera informes automatizados semanales. Su plan gratuito cubre hasta 5 perfiles sociales.
+Metricool tiene la mejor integración para creadores en espanol: analiza multiples redes desde un solo panel, muestra los mejores horarios de publicación basados en tu audiencia específica y genera informes automatizados semanales. Su plan gratuito cubre hasta 5 perfiles sociales.
 
-Para cuentas mas grandes, Hootsuite Insights anade analisis de sentimiento y escucha social: no solo ves como rinde tu contenido, sino que tambien monitoriza menciones de tu marca y de tu competencia en tiempo real.
+Para cuentas mas grandes, Hootsuite Insights anade análisis de sentimiento y escucha social: no solo ves como rinde tu contenido, sino que también monitoriza menciones de tu marca y de tu competencia en tiempo real.
 
 ## El error mas comun que destruye cuentas automatizadas
 
@@ -149,9 +149,9 @@ Senales de que estas automatizando demasiado:
 - Recibes menos menciones espontaneas de seguidores
 - El crecimiento se estanca aunque publiques con regularidad
 
-La solucion no es publicar menos sino publicar de forma mas variada: mezcla contenido planificado con reacciones espontaneas a noticias del sector, detras de las escenas, preguntas directas a tu audiencia.
+La solución no es publicar menos sino publicar de forma mas variada: mezcla contenido planificado con reacciones espontaneas a noticias del sector, detras de las escenas, preguntas directas a tu audiencia.
 
-## El flujo completo: de idea a publicacion en 45 minutos por semana
+## El flujo completo: de idea a publicación en 45 minutos por semana
 
 Con el sistema bien configurado, gestionar 3-4 redes sociales con contenido de calidad deberia costar menos de una hora semanal de trabajo real. Aqui va el flujo:
 

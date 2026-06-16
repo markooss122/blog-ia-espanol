@@ -158,41 +158,41 @@ El plan gratuito de Zapier es suficiente para validar si estas automatizaciones 
 
 ## Casos de uso adicionales de Zapier con IA para equipos
 
-Mas alla de la gestion de email individual, Zapier con IA tiene aplicaciones potentes para equipos pequenos y medianos.
+Mas alla de la gestión de email individual, Zapier con IA tiene aplicaciones potentes para equipos pequenos y medianos.
 
-### Actualizacion automatica del CRM tras llamadas de ventas
+### Actualizacion automática del CRM tras llamadas de ventas
 
-El comercial termina una llamada, escribe unas notas rapidas en Slack o en un formulario simple. Zapier captura esas notas, ChatGPT las estructura y extrae: nombre del cliente, empresa, necesidad principal, objeciones, proximo paso acordado y fecha. HubSpot o Salesforce se actualiza automaticamente con toda esa informacion.
+El comercial termina una llamada, escribe unas notas rápidas en Slack o en un formulario simple. Zapier captura esas notas, ChatGPT las estructura y extrae: nombre del cliente, empresa, necesidad principal, objeciones, proximo paso acordado y fecha. HubSpot o Salesforce se actualiza automaticamente con toda esa informacion.
 
 Resultado: el CRM siempre esta actualizado sin que el comercial tenga que hacer trabajo administrativo manual. En equipos de ventas, esto puede significar 30-45 minutos ahorrados por comercial al dia.
 
 ### Enrutamiento inteligente de tickets de soporte
 
-Los tickets de soporte llegan mezclados: algunos son problemas tecnicos complejos, otros son preguntas basicas, otros son quejas de facturacion. Sin IA, alguien tiene que leerlos y distribuirlos manualmente.
+Los tickets de soporte llegan mezclados: algunos son problemas técnicos complejos, otros son preguntas basicas, otros son quejas de facturacion. Sin IA, alguien tiene que leerlos y distribuirlos manualmente.
 
-Con Zapier + ChatGPT: cada ticket nuevo se analiza automaticamente, se clasifica por tipo y urgencia, se asigna al agente correcto segun su especialidad, y se genera una respuesta inicial apropiada para el nivel de urgencia del problema.
+Con Zapier + ChatGPT: cada ticket nuevo se analiza automaticamente, se clasifica por tipo y urgencia, se asigna al agente correcto según su especialidad, y se genera una respuesta inicial apropiada para el nivel de urgencia del problema.
 
 ### Informe de incidencias de produccion
 
-Para equipos tecnicos, cuando un sistema de monitorizacion genera una alerta (servidor caido, error critico, caida del rendimiento), Zapier puede capturar esa alerta, usar IA para analizar los logs y generar una descripcion del problema en lenguaje natural, notificar al equipo correcto con el contexto necesario y crear automaticamente el ticket en Jira o Linear.
+Para equipos tecnicos, cuando un sistema de monitorizacion genera una alerta (servidor caido, error critico, caida del rendimiento), Zapier puede capturar esa alerta, usar IA para analizar los logs y generar una descripción del problema en lenguaje natural, notificar al equipo correcto con el contexto necesario y crear automaticamente el ticket en Jira o Linear.
 
 ## Limitaciones de Zapier con IA que debes conocer
 
 Antes de invertir tiempo en configurar flujos complejos, es honesto reconocer donde Zapier muestra sus limitaciones.
 
-El numero de pasos en los flujos esta limitado en los planes basicos. Los flujos con mas de 3-4 pasos requieren planes de pago mas caros. Para flujos muy complejos con multiples ramas de logica condicional, Make o n8n son mas economicos.
+El numero de pasos en los flujos esta limitado en los planes basicos. Los flujos con mas de 3-4 pasos requieren planes de pago mas caros. Para flujos muy complejos con multiples ramas de lógica condicional, Make o n8n son mas economicos.
 
-La gestion de errores en Zapier es basica comparada con las alternativas. Si un paso falla, Zapier lo registra pero las opciones de recuperacion automatica son limitadas. Para flujos criticos de negocio, esto puede ser un problema.
+La gestión de errores en Zapier es básica comparada con las alternativas. Si un paso falla, Zapier lo registra pero las opciones de recuperacion automática son limitadas. Para flujos criticos de negocio, esto puede ser un problema.
 
 El coste escala rapidamente con el volumen. El plan gratuito de 100 tareas al mes se agota con facilidad. A partir de cierto volumen, la combinacion Make + OpenAI API resulta mas economica.
 
 ## El paso siguiente: de Zapier a Make o n8n
 
-Zapier es el mejor punto de entrada para la automatizacion con IA porque su interfaz es la mas intuitiva y su biblioteca de integraciones es la mas amplia. Sin embargo, la mayoria de usuarios que empiezan con Zapier acaban migrando a Make o n8n cuando:
+Zapier es el mejor punto de entrada para la automatización con IA porque su interfaz es la mas intuitiva y su biblioteca de integraciones es la mas amplia. Sin embargo, la mayoria de usuarios que empiezan con Zapier acaban migrando a Make o n8n cuando:
 
 - Los costes de Zapier se vuelven significativos para su volumen
-- Necesitan logica condicional compleja que Zapier no soporta bien
-- Quieren mas control sobre el flujo de datos y la gestion de errores
+- Necesitan lógica condicional compleja que Zapier no soporta bien
+- Quieren mas control sobre el flujo de datos y la gestión de errores
 
 La buena noticia: aprender Zapier es el mejor entrenamiento para aprender Make despues. Los conceptos son los mismos, la interfaz de Make es algo mas compleja pero mucho mas potente.
 ## Comparativa de automatizaciones Zapier más útiles para negocios

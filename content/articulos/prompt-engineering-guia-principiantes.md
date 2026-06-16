@@ -46,7 +46,7 @@ El formato específico es la diferencia entre recibir un ensayo de 800 palabras 
 
 "Actúa como un experto en marketing digital con 10 años de experiencia trabajando con pymes españolas..."
 
-Esto hace que la IA ajuste su tono, vocabulario y enfoque. Cuando especificas el rol, la respuesta tiene más matices relevantes para ese contexto concreto.
+Esto hace que la IA ajuste su tono, vocabulario y enfoque. Cuando específicas el rol, la respuesta tiene más matices relevantes para ese contexto concreto.
 
 ### 3. Da contexto sobre ti y tu audiencia
 

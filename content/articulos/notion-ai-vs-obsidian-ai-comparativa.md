@@ -93,7 +93,7 @@ Mi consejo: prueba Notion gratis durante dos semanas y Obsidian otras dos. Ambos
 
 ## Como configurar Obsidian con IA paso a paso
 
-Si decides probar Obsidian con IA, aqui va la configuracion minima para empezar a ver resultados:
+Si decides probar Obsidian con IA, aquí va la configuración minima para empezar a ver resultados:
 
 ### Paso 1: Instalar Obsidian
 
@@ -101,9 +101,9 @@ Descarga Obsidian desde obsidian.md. Es completamente gratis para uso personal. 
 
 ### Paso 2: Instalar el plugin Smart Connections
 
-Smart Connections es el plugin de IA mas util para empezar. Lo encuentras en Configuracion de Obsidian > Plugins de la comunidad > Buscar "Smart Connections".
+Smart Connections es el plugin de IA mas útil para empezar. Lo encuentras en Configuracion de Obsidian > Plugins de la comunidad > Buscar "Smart Connections".
 
-Este plugin analiza todas tus notas y encuentra conexiones semanticas entre ellas. Si escribes una nota sobre productividad y tienes otra sobre gestion del tiempo, Smart Connections las conecta aunque no hayas usado etiquetas ni enlaces manuales.
+Este plugin analiza todas tus notas y encuentra conexiones semanticas entre ellas. Si escribes una nota sobre productividad y tienes otra sobre gestión del tiempo, Smart Connections las conecta aunque no hayas usado etiquetas ni enlaces manuales.
 
 ### Paso 3: Configurar una API key
 
@@ -113,17 +113,17 @@ Alternativamente, puedes usar modelos locales con Ollama (completamente gratis, 
 
 ### Paso 4: Empezar a chatear con tus notas
 
-Una vez configurado, abre el panel de Smart Connections y empieza a hacer preguntas sobre tu propia base de conocimiento: que notas tengo sobre gestion del tiempo, resume mis ideas sobre productividad, que conexiones hay entre mis notas de marketing y mis notas de psicologia.
+Una vez configurado, abre el panel de Smart Connections y empieza a hacer preguntas sobre tu propia base de conocimiento: que notas tengo sobre gestión del tiempo, resume mis ideas sobre productividad, que conexiones hay entre mis notas de marketing y mis notas de psicologia.
 
 ## Notion AI vs Obsidian: el veredicto por perfil
 
-La eleccion entre Notion AI y Obsidian con plugins depende mas de tu forma de trabajar que de las capacidades tecnicas de cada herramienta.
+La eleccion entre Notion AI y Obsidian con plugins depende mas de tu forma de trabajar que de las capacidades técnicas de cada herramienta.
 
 **Notion AI es mejor si:**
-- Trabajas en equipo y necesitas colaboracion en tiempo real
+- Trabajas en equipo y necesitas colaboración en tiempo real
 - Prefieres una herramienta que funcione sin configuracion
-- Tu organizacion ya usa Notion para otros procesos
-- La interfaz visual y la gestion de bases de datos es importante para ti
+- Tu organización ya usa Notion para otros procesos
+- La interfaz visual y la gestión de bases de datos es importante para ti
 
 **Obsidian con IA es mejor si:**
 - La privacidad de tus datos es una prioridad no negociable
@@ -137,11 +137,11 @@ La eleccion entre Notion AI y Obsidian con plugins depende mas de tu forma de tr
 
 Si tuvieras que resumir la diferencia en una sola frase:
 
-Notion AI es para el presente: es excelente gestionando informacion actual y colaborando con otros en tiempo real.
+Notion AI es para el presente: es excelente gestionando información actual y colaborando con otros en tiempo real.
 
 Obsidian con IA es para el futuro: construyes una base de conocimiento que se vuelve mas valiosa con el tiempo, porque las conexiones entre ideas se acumulan y se vuelven mas ricas.
 
-Para la mayoria de profesionales, la decision practica es empezar con Notion AI (mas facil de adoptar) y migrar a Obsidian si con el tiempo sientes que necesitas mas control y profundidad.
+Para la mayoria de profesionales, la decisión práctica es empezar con Notion AI (mas fácil de adoptar) y migrar a Obsidian si con el tiempo sientes que necesitas mas control y profundidad.
 
 ![Aplicación de toma de notas en portátil](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=800&q=80)
 *Notion AI genera contenido, resume páginas y responde preguntas sobre tu base de conocimiento.*

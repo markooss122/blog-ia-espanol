@@ -93,9 +93,9 @@ La IA es una herramienta increíble para los estudiantes, pero como cualquier he
 
 El objetivo no es terminar los deberes más rápido. Es aprender más y mejor. La IA puede ayudarte con eso si la usas de forma inteligente.
 
-## Herramientas especificas por asignatura
+## Herramientas específicas por asignatura
 
-No todas las herramientas de IA son igual de utiles para todas las materias. Aqui van las combinaciones que mejor funcionan.
+No todas las herramientas de IA son igual de útiles para todas las materias. Aqui van las combinaciones que mejor funcionan.
 
 ### Matematicas y ciencias
 
@@ -111,13 +111,13 @@ Aqui la IA brilla especialmente para dar contexto. En lugar de memorizar fechas,
 
 Ejemplo util: "Explica la Primera Guerra Mundial como si fuera una serie de Netflix: los personajes principales, sus motivaciones, los conflictos entre ellos y el giro de trama final."
 
-Este tipo de narrativa hace que la informacion sea mucho mas memorable.
+Este tipo de narrativa hace que la información sea mucho mas memorable.
 
 ### Idiomas
 
-Practicar conversacion con ChatGPT o Claude en el idioma que estudias es una de las aplicaciones mas valiosas. Puedes pedirle que corrija tus errores, que use solo vocabulario de nivel B2, o que simule una situacion concreta como una entrevista de trabajo o una reserva en un restaurante.
+Practicar conversación con ChatGPT o Claude en el idioma que estudias es una de las aplicaciones mas valiosas. Puedes pedirle que corrija tus errores, que use solo vocabulario de nivel B2, o que simule una situacion concreta como una entrevista de trabajo o una reserva en un restaurante.
 
-**Un truco especialmente util:** escribe un parrafo en el idioma que estudias y pidele que lo corrija senaLando cada error con una explicacion de la regla que has violado. Aprendes mas de tus propios errores que de ejercicios genericos.
+**Un truco especialmente util:** escribe un parrafo en el idioma que estudias y pidele que lo corrija senaLando cada error con una explicación de la regla que has violado. Aprendes mas de tus propios errores que de ejercicios genericos.
 
 ### Literatura y humanidades
 

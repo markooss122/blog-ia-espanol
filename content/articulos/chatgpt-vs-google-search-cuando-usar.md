@@ -107,39 +107,39 @@ La teoria esta bien, pero los flujos concretos son lo que cambia habitos. Aqui v
 1. Google: busco el tema principal y leo los 3-5 resultados mejor posicionados para entender que ya existe
 2. ChatGPT: le pego los titulos y resumenes y le pido que identifique angulos que nadie ha cubierto aun
 3. Perplexity: verifico datos y estadisticas concretas que quiero incluir, con fuentes
-4. Claude: redacto el borrador con toda esa informacion ya digerida
+4. Claude: redacto el borrador con toda esa información ya digerida
 
 Este flujo me tarda 45 minutos en lugar de las 2 horas que tardaba sin IA.
 
-### Tomar una decision de compra tecnica
+### Tomar una decisión de compra tecnica
 
 1. Google: busco reviews recientes del producto con la fecha en el titulo para asegurarme que son actuales
-2. ChatGPT: le paso las especificaciones de las opciones que he identificado y le pido una comparativa segun mis necesidades concretas
+2. ChatGPT: le paso las especificaciones de las opciones que he identificado y le pido una comparativa según mis necesidades concretas
 3. Google: verifico el precio actual y disponibilidad antes de comprar
 
 ### Aprender algo nuevo
 
 1. ChatGPT: le pido que me explique el concepto desde cero, con analogias, como si tuviera 15 anos
 2. Google: busco documentacion oficial o recursos recomendados para profundizar
-3. ChatGPT: vuelvo con dudas especificas que han surgido durante la lectura
+3. ChatGPT: vuelvo con dudas específicas que han surgido durante la lectura
 
 ### Resolver un problema tecnico
 
 1. Google: busco el error exacto en Stack Overflow o GitHub Issues para ver si alguien ya lo ha resuelto
-2. ChatGPT: si no encuentro solucion directa, le explico el problema con el codigo y el mensaje de error
-3. Google: verifico que la solucion propuesta por la IA es una practica aceptada y no un hack que causara problemas despues
+2. ChatGPT: si no encuentro solución directa, le explico el problema con el codigo y el mensaje de error
+3. Google: verifico que la solución propuesta por la IA es una práctica aceptada y no un hack que causara problemas despues
 
 ## Cuando la IA falla y Google salva la situacion
 
 Hay casos donde confiar en la IA puede salir caro:
 
-**Informacion juridica y medica:** Los modelos de IA pueden dar informacion plausible pero incorrecta o desactualizada en estos campos. Siempre contrasta con fuentes oficiales o profesionales.
+**Informacion juridica y medica:** Los modelos de IA pueden dar información plausible pero incorrecta o desactualizada en estos campos. Siempre contrasta con fuentes oficiales o profesionales.
 
-**Datos de empresas especificas:** Precios, horarios, disponibilidad, contacto. La IA no tiene acceso a esta informacion en tiempo real. Google Maps o la web oficial siempre.
+**Datos de empresas especificas:** Precios, horarios, disponibilidad, contacto. La IA no tiene acceso a esta información en tiempo real. Google Maps o la web oficial siempre.
 
-**Noticias de las ultimas horas:** Aunque modelos como GPT-4o y Claude tienen acceso a busqueda web, su latencia de actualizacion no compite con Google News.
+**Noticias de las ultimas horas:** Aunque modelos como GPT-4o y Claude tienen acceso a busqueda web, su latencia de actualización no compite con Google News.
 
-**Contenido muy de nicho:** Si buscas informacion sobre un tema muy especifico o local, Google indexa contenido que los modelos de IA no conocen.
+**Contenido muy de nicho:** Si buscas información sobre un tema muy específico o local, Google indexa contenido que los modelos de IA no conocen.
 
 ## El error mas caro: no verificar lo que dice la IA
 
@@ -151,7 +151,7 @@ La regla de oro: si el dato importa, verificalo en Google o en la fuente origina
 
 ## Resumen ejecutivo
 
-Usa Google para encontrar, verificar y acceder a informacion actual y especifica. Usa ChatGPT o Claude para crear, analizar, resumir y transformar. La combinacion de ambas herramientas es mas potente que cualquiera por separado, y los usuarios que dominan este flujo tienen una ventaja real de productividad sobre los que usan solo una.
+Usa Google para encontrar, verificar y acceder a información actual y especifica. Usa ChatGPT o Claude para crear, analizar, resumir y transformar. La combinacion de ambas herramientas es mas potente que cualquiera por separado, y los usuarios que dominan este flujo tienen una ventaja real de productividad sobre los que usan solo una.
 
 ![Búsqueda en Google en pantalla de ordenador](https://images.unsplash.com/photo-1614624532983-4ce03382d63d?auto=format&fit=crop&w=800&q=80)
 *Google sigue siendo insuperable para buscar información actual y local con fuentes verificables.*

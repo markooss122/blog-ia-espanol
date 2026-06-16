@@ -87,7 +87,7 @@ Después de ver cómo usan ChatGPT muchas personas de mi entorno, estos son los 
 
 Más allá de redactar emails y resumir textos, ChatGPT tiene usos que me han sorprendido genuinamente:
 
-**Preparar entrevistas de trabajo.** Pídele que haga de entrevistador para el puesto al que aspiras y practica tus respuestas. Luego pídele feedback específico sobre cada respuesta. Es como tener un preparador de entrevistas gratuito disponible a las 2 de la mañana.
+**Preparar entrevistas de trabajo.** Pídele que haga de entrevistador para el puesto al que aspiras y práctica tus respuestas. Luego pídele feedback específico sobre cada respuesta. Es como tener un preparador de entrevistas gratuito disponible a las 2 de la mañana.
 
 **Aprender idiomas.** Conversa con ChatGPT en el idioma que quieres aprender. Pídele que corrija tus errores y te explique las reglas gramaticales que estás violando. Para vocabulario específico de tu sector profesional, es particularmente útil.
 
@@ -103,7 +103,7 @@ Esta es, en mi opinión, la función más infrautilizada de ChatGPT. La encuentr
 
 En el primer campo ("Qué quieres que ChatGPT sepa sobre ti") escribe tu contexto profesional: quién eres, qué haces, para qué audiencia trabajas, en qué sectores tienes experiencia. Yo tengo algo así como: "Trabajo en comunicación digital, mis lectores son profesionales hispanohablantes que quieren entender la IA sin tecnicismos, necesito que los ejemplos sean aplicables al día a día."
 
-En el segundo campo ("Cómo quieres que responda ChatGPT") especifica tus preferencias: "Responde siempre en español. Sé directo y conciso. Evita frases de relleno. Cuando no sepas algo con certeza, dilo explícitamente en lugar de inventar."
+En el segundo campo ("Cómo quieres que responda ChatGPT") específica tus preferencias: "Responde siempre en español. Sé directo y conciso. Evita frases de relleno. Cuando no sepas algo con certeza, dilo explícitamente en lugar de inventar."
 
 Con estas instrucciones configuradas, cada conversación nueva empieza con ese contexto ya cargado. Es un cambio de nivel enorme en la calidad de las respuestas.
 
@@ -113,7 +113,7 @@ Algunos consejos para sacarle el máximo partido en español:
 
 **Para mejorar tu escritura:** El prompt más efectivo no es "corrige este texto" sino "revisa este texto, corrige los errores y explica cada cambio que hagas con la regla gramatical correspondiente". Aprendes activamente en lugar de solo recibir una corrección pasiva.
 
-**Para traducciones con matices:** Cuando necesitas una traducción que vaya más allá de lo literal, especifica el registro y la variante regional: "Traduce este texto al español de España, registro formal-profesional, usando terminología jurídica española estándar, evitando latinismos innecesarios."
+**Para traducciones con matices:** Cuando necesitas una traducción que vaya más allá de lo literal, específica el registro y la variante regional: "Traduce este texto al español de España, registro formal-profesional, usando terminología jurídica española estándar, evitando latinismos innecesarios."
 
 **Para presentaciones:** Da a ChatGPT el tema, la audiencia, el tiempo disponible y el objetivo principal. Pide primero la estructura con los puntos clave de cada sección, luego desarrolla cada sección por separado, y finalmente pide que revise las transiciones. Este proceso produce presentaciones mucho más sólidas que intentar escribirlas de golpe.
 

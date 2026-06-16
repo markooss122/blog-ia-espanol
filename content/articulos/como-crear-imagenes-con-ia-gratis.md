@@ -142,9 +142,9 @@ Ser honesto sobre las limitaciones ahorra tiempo y frustracion.
 
 ### Numero de generaciones diarias
 
-Bing Image Creator tiene un sistema de creditos que se recargan. Los primeros creditos son rapidos (15-30 segundos por generacion) y despues la velocidad baja significativamente. Leonardo AI tiene 150 creditos diarios que se regeneran cada 24 horas.
+Bing Image Creator tiene un sistema de creditos que se recargan. Los primeros creditos son rápidos (15-30 segundos por generacion) y despues la velocidad baja significativamente. Leonardo AI tiene 150 creditos diarios que se regeneran cada 24 horas.
 
-Para uso casual y puntual, estos limites son mas que suficientes. Para produccion diaria de contenido, necesitaras un plan de pago.
+Para uso casual y puntual, estos limites son mas que suficientes. Para producción diaria de contenido, necesitaras un plan de pago.
 
 ### Resolucion y formato de descarga
 

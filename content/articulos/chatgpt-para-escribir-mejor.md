@@ -170,7 +170,7 @@ Cuando tienes que escribir un email delicado (pedir un aumento, rechazar a un ca
 
 Tienes apuntes desordenados de una reunion o una sesion de investigacion y necesitas convertirlos en algo legible:
 
-"Tengo estas notas desordenadas de [contexto]. ConviertelAS en [formato deseado: informe, resumen ejecutivo, lista de tareas, etc.] manteniendo toda la informacion importante pero con estructura clara. Notas: [tus notas]"
+"Tengo estas notas desordenadas de [contexto]. ConviertelAS en [formato deseado: informe, resumen ejecutivo, lista de tareas, etc.] manteniendo toda la información importante pero con estructura clara. Notas: [tus notas]"
 
 ### Para mejorar un texto existente sin perder la voz
 
@@ -182,7 +182,7 @@ El mayor riesgo de usar IA para editar es que el texto resultante pierda tu pers
 
 Antes de empezar cualquier proyecto de escritura, da y pide la estructura:
 
-"Voy a escribir [descripcion del proyecto]. La audiencia objetivo es [audiencia]. El objetivo principal es [objetivo]. La longitud aproximada es [longitud]. Dame una estructura detallada con los apartados principales, los puntos clave de cada apartado y el orden logico que recomiendas."
+"Voy a escribir [descripcion del proyecto]. La audiencia objetivo es [audiencia]. El objetivo principal es [objetivo]. La longitud aproximada es [longitud]. Dame una estructura detallada con los apartados principales, los puntos clave de cada apartado y el orden lógico que recomiendas."
 
 ## Los limites reales de la IA para escritura
 
@@ -192,7 +192,7 @@ Usar IA para escribir mejor no significa que la IA lo haga todo. Estos son los l
 
 ChatGPT y Claude pueden imitar estilos, pero no tienen tu experiencia, tu perspectiva ni tu contexto personal. Los mejores textos escritos con IA son aquellos donde el humano aporta la idea central, los ejemplos propios y la perspectiva unica, y la IA ayuda con la estructura, la claridad y la correccion.
 
-Si delegas completamente la escritura a la IA, el resultado sera correcto pero generico. Funciona para emails de tramite pero no para contenido que construye autoridad o conexion con lectores.
+Si delegas completamente la escritura a la IA, el resultado sera correcto pero generico. Funciona para emails de tramite pero no para contenido que construye autoridad o conexión con lectores.
 
 ### Los hechos necesitan verificacion
 

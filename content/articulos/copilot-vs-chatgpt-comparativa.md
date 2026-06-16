@@ -74,7 +74,7 @@ No son rivales directos en la práctica. Copilot está especializado en hacer qu
 
 ## Casos de uso reales donde Copilot gana a ChatGPT
 
-La teoria es util, pero los casos concretos son los que realmente ayudan a decidir. Aqui van situaciones del dia a dia donde Copilot tiene una ventaja clara.
+La teoria es util, pero los casos concretos son los que realmente ayudan a decidir. Aqui van situaciones del día a día donde Copilot tiene una ventaja clara.
 
 ### Redactar propuestas comerciales en Word
 
@@ -84,7 +84,7 @@ Con ChatGPT podrias hacer lo mismo pero tendrias que copiar y pegar el resultado
 
 ### Analizar datos en Excel con lenguaje natural
 
-Esta es la funcion mas impresionante de Copilot en la practica. Tienes una hoja de calculo con 500 filas de datos de ventas y preguntas en lenguaje natural: cuales son los 5 productos con mayor margen, como han evolucionado las ventas por region en el ultimo trimestre, existe alguna correlacion entre precio y volumen.
+Esta es la función mas impresionante de Copilot en la practica. Tienes una hoja de calculo con 500 filas de datos de ventas y preguntas en lenguaje natural: cuales son los 5 productos con mayor margen, como han evolucionado las ventas por region en el ultimo trimestre, existe alguna correlacion entre precio y volumen.
 
 Copilot genera los calculos, las tablas dinAmicas y los graficos automaticamente. Sin formulas, sin Python, sin esperar a que el equipo de datos te ayude.
 
@@ -92,7 +92,7 @@ Copilot genera los calculos, las tablas dinAmicas y los graficos automaticamente
 
 Un proyecto con 47 emails en el mismo hilo durante tres semanas. Copilot lo resume en 5 puntos clave en 10 segundos: cuales son los acuerdos alcanzados, que puntos siguen sin resolver y quien debe tomar accion.
 
-Para gestores de proyecto o cualquier persona que maneje mucha comunicacion por email, esta funcion sola puede justificar el coste de Copilot Pro.
+Para gestores de proyecto o cualquier persona que maneje mucha comunicación por email, esta función sola puede justificar el coste de Copilot Pro.
 
 ### Generar actas de reunion en Teams
 
@@ -114,7 +114,7 @@ A pesar de las ventajas de Copilot en el entorno Office, hay areas donde ChatGPT
 
 ## El veredicto final por perfil de usuario
 
-Si trabajas en una empresa que usa Microsoft 365 y tu dia a dia implica Word, Excel, Teams y Outlook, Copilot Pro a 22 euros al mes es probablemente la mejor inversion en productividad que puedes hacer. El retorno en tiempo ahorrado es rapido y medible.
+Si trabajas en una empresa que usa Microsoft 365 y tu día a día implica Word, Excel, Teams y Outlook, Copilot Pro a 22 euros al mes es probablemente la mejor inversión en productividad que puedes hacer. El retorno en tiempo ahorrado es rápido y medible.
 
 Si eres freelance, estudiante o tu trabajo no gira alrededor de Office, ChatGPT Plus ofrece mas versatilidad al mismo precio. Puedes generar imagenes, usar GPTs especializados y conectar con mas herramientas externas.
 

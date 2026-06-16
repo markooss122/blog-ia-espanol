@@ -122,9 +122,9 @@ Si produces contenido en audio o vídeo regularmente, la inversión en una herra
 
 La precision de cualquier herramienta de transcripcion depende directamente de la calidad del audio. Estas son las mejoras que mas impacto tienen.
 
-### Configuracion basica del microfono
+### Configuracion básica del microfono
 
-El microfono del ordenador integrado es el peor punto de partida. Incluso un microfono USB basico de 30-40 euros mejora la precision de transcripcion en un 20-30% en condiciones normales de oficina.
+El microfono del ordenador integrado es el peor punto de partida. Incluso un microfono USB básico de 30-40 euros mejora la precision de transcripcion en un 20-30% en condiciones normales de oficina.
 
 Si no quieres invertir en microfono externo, grabar desde el movil con la aplicacion de notas de voz y mantenerlo a 20-30 centimetros de la boca produce resultados significativamente mejores que el microfono integrado del portatil.
 
@@ -150,7 +150,7 @@ La transcripcion diferida (cargar el audio o video despues de grabar) produce me
 
 Una de las aplicaciones menos conocidas de Whisper es transcribir videos de YouTube para crear articulos de blog, resumenes de contenido o notas de estudio.
 
-Con herramientas como Yt-dlp (gratuita, de codigo abierto) puedes descargar el audio de cualquier video de YouTube y pasarlo a Whisper para obtener la transcripcion completa. Este flujo es especialmente util para:
+Con herramientas como Yt-dlp (gratuita, de codigo abierto) puedes descargar el audio de cualquier video de YouTube y pasarlo a Whisper para obtener la transcripcion completa. Este flujo es especialmente útil para:
 
 Crear resumenes escritos de charlas TED, tutoriales o conferencias de tu sector. La transcripcion tarda 2-3 minutos para un video de una hora.
 
@@ -160,7 +160,7 @@ Convertir podcasts en articulos escritos. Muchos creadores de contenido graban p
 
 ## Privacidad y datos: lo que debes saber
 
-Si las conversaciones que transcribes contienen informacion confidencial (reuniones de negocios con datos de clientes, entrevistas medicas, sesiones legales), la eleccion de la herramienta de transcripcion tiene implicaciones de privacidad importantes.
+Si las conversaciones que transcribes contienen información confidencial (reuniones de negocios con datos de clientes, entrevistas medicas, sesiones legales), la eleccion de la herramienta de transcripcion tiene implicaciones de privacidad importantes.
 
 Herramientas cloud como Otter.ai o Fireflies.ai procesan el audio en sus servidores. Aunque tienen politicas de privacidad que protegen tus datos, el audio sale de tu infraestructura.
 
