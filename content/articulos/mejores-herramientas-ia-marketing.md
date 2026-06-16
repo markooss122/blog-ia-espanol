@@ -7,6 +7,10 @@ date: "2026-06-04"
 category: "Herramientas"
 ---
 
+Trabajo en el ámbito del marketing de contenidos, y la cantidad de herramientas de IA que han aparecido en los últimos dos años es abrumadora. He probado muchísimas, gastado dinero en algunas que no valían la pena y encontrado unas pocas que se han vuelto imprescindibles. Esta lista es el resultado de esa criba.
+
+No incluyo todas las herramientas que existen — incluyo las que de verdad usaría y recomendaría, con sus precios reales y para qué sirve cada una.
+
 ## IA y marketing: la combinación que está redefiniendo el sector
 
 El marketing digital ha cambiado más en los últimos dos años que en la década anterior, y la inteligencia artificial es la razón principal. Las herramientas de IA permiten hacer en horas lo que antes llevaba semanas, y con una personalización imposible de lograr manualmente.

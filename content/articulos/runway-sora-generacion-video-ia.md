@@ -7,6 +7,10 @@ date: "2026-05-16"
 category: "Comparativas"
 ---
 
+La primera vez que generé un clip de vídeo con IA, en 2024, el resultado daba risa: caras deformes, movimientos imposibles, objetos que aparecían y desaparecían. Lo dejé por imposible. Cuando volví a probarlo a principios de 2026, me costó creer el salto: clips coherentes, movimiento fluido, escenas que parecían rodadas de verdad.
+
+Esta comparativa está basada en probar las herramientas principales con los mismos prompts. Te digo cuál usar según lo que necesites y, sobre todo, qué esperar de forma realista.
+
 ## El vídeo generado con IA ha llegado a un punto de inflexión
 
 En 2024, los vídeos generados con IA eran fácilmente identificables por sus artefactos visuales, movimientos erráticos y duración limitada. En 2026, los mejores sistemas generan clips de hasta 2 minutos con coherencia visual y movimiento fluido que se acercan a la calidad de producción profesional.

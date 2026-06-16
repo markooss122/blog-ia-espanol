@@ -6,6 +6,10 @@ description: "Guía completa sobre los GPTs personalizados de ChatGPT: qué son,
 date: "2026-06-02"
 category: "Herramientas"
 ---
+Confieso que al principio ignoré los GPTs. Pensaba que eran un truco de marketing de OpenAI. Me equivoqué a medias: la mayoría de los 3 millones de GPTs que hay son efectivamente inútiles, pero los buenos —que son unos cientos— me ahorran escribir el mismo prompt largo una y otra vez. Tengo cuatro o cinco que uso casi a diario.
+
+Esta guía separa el grano de la paja: los GPTs que de verdad merecen la pena y cómo crear el tuyo propio.
+
 ## Qué son los GPTs de ChatGPT
 
 Los GPTs son versiones personalizadas de ChatGPT optimizadas para tareas específicas. Tienen instrucciones, conocimiento y comportamiento predefinidos para un caso de uso concreto. En lugar de escribir un prompt largo cada vez, simplemente abres el GPT adecuado y ya sabe qué hacer.

@@ -7,6 +7,10 @@ date: "2026-04-30"
 category: "Automatización"
 ---
 
+Durante años gestioné proyectos con hojas de cálculo que se convertían en monstruos imposibles de mantener. Cuando descubrí Airtable, fue un alivio: por fin algo a medio camino entre Excel y una base de datos de verdad, sin necesidad de saber programar. Con la IA integrada que han ido añadiendo, se ha vuelto una herramienta de automatización seria.
+
+Esta guía recoge cómo usar las funciones de IA de Airtable con ejemplos de flujos reales que aportan valor desde el primer día.
+
 ## Airtable: la base de datos que cualquiera puede usar
 
 Airtable ocupa un espacio único entre las hojas de cálculo y las bases de datos tradicionales. Es suficientemente visual y flexible para que cualquiera lo use sin saber programar, pero suficientemente potente para gestionar proyectos complejos con miles de registros.
