@@ -18,7 +18,7 @@ He usado ambos a diario durante más de un año para escribir artículos, analiz
 
 **ChatGPT** es el asistente de OpenAI. Usa GPT-4o en el plan gratuito y tiene acceso a modelos más avanzados con Plus (20€/mes). Es el más usado del mundo con diferencia: más de 200 millones de usuarios activos en 2026.
 
-**Claude** es el asistente de Anthropic. En 2026, Claude 3.7 Sonnet es el modelo gratuito y Claude Opus para el plan Pro (20€/mes). Anthropic se fundó con un enfoque explícito en seguridad y alineación de la IA.
+**Claude** es el asistente de Anthropic. En 2026, su gama incluye Claude Sonnet (el modelo equilibrado, disponible en el plan gratuito con límites) y Claude Opus (el más capaz, en el plan Pro a 20€/mes). Anthropic se fundó con un enfoque explícito en seguridad y alineación de la IA.
 
 Ambos cuestan lo mismo en plan de pago. Esa igualdad hace la elección más interesante.
 

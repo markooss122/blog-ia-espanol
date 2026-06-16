@@ -13,7 +13,7 @@ Esta comparativa es honesta sobre ambas cosas: dónde Grok brilla de verdad y d�
 
 ## Grok en 2026: ya no es solo el IA de Twitter
 
-Cuando xAI lanzó Grok en 2023, era principalmente un experimento — un chatbot con acceso a los datos de Twitter/X y un tono más directo y sin filtros que sus competidores. En 2026, Grok 3 es un modelo de IA serio que compite directamente con GPT-4o y Claude Sonnet en benchmarks de razonamiento y codificación.
+Cuando xAI lanzó Grok en 2023, era principalmente un experimento — un chatbot con acceso a los datos de Twitter/X y un tono más directo y sin filtros que sus competidores. En 2026, Grok se ha convertido en un modelo de IA serio que compite directamente con GPT-4o y Claude Sonnet en tareas de razonamiento y codificación.
 
 La pregunta ya no es si Grok es "bueno" — lo es. La pregunta es para qué casos es mejor que las alternativas.
 
@@ -24,7 +24,7 @@ La pregunta ya no es si Grok es "bueno" — lo es. La pregunta es para qué caso
 
 Grok es el asistente de IA desarrollado por xAI, la empresa de inteligencia artificial fundada por Elon Musk en 2023. A diferencia de Anthropic (fundada por ex-empleados de OpenAI preocupados por la seguridad) o Google DeepMind, xAI tiene un enfoque más pragmático y menos restrictivo en sus políticas de contenido.
 
-**Modelo actual:** Grok 3, lanzado en febrero 2025, con capacidades multimodales y ventana de contexto de 128.000 tokens.
+**Capacidades:** las versiones recientes de Grok son multimodales (procesan texto e imágenes) y ofrecen una ventana de contexto amplia, comparable a la de sus principales competidores.
 
 ## Acceso y precios
 
@@ -39,11 +39,11 @@ La principal diferencia con ChatGPT: Grok está integrado en X/Twitter. Si ya pa
 
 ## Comparativa directa: Grok vs ChatGPT
 
-| Característica | Grok 3 | ChatGPT (GPT-4o) |
+| Característica | Grok | ChatGPT (GPT-4o) |
 |---|---|---|
 | Empresa | xAI (Elon Musk) | OpenAI |
-| Modelo base | Grok 3 | GPT-4o |
-| Contexto | 128K tokens | 128K tokens |
+| Modelo base | Grok (versión actual) | GPT-4o |
+| Contexto | Amplio | 128K tokens |
 | Acceso a internet | Sí (tiempo real via X) | Sí (búsqueda web) |
 | Datos de Twitter/X | Sí, en tiempo real | No |
 | Generación de imágenes | Aurora (propia) | DALL-E 3 |
