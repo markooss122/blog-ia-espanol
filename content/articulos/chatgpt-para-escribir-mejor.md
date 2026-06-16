@@ -7,6 +7,10 @@ date: "2026-05-16"
 category: "Tutoriales"
 ---
 
+Escribo profesionalmente desde hace años, y confieso que al principio fui escéptico con la idea de usar IA para escribir. Me sonaba a hacer trampa, o a producir textos sin alma. Me equivocaba — pero solo en parte.
+
+La clave que aprendí es esta: ChatGPT no escribe por ti, escribe contigo. Cuando lo uso para superar un bloqueo, generar opciones de estructura o pulir un párrafo torpe, mi productividad se dispara. Cuando intento que escriba el artículo entero, el resultado es correcto pero vacío. Estas 10 técnicas son las que de verdad funcionan, con los prompts exactos que uso.
+
 ## ChatGPT como tu asistente de escritura personal
 
 Escribir bien es una habilidad que requiere práctica, pero también herramientas. ChatGPT puede actuar como un editor, un coautor o simplemente como una fuente de ideas cuando no sabes por dónde empezar.

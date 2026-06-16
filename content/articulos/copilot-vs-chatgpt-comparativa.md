@@ -7,6 +7,10 @@ date: "2026-05-22"
 category: "Comparativas"
 ---
 
+En una consultoría que asesoré el año pasado, el equipo estaba dividido: la mitad pagaba ChatGPT Plus de su bolsillo y la otra mitad quería que la empresa pagara Copilot. Acabamos haciendo una prueba de un mes con ambos. El resultado fue revelador y es la base de esta comparativa: no compiten por lo mismo.
+
+Si trabajas en Office todo el día, la conclusión te va a interesar.
+
 ## Copilot vs ChatGPT: la batalla por la productividad empresarial
 
 Microsoft Copilot y ChatGPT comparten el mismo motor subyacente (GPT-4o), pero están diseñados para contextos muy diferentes. ChatGPT es una herramienta general; Copilot está optimizado para el entorno de trabajo de Microsoft 365.

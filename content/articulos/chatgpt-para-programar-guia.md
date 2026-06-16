@@ -7,6 +7,10 @@ date: "2026-05-21"
 category: "Tutoriales"
 ---
 
+Llevo programando desde antes de que existieran estos asistentes, y la transición ha sido el cambio más grande en mi flujo de trabajo en una década. No exagero: la primera vez que usé Copilot para generar el boilerplate de un endpoint que habría tardado 20 minutos en escribir a mano, y lo tuve listo y correcto en 30 segundos, supe que no había marcha atrás.
+
+Pero también he aprendido por las malas cuándo NO fiarme de la IA. Esta guía recoge ambas cosas: cómo sacarle el máximo partido y los errores que te van a costar tiempo si no los conoces.
+
 ## La IA ha cambiado cómo se programa
 
 En 2026, un programador que no usa IA está en desventaja competitiva. No es que no pueda hacer el trabajo, es que tarda el triple y se cansa más. Las tareas repetitivas, el boilerplate, la documentación y la depuración se hacen mucho más rápido con IA, liberando tiempo para diseño arquitectónico y resolución de problemas complejos.
@@ -115,3 +119,15 @@ La combinación que más productividad genera actualmente:
 3. **Claude** en el navegador para debugging complejo, diseño de arquitectura y aprendizaje
 
 Con este stack, un desarrollador individual puede producir al nivel de lo que antes requería un equipo pequeño para tareas de implementación estándar.
+
+## Preguntas frecuentes
+
+**¿La IA va a reemplazar a los programadores?** No en el horizonte previsible. Lo que hace la IA es eliminar el trabajo mecánico y repetitivo. El diseño de sistemas, las decisiones de arquitectura, entender qué necesita realmente el negocio y validar que el código funciona en producción siguen requiriendo un programador. La IA cambia el trabajo, no lo elimina.
+
+**¿Es seguro pegar código de mi empresa en ChatGPT?** Depende de la política de tu empresa y de la sensibilidad del código. Por defecto, las conversaciones pueden usarse para entrenamiento. Para código propietario, usa las versiones Enterprise con garantías de privacidad, o herramientas que se ejecuten localmente. Nunca pegues credenciales ni claves de API.
+
+**¿Qué lenguaje funciona mejor con IA?** Los lenguajes más populares (Python, JavaScript, TypeScript, Java) tienen mejores resultados porque hay más código de entrenamiento disponible. Para lenguajes de nicho o muy recientes, la IA comete más errores y a veces inventa funciones que no existen.
+
+**¿Copilot o Cursor para empezar?** Si ya usas VS Code y quieres algo sencillo, Copilot. Si trabajas en proyectos grandes con muchos archivos interconectados, Cursor. Mi recomendación: empieza con Copilot (más barato y simple) y prueba Cursor cuando notes que necesitas contexto de todo el proyecto.
+
+**¿Cómo evito volverme dependiente de la IA?** Pide siempre que te explique el código que genera, especialmente al principio. Si solo copias y pegas sin entender, perderás la capacidad de depurar cuando la IA se equivoque. Úsala como acelerador, no como sustituto de tu criterio.
