@@ -6,6 +6,10 @@ description: "Guía práctica para estudiantes sobre cómo usar ChatGPT, Claude 
 date: "2026-05-05"
 category: "Tutoriales"
 ---
+Una persona cercana, estudiante de segundo de carrera, me preguntó hace unos meses si usar ChatGPT para estudiar era hacer trampa. Mi respuesta la sorprendió: "Depende totalmente de cómo lo uses. Puedes usarlo para aprender el doble, o para no aprender nada y encima arriesgarte a que te pillen."
+
+Estuvimos una tarde montando un método de estudio con IA que de verdad funciona. Esos meses sacó sus mejores notas. Esta guía es básicamente lo que le enseñé.
+
 ## La IA y los estudios: el debate que todos tienen
 
 Muchos estudiantes tienen dudas: ¿puedo usar IA para estudiar? ¿Es trampa? ¿Me pillará el profesor?

@@ -7,6 +7,10 @@ date: "2026-05-26"
 category: "Tutoriales"
 ---
 
+No sé dibujar. Nunca he sabido. Durante años, cada vez que necesitaba una imagen para un proyecto, dependía de bancos de fotos genéricos o de pagar a un diseñador. La primera vez que generé exactamente la imagen que tenía en la cabeza escribiendo una frase en Bing Image Creator —gratis— me pareció casi magia.
+
+He probado todas las herramientas gratuitas que existen. Esta guía es el resumen de cuáles valen la pena de verdad y cómo escribir prompts que den buenos resultados sin gastar un euro.
+
 ## Crear imágenes con IA: ya no necesitas saber dibujar
 
 Hace cinco años, crear una ilustración profesional requería años de práctica o contratar a un diseñador. En 2026, cualquier persona puede generar imágenes de alta calidad en segundos describiendo lo que quiere en texto.

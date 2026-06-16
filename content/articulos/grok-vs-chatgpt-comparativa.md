@@ -7,6 +7,10 @@ date: "2026-04-26"
 category: "Comparativas"
 ---
 
+Confieso que ignoré Grok durante bastante tiempo. Lo tenía catalogado como "el chatbot de Elon para Twitter" y no le presté atención. Cuando por fin me senté a probarlo en serio, me sorprendió: para una cosa muy concreta —saber qué está pasando ahora mismo sobre un tema— no tiene rival. Para casi todo lo demás, sigo prefiriendo otras opciones.
+
+Esta comparativa es honesta sobre ambas cosas: dónde Grok brilla de verdad y dónde se queda corto.
+
 ## Grok en 2026: ya no es solo el IA de Twitter
 
 Cuando xAI lanzó Grok en 2023, era principalmente un experimento — un chatbot con acceso a los datos de Twitter/X y un tono más directo y sin filtros que sus competidores. En 2026, Grok 3 es un modelo de IA serio que compite directamente con GPT-4o y Claude Sonnet en benchmarks de razonamiento y codificación.

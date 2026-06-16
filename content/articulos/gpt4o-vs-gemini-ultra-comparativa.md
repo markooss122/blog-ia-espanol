@@ -7,6 +7,10 @@ date: "2026-05-30"
 category: "Comparativas"
 ---
 
+Durante un mes pagué los dos a la vez (sí, 42€ entre los dos) precisamente para escribir esta comparativa con datos reales y no con benchmarks copiados de otros sitios. Les pasé las mismas tareas, comparé los resultados lado a lado y anoté qué hacía mejor cada uno.
+
+El resultado me sorprendió en algunos puntos. Aquí está todo, sin marketing.
+
 ## Los dos titanes de la IA en 2026
 
 GPT-4o y Gemini Ultra representan lo mejor que OpenAI y Google pueden ofrecer hoy. Ambos son modelos multimodales — procesan texto, imágenes, audio y vídeo — pero tienen enfoques y fortalezas distintas.
