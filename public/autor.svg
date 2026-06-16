@@ -1,0 +1,37 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Retrato ilustrado de Marcos Alcega">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="160" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <clipPath id="circle">
+      <circle cx="80" cy="80" r="80"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#circle)">
+    <rect width="160" height="160" fill="url(#bg)"/>
+    <!-- Hombros / torso -->
+    <path d="M30 160c0-27 22-44 50-44s50 17 50 44v8H30z" fill="#1e3a8a"/>
+    <path d="M40 160c0-20 18-32 40-32s40 12 40 32v6H40z" fill="#2563eb"/>
+    <!-- Cuello -->
+    <rect x="68" y="96" width="24" height="26" rx="10" fill="#e8b890"/>
+    <!-- Cabeza -->
+    <circle cx="80" cy="72" r="30" fill="#f0c8a0"/>
+    <!-- Oreja -->
+    <circle cx="51" cy="74" r="6" fill="#e8b890"/>
+    <circle cx="109" cy="74" r="6" fill="#e8b890"/>
+    <!-- Pelo -->
+    <path d="M50 70c0-20 13-34 30-34s30 14 30 34c0-6-4-9-8-10-3 6-10 8-22 8s-19-2-22-8c-4 1-8 4-8 10z" fill="#3f2d23"/>
+    <path d="M50 72c-2-22 12-38 30-38s32 16 30 38c-2-9-6-13-9-14-2-3-8-6-21-6s-19 3-21 6c-3 1-7 5-9 14z" fill="#4a352a"/>
+    <!-- Cejas -->
+    <rect x="63" y="66" width="13" height="3.5" rx="1.75" fill="#3f2d23"/>
+    <rect x="84" y="66" width="13" height="3.5" rx="1.75" fill="#3f2d23"/>
+    <!-- Ojos -->
+    <circle cx="69" cy="74" r="3" fill="#3f2d23"/>
+    <circle cx="91" cy="74" r="3" fill="#3f2d23"/>
+    <!-- Nariz -->
+    <path d="M80 76v8l-3 3" stroke="#d6a883" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- Boca -->
+    <path d="M72 90c3 4 13 4 16 0" stroke="#b5765a" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

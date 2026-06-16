@@ -166,7 +166,7 @@ export default async function ArticlePage({ params }: Props) {
             {/* Autor con E-E-A-T */}
             <div className="mt-8 pt-6 border-t border-zinc-100">
               <div className="flex items-start gap-4 bg-zinc-50 rounded-xl p-4">
-                <div className="w-12 h-12 rounded-full bg-blue-600 flex items-center justify-center text-white text-base font-bold flex-shrink-0">MA</div>
+                <img src="/autor.svg" alt="Marcos Alcega, editor de PulsoIA" width={48} height={48} className="w-12 h-12 rounded-full flex-shrink-0 border border-zinc-200" />
                 <div className="flex-1">
                   <p className="text-sm font-semibold text-zinc-900">Marcos Alcega</p>
                   <p className="text-[11px] text-blue-600 font-medium mb-1">Editor y fundador de PulsoIA</p>

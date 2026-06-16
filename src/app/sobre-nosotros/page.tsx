@@ -22,7 +22,7 @@ export default function AboutPage() {
 
         {/* Autor principal con E-E-A-T */}
         <div className="not-prose bg-zinc-50 border border-zinc-200 rounded-xl p-5 mb-8 flex items-start gap-4">
-          <div className="w-14 h-14 rounded-full bg-blue-600 flex items-center justify-center text-white text-lg font-bold flex-shrink-0">MA</div>
+          <img src="/autor.svg" alt="Marcos Alcega, fundador de PulsoIA" width={56} height={56} className="w-14 h-14 rounded-full flex-shrink-0 border border-zinc-200" />
           <div>
             <p className="font-bold text-zinc-900 text-base">Marcos Alcega</p>
             <p className="text-sm text-blue-600 font-medium mb-2">Fundador y editor principal</p>
@@ -30,6 +30,9 @@ export default function AboutPage() {
               Especialista en herramientas de inteligencia artificial con más de 5 años analizando y probando tecnología digital. Fundador de PulsoIA en 2026, con experiencia previa en medios tecnológicos digitales y consultoría de transformación digital para pymes. Apasionado por acercar la IA al usuario hispanohablante de forma práctica y sin barreras.
             </p>
             <p className="text-xs text-zinc-400 mt-2">📧 <a href="mailto:pulsoiaes@gmail.com" className="text-blue-600 hover:underline">pulsoiaes@gmail.com</a></p>
+            <p className="text-xs text-zinc-500 mt-2">
+              Escríbeme también a través de la <a href="/contacto" className="text-blue-600 hover:underline">página de contacto</a>. Respondo personalmente a todos los mensajes.
+            </p>
           </div>
         </div>
 
