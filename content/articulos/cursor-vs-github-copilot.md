@@ -7,6 +7,12 @@ date: "2026-05-09"
 category: "Comparativas"
 ---
 
+Cuando empecé a usar Cursor hace unos meses, después de un año con GitHub Copilot, la primera semana fue frustrante. La interfaz era diferente, los atajos de teclado no eran los mismos, y algunas cosas que Copilot hacía automáticamente en Cursor requerían configuración.
+
+La segunda semana, hice una refactorización que habría tardado 3 horas con Copilot en 45 minutos. Desde entonces no he vuelto.
+
+Pero eso no significa que Cursor sea siempre mejor. Depende del tipo de trabajo que hagas. Esta comparativa está basada en uso real de ambas herramientas, no en benchmarks de laboratorio.
+
 ## La guerra de los editores de código con IA
 
 Hace dos años, GitHub Copilot era la única opción seria para programar con IA. En 2026, Cursor ha emergido como un competidor directo que muchos desarrolladores consideran superior para proyectos complejos.
